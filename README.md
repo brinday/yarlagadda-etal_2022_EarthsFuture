@@ -1,41 +1,60 @@
 [![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
 
-# metarepo
-Template repository for a single point of access meta-repository to reproduce an experiment
+# Yarlagadda et al. (2022) Trade integration and climate mitigation in LAC
 
-## Purpose
-A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility.  This repository should contain references to all minted data and software as well as house any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
 
-## Using the template
-Simply click `Use this template` on the main repository page (shows up to the left of `Clone or download`) and fill in your `Repository name`, the `Description`, select whether you want the repository to be `Public` or `Private`, and leave `Include all branches` unchecked.
+## Abstract
+The Latin America and the Caribbean (LAC) region plays a key dual role in meeting global agricultural demands and maintaining carbon sinks due to its abundant land and water resources. The future evolution of agricultural production and trade presents an important yet uncertain opportunity for the region, but could also pose economic or environmental challenges. In this study we use the Global Change Analysis Model (GCAM) to evaluate the impacts of two global-scale drivers: agricultural market integration and land-based climate mitigation policy. We evaluate their individual and combined impact on agricultural production and trade across LAC’s economies, as well as the resulting multi-sectoral impacts on producers, consumers, and integrated land-water-climate systems across water-economy regions sub-regions. Increased global market integration results in increased agricultural production and trade revenues for many LAC economies due to their comparative advantages that enable increased market share. Climate mitigation measures on CO2 and non-CO2 greenhouse gases increase revenues due to increased agricultural prices from land competition. The combined outcomes from both drivers are complex, and sometimes non-linear, highlighting the importance of understanding the interactions between multiple drivers. Despite increased agricultural production and trade opportunities, there are significant trade-offs that require careful multi-sectoral planning, such as potential loss of livestock production when pursuing land-based climate mitigation strategies, increased consumer agricultural expenditures, and extreme changes in land-use or water withdrawals, resulting in deforestation or water scarcity pressures and the resulting environmental impacts. There is considerable heterogeneity in economic and environmental outcomes across regions and agricultural commodities, illustrating the value of considering outcomes at finer scales.
 
-## Naming your meta-repository
-The following naming conventions should be used when naming your repository:  
-- Single author:  `lastname_year_journal`
-- Multi author:  `lastname-etal_year_journal`
-- Multiple publications in the same journal:  `lastname-etal_year-letter_journal` (e.g., `human-etal_2020-b_nature`)
+## Journal reference
+Yarlagadda, B., T. Wild, X. Zhao, L. Clarke, R. Cui, A. Birnbaum, and J. Lamontagne (under review). . Earth's Future.
 
-## Customize your `.gitignore` file
-A general `.gitignore` for use with Python or R development is included.  However, you may wish to customize this to the needs of your project.  The `.gitignore` file lets Git know what to push to the remote repository and what needs to be ignored and stay local.
+## Code reference
 
-## Suggestions
-- Don't bog down your repository with a bunch of raw data.  Instead archive and mint a DOI for your data and provide the reference in this repository with instructions for use.
-- Create complete and tested documentation for how to use what is in this repository to reproduce your experiment.
+Human, I.M. (2021, April 14). Project/repo:v0.1.0 (Version v0.1.0). Zenodo. http://doi.org/some-doi-number/zenodo.7777777
 
-## Creating a minted release for your meta-repository
-It is important to version and release your meta-repository as well due to changes that may occur during the publication review process.  If you do not know how to conduct a release on GitHub when linked with Zenodo, please contact chris.vernon@pnnl.gov to get set up.  
+## Data reference
 
-## The meta-repository markdown template
-A sample meta-repository template is provided in this repository in the file `metarepo_template.md`.  
+### Input data
+Reference for each minted data source for your input data.  For example:
 
-To use it, do the following:
-1. Create the template repository as mentioned above in [Using the template](#using-the-template)
-2. Clone your new repository to you local machine
-3. Change directories into your new meta-repository directory you just cloned
-4. Run `git rm README.md` to delete this file (`README.md`) and commit it using `git commit -m 'remove instructions'`
-5. Rename `metarepo_template.md` as `README.md`
-6. Run `git add README.md` to stage the new file that will show up on load in your remote GitHub repository
-7. Run `git rm metarepo_template.md` to remove the original template
-8. Run `git commit -m 'set up new template as readme'` to set the changes
-9. Run `git push` to send the changes to your remote GitHub repository
-10. Modify the `README.md` file to represent your experiement and use the `add`, `commit`, `push` workflow to update your remote repository
+Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+
+### Output data
+Reference for each minted data source for your output data.  For example:
+
+Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+
+## Contributing modeling software
+| Model | Version | Repository Link | DOI |
+|-------|---------|-----------------|-----|
+| model 1 | version | link to code repository | link to DOI dataset |
+| model 2 | version | link to code repository | link to DOI dataset |
+| component 1 | version | link to code repository | link to DOI dataset |
+
+## Reproduce my experiment
+Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
+
+
+1. Install the software components required to conduct the experiement from [Contributing modeling software](#contributing-modeling-software)
+2. Download and install the supporting input data required to conduct the experiement from [Input data](#input-data)
+3. Run the following scripts in the `workflow` directory to re-create this experiment:
+
+| Script Name | Description | How to Run |
+| --- | --- | --- |
+| `step_one.py` | Script to run the first part of my experiment | `python3 step_one.py -f /path/to/inputdata/file_one.csv` |
+| `step_two.py` | Script to run the last part of my experiment | `python3 step_two.py -o /path/to/my/outputdir` |
+
+4. Download and unzip the output data from my experiment [Output data](#output-data)
+5. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
+
+| Script Name | Description | How to Run |
+| --- | --- | --- |
+| `compare.py` | Script to compare my outputs to the original | `python3 compare.py --orig /path/to/original/data.csv --new /path/to/new/data.csv` |
+
+## Reproduce my figures
+Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
+
+| Script Name | Description | How to Run |
+| --- | --- | --- |
+| `generate_figures.py` | Script to generate my figures | `python3 generate_figures.py -i /path/to/inputs -o /path/to/outuptdir` |
