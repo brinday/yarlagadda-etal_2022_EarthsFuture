@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807291.svg)](https://doi.org/10.5281/zenodo.6807291
 
 # Yarlagadda et al. (2022) Trade integration and climate mitigation in LAC
 
@@ -9,21 +8,11 @@ The Latin America and the Caribbean (LAC) region plays a key dual role in meetin
 ## Journal reference
 Yarlagadda, B., T. Wild, X. Zhao, L. Clarke, R. Cui, A. Birnbaum, and J. Lamontagne (under review). Earth's Future.
 
-## Code reference
-
-Human, I.M. (2021, April 14). Project/repo:v0.1.0 (Version v0.1.0). Zenodo. http://doi.org/some-doi-number/zenodo.7777777
-
-## Data reference
-
-### Input data
-Reference for each minted data source for your input data.  For example:
-
-Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+## Code and input data
+Yarlagadda, B. (2022, July 7). GCAM-LAC-5.4_yarlagadda_etal_2022_trade_mitigation. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807291.svg)](https://doi.org/10.5281/zenodo.6807291)
 
 ### Output data
-Reference for each minted data source for your output data.  For example:
-
-Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+Yarlagadda, B. (2022, July 7). yarlagadda_etal_2022_trade_mitigation Output Data. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807540.svg)](https://doi.org/10.5281/zenodo.6807540)
 
 
 ## Reproduce my experiment
