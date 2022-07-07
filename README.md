@@ -8,11 +8,14 @@ The Latin America and the Caribbean (LAC) region plays key roles in both meeting
 ## Journal reference
 Yarlagadda, B., T. Wild, X. Zhao, L. Clarke, R. Cui, A. Birnbaum, and J. Lamontagne (under review). Earth's Future.
 
-## Code and input data
-Yarlagadda, B. (2022, July 7). GCAM-LAC-5.4_yarlagadda_etal_2022_trade_mitigation. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807291.svg)](https://doi.org/10.5281/zenodo.6807291)
+## Code and Data
+### GCAM-LAC-5.4 and Input Data
+Yarlagadda, B. (2022, July 7). GCAM-LAC-5.4_yarlagadda_etal_2022_trade_mitigation. Zenodo. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807291.svg)](https://doi.org/10.5281/zenodo.6807291)
 
-## Output data
-Yarlagadda, B. (2022, July 7). yarlagadda_etal_2022_trade_mitigation Output Data. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807540.svg)](https://doi.org/10.5281/zenodo.6807540)
+### Output data
+Yarlagadda, B. (2022, July 7). yarlagadda_etal_2022_trade_mitigation Output Data. Zenodo. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6807540.svg)](https://doi.org/10.5281/zenodo.6807540)
 
 
 ## Reproduce my experiment
