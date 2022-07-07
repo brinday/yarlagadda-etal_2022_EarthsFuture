@@ -1,5 +1,5 @@
 
-# Yarlagadda et al. (2022) Trade integration and climate mitigation in LAC
+# Yarlagadda et al. (2022): Trade and Climate Mitigation Interactions Create Agro-Economic Opportunities with Social and Environmental Trade-offs in Latin America and the Caribbean.
 
 
 ## Abstract
