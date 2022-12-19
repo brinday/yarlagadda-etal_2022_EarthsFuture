@@ -1,1 +1,2 @@
-## This is the directory to place scripts or instructions in for recreating the figures that are represented in your publication
+## Reproduce the figures in this experiment using generate_figures.R
+# download metarepo data from the DOI: 10.5281/zenodo.6807638
