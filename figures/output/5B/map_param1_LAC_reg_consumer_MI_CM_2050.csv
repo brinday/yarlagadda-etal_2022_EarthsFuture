@@ -1,0 +1,25 @@
+scenario,subRegion,region,param,class,x,value,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Argentina,region,param1,class,x,126.508391307767,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Brazil,region,param1,class,x,95.5677833783337,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Central America and Caribbean,region,param1,class,x,66.1438691330763,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Colombia,region,param1,class,x,107.875619802097,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Mexico,region,param1,class,x,116.390857772452,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,South America_Northern,region,param1,class,x,77.2885811615672,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,South America_Southern,region,param1,class,x,89.1275936599168,units
+ARM_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Uruguay,region,param1,class,x,121.61256927831,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Argentina,region,param1,class,x,125.152640915049,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Brazil,region,param1,class,x,94.3515096258423,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Central America and Caribbean,region,param1,class,x,36.463682171445,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Colombia,region,param1,class,x,91.0748804075807,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Mexico,region,param1,class,x,115.460815843644,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,South America_Northern,region,param1,class,x,15.7338166046943,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,South America_Southern,region,param1,class,x,76.1856112837374,units
+SW_high_CL_Policy_10pa_2025_DiffPrcnt_ARM_Reference,Uruguay,region,param1,class,x,116.058895670478,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,Argentina,region,param1,class,x,8.59102775039052,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,Brazil,region,param1,class,x,12.7867558356749,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,Central America and Caribbean,region,param1,class,x,-15.3622227705528,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,Colombia,region,param1,class,x,0.964565134210639,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,Mexico,region,param1,class,x,6.74740631980904,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,South America_Northern,region,param1,class,x,-35.7123902229348,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,South America_Southern,region,param1,class,x,2.99109193071971,units
+SW_high_CL_Reference_DiffPrcnt_ARM_Reference,Uruguay,region,param1,class,x,7.53349583295199,units

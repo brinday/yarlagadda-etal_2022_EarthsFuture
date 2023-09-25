@@ -1,0 +1,9 @@
+scenario,subRegion,region,param,class,x,value,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Argentina,region,param1,class,x,30.7793298180168,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Brazil,region,param1,class,x,27.8792562497885,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Central America and Caribbean,region,param1,class,x,37.00720638734,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Colombia,region,param1,class,x,49.6289922840828,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Mexico,region,param1,class,x,30.7082836998538,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South America_Northern,region,param1,class,x,-7.51345047912753,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South America_Southern,region,param1,class,x,36.6505569571765,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Uruguay,region,param1,class,x,32.6174014729467,units
