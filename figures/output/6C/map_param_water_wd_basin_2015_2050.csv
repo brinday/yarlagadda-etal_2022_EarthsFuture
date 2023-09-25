@@ -1,0 +1,64 @@
+scenario,subRegion,region,param,class,x,value,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Amazon_X_Brazil,region,param,class,x,74.9751039762346,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Amazon_X_Colombia,region,param,class,x,187.018685292058,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Amazon_X_South America_Northern,region,param,class,x,44.7354704092405,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Amazon_X_South America_Southern,region,param,class,x,61.0025895158047,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Baja_California_X_Mexico,region,param,class,x,23.4641739957158,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,California_River_X_Mexico,region,param,class,x,86.7860693821245,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Caribbean_Coast_X_Central America and Caribbean,region,param,class,x,53.2816823493709,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Caribbean_Coast_X_Colombia,region,param,class,x,43.7364169965227,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Caribbean_Coast_X_South America_Northern,region,param,class,x,27.002679269672,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Caribbean_X_Central America and Caribbean,region,param,class,x,41.8886404329267,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Central_Patagonia_Highlands_X_Argentina,region,param,class,x,46.654266041374,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Colombia_Ecuador_Pacific_Coast_X_Central America and Caribbean,region,param,class,x,53.2308360793925,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Colombia_Ecuador_Pacific_Coast_X_Colombia,region,param,class,x,94.2987530222204,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Colombia_Ecuador_Pacific_Coast_X_South America_Southern,region,param,class,x,74.7838860955842,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,East_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,x,98.2637658685521,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Grijalva_Usumacinta_X_Central America and Caribbean,region,param,class,x,44.4811312549485,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Grijalva_Usumacinta_X_Mexico,region,param,class,x,55.3162310487702,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Isthmus_of_Tehuantepec_X_Mexico,region,param,class,x,63.7399370881874,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,La_Plata_X_Argentina,region,param,class,x,48.9888135311265,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,La_Plata_X_Brazil,region,param,class,x,36.5660694300863,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,La_Plata_X_South America_Southern,region,param,class,x,25.9105043566977,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,La_Plata_X_Uruguay,region,param,class,x,39.4052458051318,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,La_Puna_Region_X_Argentina,region,param,class,x,45.7264849348434,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,La_Puna_Region_X_South America_Southern,region,param,class,x,28.6357352448052,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Lower_Colorado_River_X_Mexico,region,param,class,x,24.0346128751445,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Magdalena_X_Colombia,region,param,class,x,63.0763979846602,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Mar_Chiquita_X_Argentina,region,param,class,x,39.0071573314745,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Mexico_Interior_X_Mexico,region,param,class,x,31.4909468597899,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Mexico_Northwest_Coast_X_Mexico,region,param,class,x,39.6177040556086,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Negro_X_Argentina,region,param,class,x,77.4709144612296,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,North_Argentina_South_Atlantic_Coast_X_Argentina,region,param,class,x,51.2902557626916,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,North_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,x,42.5715337587717,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,North_Chile_Pacific_Coast_X_South America_Southern,region,param,class,x,8.79709199121456,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,North_Gulf_X_Mexico,region,param,class,x,52.8439887950608,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Northeast_South_America_South_Atlantic_Coast_X_Brazil,region,param,class,x,24.4812072979982,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Northeast_South_America_South_Atlantic_Coast_X_South America_Northern,region,param,class,x,45.4441429555278,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Orinoco_X_Brazil,region,param,class,x,24.481354233466,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Orinoco_X_Colombia,region,param,class,x,65.6718741479763,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Orinoco_X_South America_Northern,region,param,class,x,39.5069708829884,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Orinoco_X_South America_Southern,region,param,class,x,59.4692735760525,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Pacific_Central_Coast_X_Mexico,region,param,class,x,67.2247967730338,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Pampas_Region_X_Argentina,region,param,class,x,55.4337204418253,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Papaloapan_X_Mexico,region,param,class,x,69.6617382191236,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Parnaiba_X_Brazil,region,param,class,x,84.8802035902808,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Peru_Pacific_Coast_X_South America_Southern,region,param,class,x,1.35988116376249,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Rio_Balsas_X_Mexico,region,param,class,x,37.8484404243757,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Rio_Grande_River_X_Mexico,region,param,class,x,32.4405925844133,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Rio_Lerma_X_Mexico,region,param,class,x,36.8331142644084,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Rio_Verde_X_Mexico,region,param,class,x,5.75534861970449,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Salinas_Grandes_X_Argentina,region,param,class,x,63.4556488888955,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Sao_Francisco_X_Brazil,region,param,class,x,47.9543465054437,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South_America_Colorado_X_Argentina,region,param,class,x,69.391049004902,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South_Argentina_South_Atlantic_Coast_X_Argentina,region,param,class,x,111.389983127139,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South_Argentina_South_Atlantic_Coast_X_South America_Southern,region,param,class,x,59.5048919293668,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South_Chile_Pacific_Coast_X_Argentina,region,param,class,x,153.230907869237,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,South_Chile_Pacific_Coast_X_South America_Southern,region,param,class,x,28.22051644277,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Southern_Central_America_X_Central America and Caribbean,region,param,class,x,44.1941674770121,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Southern_Central_America_X_Mexico,region,param,class,x,69.5810755062986,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Tocantins_X_Brazil,region,param,class,x,39.2379089883555,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Uruguay_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,x,31.585358311381,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Uruguay_Brazil_South_Atlantic_Coast_X_Uruguay,region,param,class,x,63.5920091839555,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Yucatan_Peninsula_X_Central America and Caribbean,region,param,class,x,46.9711725484559,units
+ARM_Reference.2050_DiffPrcnt_ARM_Reference.2015,Yucatan_Peninsula_X_Mexico,region,param,class,x,62.8665276481663,units

@@ -1,0 +1,123 @@
+scenario,subRegion,region,param,class,x,value,units
+scenario,Baja_California_X_Mexico,region,param,class,2015,14289.36288,units
+scenario,Baja_California_X_Mexico,region,param,class,2050,37155.96773,units
+scenario,Mexico_Northwest_Coast_X_Mexico,region,param,class,2015,12585.04382,units
+scenario,Mexico_Northwest_Coast_X_Mexico,region,param,class,2050,30944.00816,units
+scenario,Caribbean_X_Central America and Caribbean,region,param,class,2015,8267.912426,units
+scenario,Caribbean_X_Central America and Caribbean,region,param,class,2050,24615.75336,units
+scenario,North_Gulf_X_Mexico,region,param,class,2015,12289.3357,units
+scenario,North_Gulf_X_Mexico,region,param,class,2050,28906.68692,units
+scenario,Yucatan_Peninsula_X_Central America and Caribbean,region,param,class,2015,6261.626926,units
+scenario,Yucatan_Peninsula_X_Central America and Caribbean,region,param,class,2050,23229.23456,units
+scenario,Yucatan_Peninsula_X_Mexico,region,param,class,2015,14072.4815,units
+scenario,Yucatan_Peninsula_X_Mexico,region,param,class,2050,31247.43542,units
+scenario,Mexico_Interior_X_Mexico,region,param,class,2015,14342.73629,units
+scenario,Mexico_Interior_X_Mexico,region,param,class,2050,35966.33708,units
+scenario,Pacific_Central_Coast_X_Mexico,region,param,class,2015,11853.1872,units
+scenario,Pacific_Central_Coast_X_Mexico,region,param,class,2050,27788.87995,units
+scenario,Papaloapan_X_Mexico,region,param,class,2015,16506.03735,units
+scenario,Papaloapan_X_Mexico,region,param,class,2050,36455.98247,units
+scenario,Rio_Lerma_X_Mexico,region,param,class,2015,20742.83051,units
+scenario,Rio_Lerma_X_Mexico,region,param,class,2050,49820.35224,units
+scenario,Rio_Verde_X_Mexico,region,param,class,2015,19865.46856,units
+scenario,Rio_Verde_X_Mexico,region,param,class,2050,45715.88575,units
+scenario,Grijalva_Usumacinta_X_Central America and Caribbean,region,param,class,2015,3500.9968,units
+scenario,Grijalva_Usumacinta_X_Central America and Caribbean,region,param,class,2050,10626.14946,units
+scenario,Grijalva_Usumacinta_X_Mexico,region,param,class,2015,12112.15297,units
+scenario,Grijalva_Usumacinta_X_Mexico,region,param,class,2050,28288.40288,units
+scenario,Rio_Balsas_X_Mexico,region,param,class,2015,19466.88599,units
+scenario,Rio_Balsas_X_Mexico,region,param,class,2050,45474.5679,units
+scenario,Southern_Central_America_X_Central America and Caribbean,region,param,class,2015,8000.329252,units
+scenario,Southern_Central_America_X_Central America and Caribbean,region,param,class,2050,26323.93434,units
+scenario,Southern_Central_America_X_Mexico,region,param,class,2015,16939.93847,units
+scenario,Southern_Central_America_X_Mexico,region,param,class,2050,41142.43718,units
+scenario,Isthmus_of_Tehuantepec_X_Mexico,region,param,class,2015,12513.44457,units
+scenario,Isthmus_of_Tehuantepec_X_Mexico,region,param,class,2050,28258.90801,units
+scenario,Caribbean_Coast_X_Central America and Caribbean,region,param,class,2015,29830.9126,units
+scenario,Caribbean_Coast_X_Central America and Caribbean,region,param,class,2050,61737.39897,units
+scenario,Caribbean_Coast_X_South America_Northern,region,param,class,2015,14873.49487,units
+scenario,Caribbean_Coast_X_South America_Northern,region,param,class,2050,31139.66544,units
+scenario,Caribbean_Coast_X_Colombia,region,param,class,2015,9959.312619,units
+scenario,Caribbean_Coast_X_Colombia,region,param,class,2050,28734.26605,units
+scenario,Orinoco_X_South America_Northern,region,param,class,2015,14179.33717,units
+scenario,Orinoco_X_South America_Northern,region,param,class,2050,30341.09255,units
+scenario,Orinoco_X_Colombia,region,param,class,2015,8977.98169,units
+scenario,Orinoco_X_Colombia,region,param,class,2050,26780.3975,units
+scenario,Colombia_Ecuador_Pacific_Coast_X_Central America and Caribbean,region,param,class,2015,18152.27748,units
+scenario,Colombia_Ecuador_Pacific_Coast_X_Central America and Caribbean,region,param,class,2050,48594.10099,units
+scenario,Colombia_Ecuador_Pacific_Coast_X_South America_Southern,region,param,class,2015,10042.89301,units
+scenario,Colombia_Ecuador_Pacific_Coast_X_South America_Southern,region,param,class,2050,29707.1971,units
+scenario,Colombia_Ecuador_Pacific_Coast_X_Colombia,region,param,class,2015,7915.697406,units
+scenario,Colombia_Ecuador_Pacific_Coast_X_Colombia,region,param,class,2050,21476.87854,units
+scenario,Northeast_South_America_South_Atlantic_Coast_X_Brazil,region,param,class,2015,6858.668494,units
+scenario,Northeast_South_America_South_Atlantic_Coast_X_Brazil,region,param,class,2050,21582.12345,units
+scenario,Northeast_South_America_South_Atlantic_Coast_X_South America_Northern,region,param,class,2015,7546.276372,units
+scenario,Northeast_South_America_South_Atlantic_Coast_X_South America_Northern,region,param,class,2050,27946.06093,units
+scenario,Magdalena_X_Colombia,region,param,class,2015,14206.09585,units
+scenario,Magdalena_X_Colombia,region,param,class,2050,40155.37761,units
+scenario,Amazon_X_Brazil,region,param,class,2015,9100.571511,units
+scenario,Amazon_X_Brazil,region,param,class,2050,24907.15915,units
+scenario,Amazon_X_South America_Northern,region,param,class,2015,3847.464013,units
+scenario,Amazon_X_South America_Northern,region,param,class,2050,13460.2274,units
+scenario,Amazon_X_South America_Southern,region,param,class,2015,9316.147551,units
+scenario,Amazon_X_South America_Southern,region,param,class,2050,34656.06207,units
+scenario,Amazon_X_Colombia,region,param,class,2015,8059.479565,units
+scenario,Amazon_X_Colombia,region,param,class,2050,26208.81286,units
+scenario,South_Chile_Pacific_Coast_X_South America_Southern,region,param,class,2015,17290.91223,units
+scenario,South_Chile_Pacific_Coast_X_South America_Southern,region,param,class,2050,47085.34958,units
+scenario,South_Chile_Pacific_Coast_X_Argentina,region,param,class,2015,16274.40267,units
+scenario,South_Chile_Pacific_Coast_X_Argentina,region,param,class,2050,40735.04864,units
+scenario,North_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,2015,11466.70551,units
+scenario,North_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,2050,30120.70441,units
+scenario,Tocantins_X_Brazil,region,param,class,2015,10950.2857,units
+scenario,Tocantins_X_Brazil,region,param,class,2050,29924.46923,units
+scenario,Peru_Pacific_Coast_X_South America_Southern,region,param,class,2015,13790.30153,units
+scenario,Peru_Pacific_Coast_X_South America_Southern,region,param,class,2050,48851.58081,units
+scenario,East_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,2015,13124.42184,units
+scenario,East_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,2050,33713.55896,units
+scenario,Parnaiba_X_Brazil,region,param,class,2015,13475.37256,units
+scenario,Parnaiba_X_Brazil,region,param,class,2050,34688.4814,units
+scenario,Sao_Francisco_X_Brazil,region,param,class,2015,12382.42204,units
+scenario,Sao_Francisco_X_Brazil,region,param,class,2050,34710.0038,units
+scenario,Uruguay_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,2015,15006.15522,units
+scenario,Uruguay_Brazil_South_Atlantic_Coast_X_Brazil,region,param,class,2050,39281.42512,units
+scenario,Uruguay_Brazil_South_Atlantic_Coast_X_Uruguay,region,param,class,2015,15551.52732,units
+scenario,Uruguay_Brazil_South_Atlantic_Coast_X_Uruguay,region,param,class,2050,44368.82567,units
+scenario,La_Puna_Region_X_South America_Southern,region,param,class,2015,7030.06113,units
+scenario,La_Puna_Region_X_South America_Southern,region,param,class,2050,25113.14564,units
+scenario,La_Puna_Region_X_Argentina,region,param,class,2015,14583.36412,units
+scenario,La_Puna_Region_X_Argentina,region,param,class,2050,42046.28988,units
+scenario,Mar_Chiquita_X_Argentina,region,param,class,2015,29411.46086,units
+scenario,Mar_Chiquita_X_Argentina,region,param,class,2050,75443.40964,units
+scenario,Salinas_Grandes_X_Argentina,region,param,class,2015,15732.45068,units
+scenario,Salinas_Grandes_X_Argentina,region,param,class,2050,46456.30261,units
+scenario,La_Plata_X_Brazil,region,param,class,2015,15102.85073,units
+scenario,La_Plata_X_Brazil,region,param,class,2050,40602.56254,units
+scenario,La_Plata_X_South America_Southern,region,param,class,2015,6491.577759,units
+scenario,La_Plata_X_South America_Southern,region,param,class,2050,28464.24344,units
+scenario,La_Plata_X_Argentina,region,param,class,2015,21799.30121,units
+scenario,La_Plata_X_Argentina,region,param,class,2050,53461.77002,units
+scenario,La_Plata_X_Uruguay,region,param,class,2015,18792.86547,units
+scenario,La_Plata_X_Uruguay,region,param,class,2050,53847.77944,units
+scenario,North_Chile_Pacific_Coast_X_South America_Southern,region,param,class,2015,22197.48678,units
+scenario,North_Chile_Pacific_Coast_X_South America_Southern,region,param,class,2050,57152.05838,units
+scenario,Pampas_Region_X_Argentina,region,param,class,2015,15798.24241,units
+scenario,Pampas_Region_X_Argentina,region,param,class,2050,45192.65078,units
+scenario,North_Argentina_South_Atlantic_Coast_X_Argentina,region,param,class,2015,16940.02713,units
+scenario,North_Argentina_South_Atlantic_Coast_X_Argentina,region,param,class,2050,42016.73107,units
+scenario,South_America_Colorado_X_Argentina,region,param,class,2015,20358.24393,units
+scenario,South_America_Colorado_X_Argentina,region,param,class,2050,53112.41558,units
+scenario,Negro_X_Argentina,region,param,class,2015,17162.52359,units
+scenario,Negro_X_Argentina,region,param,class,2050,44868.50422,units
+scenario,Central_Patagonia_Highlands_X_Argentina,region,param,class,2015,14506.42526,units
+scenario,Central_Patagonia_Highlands_X_Argentina,region,param,class,2050,40922.16296,units
+scenario,South_Argentina_South_Atlantic_Coast_X_South America_Southern,region,param,class,2015,15163.10841,units
+scenario,South_Argentina_South_Atlantic_Coast_X_South America_Southern,region,param,class,2050,42668.18817,units
+scenario,South_Argentina_South_Atlantic_Coast_X_Argentina,region,param,class,2015,17544.94987,units
+scenario,South_Argentina_South_Atlantic_Coast_X_Argentina,region,param,class,2050,43723.27477,units
+scenario,California_River_X_Mexico,region,param,class,2015,17365.02426,units
+scenario,California_River_X_Mexico,region,param,class,2050,45941.22442,units
+scenario,Lower_Colorado_River_X_Mexico,region,param,class,2015,11884.38642,units
+scenario,Lower_Colorado_River_X_Mexico,region,param,class,2050,31364.88641,units
+scenario,Rio_Grande_River_X_Mexico,region,param,class,2015,17075.47442,units
+scenario,Rio_Grande_River_X_Mexico,region,param,class,2050,43572.2111,units
