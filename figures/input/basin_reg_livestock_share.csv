@@ -1,0 +1,1791 @@
+"GCAM_commodity","Basin_long_name","GLU_name","region","share"
+"beef","Africa_East_Central_Coast","AfrCstE","Africa_Eastern",0.0563854528335304
+"dairy","Africa_East_Central_Coast","AfrCstE","Africa_Eastern",0.0563854528335304
+"pork","Africa_East_Central_Coast","AfrCstE","Africa_Eastern",0.0194248148210106
+"poultry","Africa_East_Central_Coast","AfrCstE","Africa_Eastern",0.0777408097175484
+"sheepgoat","Africa_East_Central_Coast","AfrCstE","Africa_Eastern",0.0469596999101984
+"beef","Africa_North_Interior","AfrIntN","Africa_Eastern",0.000267869894560697
+"dairy","Africa_North_Interior","AfrIntN","Africa_Eastern",0.000267869894560697
+"pork","Africa_North_Interior","AfrIntN","Africa_Eastern",0.000941781037592314
+"poultry","Africa_North_Interior","AfrIntN","Africa_Eastern",0.00143884677885653
+"sheepgoat","Africa_North_Interior","AfrIntN","Africa_Eastern",0.00382503519857501
+"beef","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Eastern",0.0206806021610586
+"dairy","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Eastern",0.0206806021610586
+"pork","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Eastern",0.0220772961463638
+"poultry","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Eastern",0.0746851589328011
+"sheepgoat","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Eastern",0.0977118693511358
+"beef","Congo","CongoR","Africa_Eastern",0.0054604176448795
+"dairy","Congo","CongoR","Africa_Eastern",0.0054604176448795
+"pork","Congo","CongoR","Africa_Eastern",0.00487003651395646
+"poultry","Congo","CongoR","Africa_Eastern",0.00525534681481523
+"sheepgoat","Congo","CongoR","Africa_Eastern",0.00443095385768264
+"beef","Lake_Chad","LChad","Africa_Eastern",0.0473412473151828
+"dairy","Lake_Chad","LChad","Africa_Eastern",0.0473412473151828
+"pork","Lake_Chad","LChad","Africa_Eastern",0.00425158500315539
+"poultry","Lake_Chad","LChad","Africa_Eastern",0.0158546853905281
+"sheepgoat","Lake_Chad","LChad","Africa_Eastern",0.0405208697708083
+"beef","Madagascar","Madagascar","Africa_Eastern",0.0752277167372817
+"dairy","Madagascar","Madagascar","Africa_Eastern",0.0752277167372818
+"pork","Madagascar","Madagascar","Africa_Eastern",0.395373363503466
+"poultry","Madagascar","Madagascar","Africa_Eastern",0.195447768100945
+"sheepgoat","Madagascar","Madagascar","Africa_Eastern",0.0116702077970568
+"beef","Nile","NileR","Africa_Eastern",0.540786062424882
+"dairy","Nile","NileR","Africa_Eastern",0.540786062424882
+"pork","Nile","NileR","Africa_Eastern",0.530591143462153
+"poultry","Nile","NileR","Africa_Eastern",0.501346346896512
+"sheepgoat","Nile","NileR","Africa_Eastern",0.573383032386396
+"beef","Rift_Valley","RiftValley","Africa_Eastern",0.146798853192741
+"dairy","Rift_Valley","RiftValley","Africa_Eastern",0.146798853192741
+"pork","Rift_Valley","RiftValley","Africa_Eastern",0.0111215440399894
+"poultry","Rift_Valley","RiftValley","Africa_Eastern",0.0788687085373593
+"sheepgoat","Rift_Valley","RiftValley","Africa_Eastern",0.119851374667354
+"beef","Shebelli_Juba","ShebJubR","Africa_Eastern",0.107051777795883
+"dairy","Shebelli_Juba","ShebJubR","Africa_Eastern",0.107051777795883
+"pork","Shebelli_Juba","ShebJubR","Africa_Eastern",0.0113484354723129
+"poultry","Shebelli_Juba","ShebJubR","Africa_Eastern",0.0493623288306347
+"sheepgoat","Shebelli_Juba","ShebJubR","Africa_Eastern",0.101646957060794
+"beef","Africa_North_Interior","AfrIntN","Africa_Northern",0.0460168952401601
+"dairy","Africa_North_Interior","AfrIntN","Africa_Northern",0.0460168952401601
+"pork","Africa_North_Interior","AfrIntN","Africa_Northern",0.00787225489734967
+"poultry","Africa_North_Interior","AfrIntN","Africa_Northern",0.126283528569344
+"sheepgoat","Africa_North_Interior","AfrIntN","Africa_Northern",0.208973078498402
+"beef","Africa_North_West_Coast","AfrCstNW","Africa_Northern",0.245758943302083
+"dairy","Africa_North_West_Coast","AfrCstNW","Africa_Northern",0.245758943302083
+"pork","Africa_North_West_Coast","AfrCstNW","Africa_Northern",0.219758973130741
+"poultry","Africa_North_West_Coast","AfrCstNW","Africa_Northern",0.239392954582852
+"sheepgoat","Africa_North_West_Coast","AfrCstNW","Africa_Northern",0.262993643546028
+"beef","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Northern",0.00158004526239648
+"dairy","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Northern",0.00158004526239648
+"pork","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Northern",8.20744593414647e-05
+"poultry","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Northern",0.00291527420703507
+"sheepgoat","Africa_Red_Sea_Gulf_of_Aden_Coast","AfrCstNE","Africa_Northern",0.00237418834058639
+"beef","Mediterranean_Sea_East_Coast","MeditE","Africa_Northern",0.00850952559449623
+"dairy","Mediterranean_Sea_East_Coast","MeditE","Africa_Northern",0.00850952559449623
+"pork","Mediterranean_Sea_East_Coast","MeditE","Africa_Northern",0.000505315281630441
+"poultry","Mediterranean_Sea_East_Coast","MeditE","Africa_Northern",0.0217658655084967
+"sheepgoat","Mediterranean_Sea_East_Coast","MeditE","Africa_Northern",0.0206738572573944
+"beef","Mediterranean_South_Coast","MeditS","Africa_Northern",0.21927622433402
+"dairy","Mediterranean_South_Coast","MeditS","Africa_Northern",0.21927622433402
+"pork","Mediterranean_South_Coast","MeditS","Africa_Northern",0.696357484325047
+"poultry","Mediterranean_South_Coast","MeditS","Africa_Northern",0.382273150168109
+"sheepgoat","Mediterranean_South_Coast","MeditS","Africa_Northern",0.340099068781678
+"beef","Niger","NigerR","Africa_Northern",0.000391626992733017
+"dairy","Niger","NigerR","Africa_Northern",0.000391626992733017
+"pork","Niger","NigerR","Africa_Northern",9.75544125649725e-06
+"poultry","Niger","NigerR","Africa_Northern",0.000148954548573573
+"sheepgoat","Niger","NigerR","Africa_Northern",0.000103031908022599
+"beef","Nile","NileR","Africa_Northern",0.47518266801714
+"dairy","Nile","NileR","Africa_Northern",0.47518266801714
+"pork","Nile","NileR","Africa_Northern",0.0226856327565334
+"poultry","Nile","NileR","Africa_Northern",0.225066941385354
+"sheepgoat","Nile","NileR","Africa_Northern",0.160229115972839
+"beef","Sinai_Peninsula","SinaiP","Africa_Northern",0.00328407125697113
+"dairy","Sinai_Peninsula","SinaiP","Africa_Northern",0.00328407125697113
+"pork","Sinai_Peninsula","SinaiP","Africa_Northern",0.0527285097080999
+"poultry","Sinai_Peninsula","SinaiP","Africa_Northern",0.00215333103023606
+"sheepgoat","Sinai_Peninsula","SinaiP","Africa_Northern",0.00455401569504893
+"beef","Africa_East_Central_Coast","AfrCstE","Africa_Southern",0.108975746152235
+"dairy","Africa_East_Central_Coast","AfrCstE","Africa_Southern",0.108975746152235
+"pork","Africa_East_Central_Coast","AfrCstE","Africa_Southern",0.0912654508033328
+"poultry","Africa_East_Central_Coast","AfrCstE","Africa_Southern",0.197789481156645
+"sheepgoat","Africa_East_Central_Coast","AfrCstE","Africa_Southern",0.163684686286514
+"beef","Africa_Indian_Ocean_Coast","AfrCstSE","Africa_Southern",0.0126338144098783
+"dairy","Africa_Indian_Ocean_Coast","AfrCstSE","Africa_Southern",0.0126338144098783
+"pork","Africa_Indian_Ocean_Coast","AfrCstSE","Africa_Southern",0.00700299493361963
+"poultry","Africa_Indian_Ocean_Coast","AfrCstSE","Africa_Southern",0.0353077951612639
+"sheepgoat","Africa_Indian_Ocean_Coast","AfrCstSE","Africa_Southern",0.00527750631382428
+"beef","Africa_South_Interior","AfrIntS","Africa_Southern",0.153178761587407
+"dairy","Africa_South_Interior","AfrIntS","Africa_Southern",0.153178761587407
+"pork","Africa_South_Interior","AfrIntS","Africa_Southern",0.0585196777480478
+"poultry","Africa_South_Interior","AfrIntS","Africa_Southern",0.0318854920118392
+"sheepgoat","Africa_South_Interior","AfrIntS","Africa_Southern",0.110556861497031
+"beef","Angola_Coast","AngolaCst","Africa_Southern",0.0879560197382098
+"dairy","Angola_Coast","AngolaCst","Africa_Southern",0.0879560197382098
+"pork","Angola_Coast","AngolaCst","Africa_Southern",0.111005500677768
+"poultry","Angola_Coast","AngolaCst","Africa_Southern",0.0227866425685778
+"sheepgoat","Angola_Coast","AngolaCst","Africa_Southern",0.0598329717292777
+"beef","Congo","CongoR","Africa_Southern",0.0676654431624644
+"dairy","Congo","CongoR","Africa_Southern",0.0676654431624644
+"pork","Congo","CongoR","Africa_Southern",0.14671010363745
+"poultry","Congo","CongoR","Africa_Southern",0.0857301934088739
+"sheepgoat","Congo","CongoR","Africa_Southern",0.0990280564026657
+"beef","Gulf_of_Guinea","GuineaGulf","Africa_Southern",3.20250515628824e-05
+"dairy","Gulf_of_Guinea","GuineaGulf","Africa_Southern",3.20250515628824e-05
+"pork","Gulf_of_Guinea","GuineaGulf","Africa_Southern",0.000161820697699012
+"poultry","Gulf_of_Guinea","GuineaGulf","Africa_Southern",0.000136302765841388
+"sheepgoat","Gulf_of_Guinea","GuineaGulf","Africa_Southern",9.37936735829534e-05
+"beef","Limpopo","LimpopoR","Africa_Southern",0.0982325426098636
+"dairy","Limpopo","LimpopoR","Africa_Southern",0.0982325426098636
+"pork","Limpopo","LimpopoR","Africa_Southern",0.0858808839340672
+"poultry","Limpopo","LimpopoR","Africa_Southern",0.0665251605753022
+"sheepgoat","Limpopo","LimpopoR","Africa_Southern",0.0374968281187315
+"beef","Namibia_Coast","AfrCstSW","Africa_Southern",0.0088333180359914
+"dairy","Namibia_Coast","AfrCstSW","Africa_Southern",0.0088333180359914
+"pork","Namibia_Coast","AfrCstSW","Africa_Southern",0.000518135510499623
+"poultry","Namibia_Coast","AfrCstSW","Africa_Southern",0.0021470853053708
+"sheepgoat","Namibia_Coast","AfrCstSW","Africa_Southern",0.0225088648531316
+"beef","Nile","NileR","Africa_Southern",0.0713356889483351
+"dairy","Nile","NileR","Africa_Southern",0.0713356889483351
+"pork","Nile","NileR","Africa_Southern",0.170148491750009
+"poultry","Nile","NileR","Africa_Southern",0.0870583791869768
+"sheepgoat","Nile","NileR","Africa_Southern",0.136409986429792
+"beef","Orange","OrangeR","Africa_Southern",0.0493987482880468
+"dairy","Orange","OrangeR","Africa_Southern",0.0493987482880468
+"pork","Orange","OrangeR","Africa_Southern",0.0202486438294881
+"poultry","Orange","OrangeR","Africa_Southern",0.0233508827500845
+"sheepgoat","Orange","OrangeR","Africa_Southern",0.0566943524545327
+"beef","Rift_Valley","RiftValley","Africa_Southern",0.066503111626129
+"dairy","Rift_Valley","RiftValley","Africa_Southern",0.066503111626129
+"pork","Rift_Valley","RiftValley","Africa_Southern",0.0122481677697735
+"poultry","Rift_Valley","RiftValley","Africa_Southern",0.0470343758616509
+"sheepgoat","Rift_Valley","RiftValley","Africa_Southern",0.0979224524201287
+"beef","South_Africa_South_Coast","AfrCstS","Africa_Southern",0.0275315639937145
+"dairy","South_Africa_South_Coast","AfrCstS","Africa_Southern",0.0275315639937145
+"pork","South_Africa_South_Coast","AfrCstS","Africa_Southern",0.0110364779437268
+"poultry","South_Africa_South_Coast","AfrCstS","Africa_Southern",0.00784430164304419
+"sheepgoat","South_Africa_South_Coast","AfrCstS","Africa_Southern",0.0205165373364237
+"beef","Zambezi","ZambeziR","Africa_Southern",0.247723216396163
+"dairy","Zambezi","ZambeziR","Africa_Southern",0.247723216396163
+"pork","Zambezi","ZambeziR","Africa_Southern",0.285253650764519
+"poultry","Zambezi","ZambeziR","Africa_Southern",0.392403907604529
+"sheepgoat","Zambezi","ZambeziR","Africa_Southern",0.189977102484364
+"beef","Africa_North_Interior","AfrIntN","Africa_Western",0.000980084256558633
+"dairy","Africa_North_Interior","AfrIntN","Africa_Western",0.000980084256558633
+"pork","Africa_North_Interior","AfrIntN","Africa_Western",0.0061123905954812
+"poultry","Africa_North_Interior","AfrIntN","Africa_Western",0.0052950198167525
+"sheepgoat","Africa_North_Interior","AfrIntN","Africa_Western",0.0148340135465175
+"beef","Africa_North_West_Coast","AfrCstNW","Africa_Western",0.000793510152822429
+"dairy","Africa_North_West_Coast","AfrCstNW","Africa_Western",0.000793510152822429
+"pork","Africa_North_West_Coast","AfrCstNW","Africa_Western",0.0258675695510556
+"poultry","Africa_North_West_Coast","AfrCstNW","Africa_Western",0.0015217009215482
+"sheepgoat","Africa_North_West_Coast","AfrCstNW","Africa_Western",0.00283015772749008
+"beef","Africa_West_Coast","AfrCstW","Africa_Western",0.119759546564708
+"dairy","Africa_West_Coast","AfrCstW","Africa_Western",0.119759546564708
+"pork","Africa_West_Coast","AfrCstW","Africa_Western",0.210312410995729
+"poultry","Africa_West_Coast","AfrCstW","Africa_Western",0.327131280648638
+"sheepgoat","Africa_West_Coast","AfrCstW","Africa_Western",0.1178427524262
+"beef","Congo","CongoR","Africa_Western",0.0630642065900493
+"dairy","Congo","CongoR","Africa_Western",0.0630642065900493
+"pork","Congo","CongoR","Africa_Western",0.0997725203427228
+"poultry","Congo","CongoR","Africa_Western",0.0610480773924574
+"sheepgoat","Congo","CongoR","Africa_Western",0.054242291885999
+"beef","Gulf_of_Guinea","GuineaGulf","Africa_Western",0.0286916918298159
+"dairy","Gulf_of_Guinea","GuineaGulf","Africa_Western",0.0286916918298159
+"pork","Gulf_of_Guinea","GuineaGulf","Africa_Western",0.105787731089874
+"poultry","Gulf_of_Guinea","GuineaGulf","Africa_Western",0.0933024762991985
+"sheepgoat","Gulf_of_Guinea","GuineaGulf","Africa_Western",0.0493859754521564
+"beef","Lake_Chad","LChad","Africa_Western",0.177207850146668
+"dairy","Lake_Chad","LChad","Africa_Western",0.177207850146668
+"pork","Lake_Chad","LChad","Africa_Western",0.0282303184876596
+"poultry","Lake_Chad","LChad","Africa_Western",0.0596917654517462
+"sheepgoat","Lake_Chad","LChad","Africa_Western",0.16077027270697
+"beef","Niger","NigerR","Africa_Western",0.446879442144435
+"dairy","Niger","NigerR","Africa_Western",0.446879442144435
+"pork","Niger","NigerR","Africa_Western",0.405817272945495
+"poultry","Niger","NigerR","Africa_Western",0.334615697003168
+"sheepgoat","Niger","NigerR","Africa_Western",0.391842674550263
+"beef","Nile","NileR","Africa_Western",0.000531696060955084
+"dairy","Nile","NileR","Africa_Western",0.000531696060955084
+"pork","Nile","NileR","Africa_Western",0.000925378915596588
+"poultry","Nile","NileR","Africa_Western",0.000495780387052282
+"sheepgoat","Nile","NileR","Africa_Western",0.000597539361832426
+"beef","Senegal","SenegalR","Africa_Western",0.0747712520510386
+"dairy","Senegal","SenegalR","Africa_Western",0.0747712520510385
+"pork","Senegal","SenegalR","Africa_Western",0.0185086771199545
+"poultry","Senegal","SenegalR","Africa_Western",0.0310677324157571
+"sheepgoat","Senegal","SenegalR","Africa_Western",0.0975145996622455
+"beef","Volta","VoltaR","Africa_Western",0.0873207202029496
+"dairy","Volta","VoltaR","Africa_Western",0.0873207202029496
+"pork","Volta","VoltaR","Africa_Western",0.0986657299564316
+"poultry","Volta","VoltaR","Africa_Western",0.0858304696636819
+"sheepgoat","Volta","VoltaR","Africa_Western",0.110139722680327
+"beef","Central_Patagonia_Highlands","Patagonia","Argentina",0.015924336627346
+"dairy","Central_Patagonia_Highlands","Patagonia","Argentina",0.015924336627346
+"pork","Central_Patagonia_Highlands","Patagonia","Argentina",9.91309486525297e-07
+"poultry","Central_Patagonia_Highlands","Patagonia","Argentina",0.00690516200800217
+"sheepgoat","Central_Patagonia_Highlands","Patagonia","Argentina",0.0590843079587861
+"beef","La_Plata","RioLaPlata","Argentina",0.391080384877085
+"dairy","La_Plata","RioLaPlata","Argentina",0.391080384877085
+"pork","La_Plata","RioLaPlata","Argentina",0.521850560161205
+"poultry","La_Plata","RioLaPlata","Argentina",0.516920894137917
+"sheepgoat","La_Plata","RioLaPlata","Argentina",0.308948943629882
+"beef","La_Puna_Region","LaPuna","Argentina",0.000713566307746242
+"dairy","La_Puna_Region","LaPuna","Argentina",0.000713566307746242
+"pork","La_Puna_Region","LaPuna","Argentina",0.00127044582894785
+"poultry","La_Puna_Region","LaPuna","Argentina",0.0013928065431651
+"sheepgoat","La_Puna_Region","LaPuna","Argentina",0.00581664680021379
+"beef","Mar_Chiquita","MarChiq","Argentina",0.0200582480558348
+"dairy","Mar_Chiquita","MarChiq","Argentina",0.0200582480558349
+"pork","Mar_Chiquita","MarChiq","Argentina",0.10937973622334
+"poultry","Mar_Chiquita","MarChiq","Argentina",0.0418907947496007
+"sheepgoat","Mar_Chiquita","MarChiq","Argentina",0.0234599157840046
+"beef","Negro","NegroR","Argentina",0.0173134957980639
+"dairy","Negro","NegroR","Argentina",0.0173134957980639
+"pork","Negro","NegroR","Argentina",0.0162085898362811
+"poultry","Negro","NegroR","Argentina",0.0250835330237683
+"sheepgoat","Negro","NegroR","Argentina",0.135671745418505
+"beef","North_Argentina_South_Atlantic_Coast","ArgCstN","Argentina",0.298583472210791
+"dairy","North_Argentina_South_Atlantic_Coast","ArgCstN","Argentina",0.298583472210791
+"pork","North_Argentina_South_Atlantic_Coast","ArgCstN","Argentina",0.198541753753894
+"poultry","North_Argentina_South_Atlantic_Coast","ArgCstN","Argentina",0.12796451376733
+"sheepgoat","North_Argentina_South_Atlantic_Coast","ArgCstN","Argentina",0.0861685001940574
+"beef","Pampas_Region","Pampas","Argentina",0.127039976491749
+"dairy","Pampas_Region","Pampas","Argentina",0.127039976491749
+"pork","Pampas_Region","Pampas","Argentina",0.108559554262707
+"poultry","Pampas_Region","Pampas","Argentina",0.110785676993351
+"sheepgoat","Pampas_Region","Pampas","Argentina",0.0295378406399952
+"beef","Salinas_Grandes","Salinas","Argentina",0.0174115041819681
+"dairy","Salinas_Grandes","Salinas","Argentina",0.0174115041819681
+"pork","Salinas_Grandes","Salinas","Argentina",0.0226590241503359
+"poultry","Salinas_Grandes","Salinas","Argentina",0.0330226449813203
+"sheepgoat","Salinas_Grandes","Salinas","Argentina",0.0275924264574516
+"beef","South_America_Colorado","ArgColoR","Argentina",0.0456790844868833
+"dairy","South_America_Colorado","ArgColoR","Argentina",0.0456790844868833
+"pork","South_America_Colorado","ArgColoR","Argentina",0.0171740395665284
+"poultry","South_America_Colorado","ArgColoR","Argentina",0.0403731202123835
+"sheepgoat","South_America_Colorado","ArgColoR","Argentina",0.0394048533417329
+"beef","South_Argentina_South_Atlantic_Coast","ArgCstS","Argentina",0.06416928936623
+"dairy","South_Argentina_South_Atlantic_Coast","ArgCstS","Argentina",0.06416928936623
+"pork","South_Argentina_South_Atlantic_Coast","ArgCstS","Argentina",0.0006240754162945
+"poultry","South_Argentina_South_Atlantic_Coast","ArgCstS","Argentina",0.0924140179665892
+"sheepgoat","South_Argentina_South_Atlantic_Coast","ArgCstS","Argentina",0.282392809030544
+"beef","South_Chile_Pacific_Coast","ChileCstS","Argentina",0.00202664159630239
+"dairy","South_Chile_Pacific_Coast","ChileCstS","Argentina",0.00202664159630239
+"pork","South_Chile_Pacific_Coast","ChileCstS","Argentina",0.00373122949097886
+"poultry","South_Chile_Pacific_Coast","ChileCstS","Argentina",0.00324683561657223
+"sheepgoat","South_Chile_Pacific_Coast","ChileCstS","Argentina",0.00192201074482703
+"beef","Australia_East_Coast","AusCstE","Australia_NZ",0.310489620183782
+"dairy","Australia_East_Coast","AusCstE","Australia_NZ",0.310489620183782
+"pork","Australia_East_Coast","AusCstE","Australia_NZ",0.293477901101033
+"poultry","Australia_East_Coast","AusCstE","Australia_NZ",0.369774700974587
+"sheepgoat","Australia_East_Coast","AusCstE","Australia_NZ",0.137312033840373
+"beef","Australia_Interior","AusInt","Australia_NZ",0.0809527239328831
+"dairy","Australia_Interior","AusInt","Australia_NZ",0.080952723932883
+"pork","Australia_Interior","AusInt","Australia_NZ",0.00594340787225894
+"poultry","Australia_Interior","AusInt","Australia_NZ",0.00311851809038711
+"sheepgoat","Australia_Interior","AusInt","Australia_NZ",0.0917580104408842
+"beef","Australia_North_Coast","AusCstN","Australia_NZ",0.0825147485400926
+"dairy","Australia_North_Coast","AusCstN","Australia_NZ",0.0825147485400925
+"pork","Australia_North_Coast","AusCstN","Australia_NZ",0.0111725015182461
+"poultry","Australia_North_Coast","AusCstN","Australia_NZ",0.00761600864952038
+"sheepgoat","Australia_North_Coast","AusCstN","Australia_NZ",0.00699514741031069
+"beef","Australia_South_Coast","AusCstS","Australia_NZ",0.0200931032562923
+"dairy","Australia_South_Coast","AusCstS","Australia_NZ",0.0200931032562923
+"pork","Australia_South_Coast","AusCstS","Australia_NZ",0.0944918371674029
+"poultry","Australia_South_Coast","AusCstS","Australia_NZ",0.128555354600927
+"sheepgoat","Australia_South_Coast","AusCstS","Australia_NZ",0.0513785486362276
+"beef","Australia_West_Coast","AusCstW","Australia_NZ",0.029197951168422
+"dairy","Australia_West_Coast","AusCstW","Australia_NZ",0.029197951168422
+"pork","Australia_West_Coast","AusCstW","Australia_NZ",0.0807861374241051
+"poultry","Australia_West_Coast","AusCstW","Australia_NZ",0.0874154522610052
+"sheepgoat","Australia_West_Coast","AusCstW","Australia_NZ",0.0978183818510714
+"beef","Murray_Darling","MurrayDrlg","Australia_NZ",0.225415123106229
+"dairy","Murray_Darling","MurrayDrlg","Australia_NZ",0.225415123106229
+"pork","Murray_Darling","MurrayDrlg","Australia_NZ",0.386135500626558
+"poultry","Murray_Darling","MurrayDrlg","Australia_NZ",0.1850752613543
+"sheepgoat","Murray_Darling","MurrayDrlg","Australia_NZ",0.305453912791598
+"beef","New_Zealand","NewZealand","Australia_NZ",0.23870870387692
+"dairy","New_Zealand","NewZealand","Australia_NZ",0.23870870387692
+"pork","New_Zealand","NewZealand","Australia_NZ",0.118662611414783
+"poultry","New_Zealand","NewZealand","Australia_NZ",0.210423485963686
+"sheepgoat","New_Zealand","NewZealand","Australia_NZ",0.282352418372335
+"beef","Tasmania","Tasmania","Australia_NZ",0.0126280259353793
+"dairy","Tasmania","Tasmania","Australia_NZ",0.0126280259353793
+"pork","Tasmania","Tasmania","Australia_NZ",0.00933010287561276
+"poultry","Tasmania","Tasmania","Australia_NZ",0.00802121810558666
+"sheepgoat","Tasmania","Tasmania","Australia_NZ",0.0269315466572003
+"beef","Amazon","AmazonR","Brazil",0.0996020976482455
+"dairy","Amazon","AmazonR","Brazil",0.0996020976482455
+"pork","Amazon","AmazonR","Brazil",0.202581409706089
+"poultry","Amazon","AmazonR","Brazil",0.204584367560133
+"sheepgoat","Amazon","AmazonR","Brazil",0.455714634245212
+"beef","East_Brazil_South_Atlantic_Coast","BrzCstE","Brazil",0.0293244367864774
+"dairy","East_Brazil_South_Atlantic_Coast","BrzCstE","Brazil",0.0293244367864774
+"pork","East_Brazil_South_Atlantic_Coast","BrzCstE","Brazil",0.0353384016312499
+"poultry","East_Brazil_South_Atlantic_Coast","BrzCstE","Brazil",0.0628291775527268
+"sheepgoat","East_Brazil_South_Atlantic_Coast","BrzCstE","Brazil",0.0864165649453791
+"beef","La_Plata","RioLaPlata","Brazil",0.473103599533832
+"dairy","La_Plata","RioLaPlata","Brazil",0.473103599533832
+"pork","La_Plata","RioLaPlata","Brazil",0.395936852299532
+"poultry","La_Plata","RioLaPlata","Brazil",0.417064580564361
+"sheepgoat","La_Plata","RioLaPlata","Brazil",0.128967577215317
+"beef","North_Brazil_South_Atlantic_Coast","BrzCstN","Brazil",0.0187368699088575
+"dairy","North_Brazil_South_Atlantic_Coast","BrzCstN","Brazil",0.0187368699088575
+"pork","North_Brazil_South_Atlantic_Coast","BrzCstN","Brazil",0.0423819491394999
+"poultry","North_Brazil_South_Atlantic_Coast","BrzCstN","Brazil",0.0131178016827365
+"sheepgoat","North_Brazil_South_Atlantic_Coast","BrzCstN","Brazil",0.00782140436391934
+"beef","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","Brazil",0.00014134669623915
+"dairy","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","Brazil",0.00014134669623915
+"pork","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","Brazil",0.000141045615323951
+"poultry","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","Brazil",0.00136614863536275
+"sheepgoat","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","Brazil",0.000351921213632126
+"beef","Orinoco","OrinocoR","Brazil",0.0202293561929633
+"dairy","Orinoco","OrinocoR","Brazil",0.0202293561929633
+"pork","Orinoco","OrinocoR","Brazil",0.0243115004860153
+"poultry","Orinoco","OrinocoR","Brazil",0.0197171313993243
+"sheepgoat","Orinoco","OrinocoR","Brazil",0.0118028138992398
+"beef","Parnaiba","ParnaibaR","Brazil",0.0160445698540597
+"dairy","Parnaiba","ParnaibaR","Brazil",0.0160445698540597
+"pork","Parnaiba","ParnaibaR","Brazil",0.0482052817245799
+"poultry","Parnaiba","ParnaibaR","Brazil",0.0177523420377562
+"sheepgoat","Parnaiba","ParnaibaR","Brazil",0.080036009242436
+"beef","Sao_Francisco","SaoFrancR","Brazil",0.0663818741639709
+"dairy","Sao_Francisco","SaoFrancR","Brazil",0.0663818741639709
+"pork","Sao_Francisco","SaoFrancR","Brazil",0.0487107765422937
+"poultry","Sao_Francisco","SaoFrancR","Brazil",0.0461417905239579
+"sheepgoat","Sao_Francisco","SaoFrancR","Brazil",0.131516150687971
+"beef","Tocantins","TocantinsR","Brazil",0.140546552338865
+"dairy","Tocantins","TocantinsR","Brazil",0.140546552338865
+"pork","Tocantins","TocantinsR","Brazil",0.0396842958696659
+"poultry","Tocantins","TocantinsR","Brazil",0.0269787027460808
+"sheepgoat","Tocantins","TocantinsR","Brazil",0.0061329082466981
+"beef","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Brazil",0.13588929687649
+"dairy","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Brazil",0.13588929687649
+"pork","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Brazil",0.16270848698575
+"poultry","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Brazil",0.19044795729756
+"sheepgoat","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Brazil",0.0912400159401966
+"beef","Atlantic_Ocean_Seaboard","CanAtl","Canada",0.0225918619007078
+"dairy","Atlantic_Ocean_Seaboard","CanAtl","Canada",0.0225918619007078
+"pork","Atlantic_Ocean_Seaboard","CanAtl","Canada",0.0454901314510095
+"poultry","Atlantic_Ocean_Seaboard","CanAtl","Canada",0.0615434399029862
+"sheepgoat","Atlantic_Ocean_Seaboard","CanAtl","Canada",0.0499893825979745
+"beef","Churchill","ChurchillR","Canada",0.00166649516563893
+"dairy","Churchill","ChurchillR","Canada",0.00166649516563893
+"pork","Churchill","ChurchillR","Canada",0.00352615314523433
+"poultry","Churchill","ChurchillR","Canada",0.00130495597576454
+"sheepgoat","Churchill","ChurchillR","Canada",0.00754618810770531
+"beef","Fraser","FraserR","Canada",0.0195445929820873
+"dairy","Fraser","FraserR","Canada",0.0195445929820873
+"pork","Fraser","FraserR","Canada",0.0082346939875289
+"poultry","Fraser","FraserR","Canada",0.0410225530959198
+"sheepgoat","Fraser","FraserR","Canada",0.00693567514391386
+"beef","Great_Lakes_Basin","GreatLakes","Canada",0.214008284898164
+"dairy","Great_Lakes_Basin","GreatLakes","Canada",0.214008284898164
+"pork","Great_Lakes_Basin","GreatLakes","Canada",0.40155207434406
+"poultry","Great_Lakes_Basin","GreatLakes","Canada",0.44318741320544
+"sheepgoat","Great_Lakes_Basin","GreatLakes","Canada",0.16000031466322
+"beef","Hudson_Bay_Coast","HudsonBay","Canada",0.0253654956772625
+"dairy","Hudson_Bay_Coast","HudsonBay","Canada",0.0253654956772625
+"pork","Hudson_Bay_Coast","HudsonBay","Canada",0.0617744180617731
+"poultry","Hudson_Bay_Coast","HudsonBay","Canada",0.0375142679852156
+"sheepgoat","Hudson_Bay_Coast","HudsonBay","Canada",0.167622762664584
+"beef","Mackenzie","Mackenzie","Canada",0.0805755690677952
+"dairy","Mackenzie","Mackenzie","Canada",0.0805755690677952
+"pork","Mackenzie","Mackenzie","Canada",0.0768613318404656
+"poultry","Mackenzie","Mackenzie","Canada",0.0354796895289885
+"sheepgoat","Mackenzie","Mackenzie","Canada",0.18097512610397
+"beef","Missouri_River_Basin","MissouriR","Canada",0.00526231271412855
+"dairy","Missouri_River_Basin","MissouriR","Canada",0.00526231271412855
+"pork","Missouri_River_Basin","MissouriR","Canada",0.00547114582113617
+"poultry","Missouri_River_Basin","MissouriR","Canada",0.00209101472077349
+"sheepgoat","Missouri_River_Basin","MissouriR","Canada",0.00754735349825567
+"beef","New_England_Basin","UsaCstNE","Canada",0.00486890109024214
+"dairy","New_England_Basin","UsaCstNE","Canada",0.00486890109024214
+"pork","New_England_Basin","UsaCstNE","Canada",0.00659188226509011
+"poultry","New_England_Basin","UsaCstNE","Canada",0.0608110139798241
+"sheepgoat","New_England_Basin","UsaCstNE","Canada",0.00937624625355555
+"beef","Northwest_Territories","NWTerr","Canada",0.0235987438530218
+"dairy","Northwest_Territories","NWTerr","Canada",0.0235987438530218
+"pork","Northwest_Territories","NWTerr","Canada",0.0376033809725637
+"poultry","Northwest_Territories","NWTerr","Canada",0.0160605535448031
+"sheepgoat","Northwest_Territories","NWTerr","Canada",0.068987756573202
+"beef","Pacific_and_Arctic_Coast","PacArctic","Canada",0.00355119709411527
+"dairy","Pacific_and_Arctic_Coast","PacArctic","Canada",0.00355119709411527
+"pork","Pacific_and_Arctic_Coast","PacArctic","Canada",0.00669622997650309
+"poultry","Pacific_and_Arctic_Coast","PacArctic","Canada",0.00273689164734773
+"sheepgoat","Pacific_and_Arctic_Coast","PacArctic","Canada",0.0930469772834311
+"beef","Pacific_Northwest_Basin","UsaPacNW","Canada",0.00540091200252306
+"dairy","Pacific_Northwest_Basin","UsaPacNW","Canada",0.00540091200252306
+"pork","Pacific_Northwest_Basin","UsaPacNW","Canada",0.000348169988972956
+"poultry","Pacific_Northwest_Basin","UsaPacNW","Canada",0.00468359176167869
+"sheepgoat","Pacific_Northwest_Basin","UsaPacNW","Canada",0.0104951642477491
+"beef","Saskatchewan_Nelson","NelsonR","Canada",0.583034794334803
+"dairy","Saskatchewan_Nelson","NelsonR","Canada",0.583034794334803
+"pork","Saskatchewan_Nelson","NelsonR","Canada",0.330902557068309
+"poultry","Saskatchewan_Nelson","NelsonR","Canada",0.278386868386891
+"sheepgoat","Saskatchewan_Nelson","NelsonR","Canada",0.206559870662925
+"beef","St_Lawrence","StLwrncR","Canada",0.0105308392195111
+"dairy","St_Lawrence","StLwrncR","Canada",0.0105308392195111
+"pork","St_Lawrence","StLwrncR","Canada",0.0149478310773533
+"poultry","St_Lawrence","StLwrncR","Canada",0.0151777462643677
+"sheepgoat","St_Lawrence","StLwrncR","Canada",0.0309171821995137
+"beef","Caribbean","Caribbean","Central America and Caribbean",0.412616516942758
+"dairy","Caribbean","Caribbean","Central America and Caribbean",0.412616516942758
+"pork","Caribbean","Caribbean","Central America and Caribbean",0.53374419721509
+"poultry","Caribbean","Caribbean","Central America and Caribbean",0.437216576435822
+"sheepgoat","Caribbean","Caribbean","Central America and Caribbean",0.886190795111178
+"beef","Caribbean_Coast","SAmerCstN","Central America and Caribbean",9.33675677245365e-05
+"dairy","Caribbean_Coast","SAmerCstN","Central America and Caribbean",9.33675677245365e-05
+"pork","Caribbean_Coast","SAmerCstN","Central America and Caribbean",0.000130718886574111
+"poultry","Caribbean_Coast","SAmerCstN","Central America and Caribbean",4.9808950175499e-05
+"sheepgoat","Caribbean_Coast","SAmerCstN","Central America and Caribbean",0.000233145901339927
+"beef","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Central America and Caribbean",0.00314301136039328
+"dairy","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Central America and Caribbean",0.00314301136039328
+"pork","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Central America and Caribbean",0.00374866941857794
+"poultry","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Central America and Caribbean",0.00359257497854138
+"sheepgoat","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Central America and Caribbean",0.00178357322476419
+"beef","Grijalva_Usumacinta","GrijUsuR","Central America and Caribbean",0.0256702185078051
+"dairy","Grijalva_Usumacinta","GrijUsuR","Central America and Caribbean",0.0256702185078051
+"pork","Grijalva_Usumacinta","GrijUsuR","Central America and Caribbean",0.0143930199646613
+"poultry","Grijalva_Usumacinta","GrijUsuR","Central America and Caribbean",0.0202706578624315
+"sheepgoat","Grijalva_Usumacinta","GrijUsuR","Central America and Caribbean",0.0205032335574465
+"beef","Southern_Central_America","CntAmer","Central America and Caribbean",0.513449826919135
+"dairy","Southern_Central_America","CntAmer","Central America and Caribbean",0.513449826919135
+"pork","Southern_Central_America","CntAmer","Central America and Caribbean",0.327728344165799
+"poultry","Southern_Central_America","CntAmer","Central America and Caribbean",0.42372830733805
+"sheepgoat","Southern_Central_America","CntAmer","Central America and Caribbean",0.0514760591569518
+"beef","Yucatan_Peninsula","YucatanP","Central America and Caribbean",0.0450270587021842
+"dairy","Yucatan_Peninsula","YucatanP","Central America and Caribbean",0.0450270587021842
+"pork","Yucatan_Peninsula","YucatanP","Central America and Caribbean",0.120255050349298
+"poultry","Yucatan_Peninsula","YucatanP","Central America and Caribbean",0.11514207443498
+"sheepgoat","Yucatan_Peninsula","YucatanP","Central America and Caribbean",0.03981319304832
+"beef","Amu_Darya","AmuDaryaR","Central Asia",0.2748029563619
+"dairy","Amu_Darya","AmuDaryaR","Central Asia",0.2748029563619
+"pork","Amu_Darya","AmuDaryaR","Central Asia",0.124683399176768
+"poultry","Amu_Darya","AmuDaryaR","Central Asia",0.151298628707461
+"sheepgoat","Amu_Darya","AmuDaryaR","Central Asia",0.189884980963521
+"beef","Amur","AmurR","Central Asia",0.00789377693502213
+"dairy","Amur","AmurR","Central Asia",0.00789377693502213
+"pork","Amur","AmurR","Central Asia",0.00632351104729888
+"poultry","Amur","AmurR","Central Asia",0.0170798852860871
+"sheepgoat","Amur","AmurR","Central Asia",0.00518237900121332
+"beef","Black_Sea_South_Coast","BlackSeaS","Central Asia",0.00843935302264323
+"dairy","Black_Sea_South_Coast","BlackSeaS","Central Asia",0.00843935302264322
+"pork","Black_Sea_South_Coast","BlackSeaS","Central Asia",0.0025246126371532
+"poultry","Black_Sea_South_Coast","BlackSeaS","Central Asia",0.0344116435304084
+"sheepgoat","Black_Sea_South_Coast","BlackSeaS","Central Asia",0.0235438812317532
+"beef","Caspian_Sea_Coast","CaspianNE","Central Asia",0.0418241855578324
+"dairy","Caspian_Sea_Coast","CaspianNE","Central Asia",0.0418241855578324
+"pork","Caspian_Sea_Coast","CaspianNE","Central Asia",0.0187743201796234
+"poultry","Caspian_Sea_Coast","CaspianNE","Central Asia",0.0398087167327033
+"sheepgoat","Caspian_Sea_Coast","CaspianNE","Central Asia",0.0392389107495176
+"beef","Caspian_Sea_East_Coast","CaspianE","Central Asia",0.0343992083217199
+"dairy","Caspian_Sea_East_Coast","CaspianE","Central Asia",0.0343992083217199
+"pork","Caspian_Sea_East_Coast","CaspianE","Central Asia",0.073438187489258
+"poultry","Caspian_Sea_East_Coast","CaspianE","Central Asia",0.0858749198784458
+"sheepgoat","Caspian_Sea_East_Coast","CaspianE","Central Asia",0.125287006526019
+"beef","Caspian_Sea_South_West_Coast","CaspianSW","Central Asia",0.103230336633476
+"dairy","Caspian_Sea_South_West_Coast","CaspianSW","Central Asia",0.103230336633476
+"pork","Caspian_Sea_South_West_Coast","CaspianSW","Central Asia",0.265531562281139
+"poultry","Caspian_Sea_South_West_Coast","CaspianSW","Central Asia",0.214878299491286
+"sheepgoat","Caspian_Sea_South_West_Coast","CaspianSW","Central Asia",0.150175733006142
+"beef","Gobi_Interior","Gobi","Central Asia",0.0257103334604315
+"dairy","Gobi_Interior","Gobi","Central Asia",0.0257103334604314
+"pork","Gobi_Interior","Gobi","Central Asia",0.0104783935853149
+"poultry","Gobi_Interior","Gobi","Central Asia",0.0168506226022467
+"sheepgoat","Gobi_Interior","Gobi","Central Asia",0.141670802295556
+"beef","Lake_Balkash","LBalkash","Central Asia",0.0258490691794778
+"dairy","Lake_Balkash","LBalkash","Central Asia",0.0258490691794778
+"pork","Lake_Balkash","LBalkash","Central Asia",0.0060054498693789
+"poultry","Lake_Balkash","LBalkash","Central Asia",0.019379565596702
+"sheepgoat","Lake_Balkash","LBalkash","Central Asia",0.0358372560475943
+"beef","Ob","ObR","Central Asia",0.112725710929687
+"dairy","Ob","ObR","Central Asia",0.112725710929687
+"pork","Ob","ObR","Central Asia",0.0457501984604863
+"poultry","Ob","ObR","Central Asia",0.0648906593797461
+"sheepgoat","Ob","ObR","Central Asia",0.0603942230724866
+"beef","Syr_Darya","SyrDaryaR","Central Asia",0.287228492100867
+"dairy","Syr_Darya","SyrDaryaR","Central Asia",0.287228492100867
+"pork","Syr_Darya","SyrDaryaR","Central Asia",0.416238379654776
+"poultry","Syr_Darya","SyrDaryaR","Central Asia",0.310088779733277
+"sheepgoat","Syr_Darya","SyrDaryaR","Central Asia",0.151656535710675
+"beef","Tarim_Interior","Tarim","Central Asia",0.000509206856981735
+"dairy","Tarim_Interior","Tarim","Central Asia",0.000509206856981735
+"pork","Tarim_Interior","Tarim","Central Asia",9.50802034703953e-05
+"poultry","Tarim_Interior","Tarim","Central Asia",0.000732131438838318
+"sheepgoat","Tarim_Interior","Tarim","Central Asia",0.00330536773233986
+"beef","Ural","UralR","Central Asia",0.022152321920703
+"dairy","Ural","UralR","Central Asia",0.022152321920703
+"pork","Ural","UralR","Central Asia",0.00832626978164104
+"poultry","Ural","UralR","Central Asia",0.00979845707566986
+"sheepgoat","Ural","UralR","Central Asia",0.00903524874876039
+"beef","Volga","VolgaR","Central Asia",0.000454926269050674
+"dairy","Volga","VolgaR","Central Asia",0.000454926269050674
+"pork","Volga","VolgaR","Central Asia",0.000111729347195092
+"poultry","Volga","VolgaR","Central Asia",0.000241503420096267
+"sheepgoat","Volga","VolgaR","Central Asia",0.000162337795336916
+"beef","Yenisei","YeniseiR","Central Asia",0.0547801224502077
+"dairy","Yenisei","YeniseiR","Central Asia",0.0547801224502077
+"pork","Yenisei","YeniseiR","Central Asia",0.0217189062864969
+"poultry","Yenisei","YeniseiR","Central Asia",0.034666187127032
+"sheepgoat","Yenisei","YeniseiR","Central Asia",0.0646253371190845
+"beef","Amur","AmurR","China",0.0602514300916168
+"dairy","Amur","AmurR","China",0.0602514300916168
+"pork","Amur","AmurR","China",0.0327925290477506
+"poultry","Amur","AmurR","China",0.045819668761817
+"sheepgoat","Amur","AmurR","China",0.0495005451458584
+"beef","Bo_Hai_Korean_Bay_North_Coast","BoHai","China",0.0303329439835504
+"dairy","Bo_Hai_Korean_Bay_North_Coast","BoHai","China",0.0303329439835504
+"pork","Bo_Hai_Korean_Bay_North_Coast","BoHai","China",0.034559526006903
+"poultry","Bo_Hai_Korean_Bay_North_Coast","BoHai","China",0.0483171207607658
+"sheepgoat","Bo_Hai_Korean_Bay_North_Coast","BoHai","China",0.0426897296065357
+"beef","China_Coast","ChinaCst","China",0.0602784590006998
+"dairy","China_Coast","ChinaCst","China",0.0602784590006998
+"pork","China_Coast","ChinaCst","China",0.091702492401114
+"poultry","China_Coast","ChinaCst","China",0.165874096468322
+"sheepgoat","China_Coast","ChinaCst","China",0.0466307664052329
+"beef","Ganges_Bramaputra","GangesR","China",0.0218016107295416
+"dairy","Ganges_Bramaputra","GangesR","China",0.0218016107295416
+"pork","Ganges_Bramaputra","GangesR","China",0.0136534352348652
+"poultry","Ganges_Bramaputra","GangesR","China",0.00830860104912
+"sheepgoat","Ganges_Bramaputra","GangesR","China",0.0240073880008401
+"beef","Gobi_Interior","Gobi","China",0.0191271677593861
+"dairy","Gobi_Interior","Gobi","China",0.0191271677593861
+"pork","Gobi_Interior","Gobi","China",0.00529629034526481
+"poultry","Gobi_Interior","Gobi","China",0.00440598886790312
+"sheepgoat","Gobi_Interior","Gobi","China",0.131892959107469
+"beef","Hainan","Hainan","China",0.0130070935554485
+"dairy","Hainan","Hainan","China",0.0130070935554485
+"pork","Hainan","Hainan","China",0.00486662664856203
+"poultry","Hainan","Hainan","China",0.00686387933733801
+"sheepgoat","Hainan","Hainan","China",0.00297621680904831
+"beef","Hong_(Red_River)","Hong","China",0.0342337136828709
+"dairy","Hong_(Red_River)","Hong","China",0.0342337136828709
+"pork","Hong_(Red_River)","Hong","China",0.02620024363324
+"poultry","Hong_(Red_River)","Hong","China",0.0118261126158516
+"sheepgoat","Hong_(Red_River)","Hong","China",0.00529630779122503
+"beef","Huang_He","HuangHeR","China",0.10244319436954
+"dairy","Huang_He","HuangHeR","China",0.10244319436954
+"pork","Huang_He","HuangHeR","China",0.0721413616597498
+"poultry","Huang_He","HuangHeR","China",0.112007388134428
+"sheepgoat","Huang_He","HuangHeR","China",0.247916167384649
+"beef","Indus","IndusR","China",0.000142439454781637
+"dairy","Indus","IndusR","China",0.000142439454781637
+"pork","Indus","IndusR","China",0.000207361899686584
+"poultry","Indus","IndusR","China",4.71490852989347e-05
+"sheepgoat","Indus","IndusR","China",0.000193142307708623
+"beef","Irrawaddy","IrrawaddyR","China",0.0142601631967958
+"dairy","Irrawaddy","IrrawaddyR","China",0.0142601631967958
+"pork","Irrawaddy","IrrawaddyR","China",0.00138190464981501
+"poultry","Irrawaddy","IrrawaddyR","China",0.00133838708674962
+"sheepgoat","Irrawaddy","IrrawaddyR","China",0.00292560049738789
+"beef","Lake_Balkash","LBalkash","China",0.00558158182559253
+"dairy","Lake_Balkash","LBalkash","China",0.00558158182559253
+"pork","Lake_Balkash","LBalkash","China",0.000881032752413821
+"poultry","Lake_Balkash","LBalkash","China",0.00147075695552236
+"sheepgoat","Lake_Balkash","LBalkash","China",0.0096837916703135
+"beef","Mekong","Mekong","China",0.0495912891360677
+"dairy","Mekong","Mekong","China",0.0495912891360677
+"pork","Mekong","Mekong","China",0.0113360453174207
+"poultry","Mekong","Mekong","China",0.0128382115757217
+"sheepgoat","Mekong","Mekong","China",0.00924029246606831
+"beef","Ob","ObR","China",0.00860198867530236
+"dairy","Ob","ObR","China",0.00860198867530236
+"pork","Ob","ObR","China",0.00237193610798814
+"poultry","Ob","ObR","China",0.00174037388041557
+"sheepgoat","Ob","ObR","China",0.00576726069946839
+"beef","Plateau_of_Tibet_Interior","Tibet","China",1.16197926273435e-05
+"dairy","Plateau_of_Tibet_Interior","Tibet","China",1.16197926273435e-05
+"pork","Plateau_of_Tibet_Interior","Tibet","China",0
+"poultry","Plateau_of_Tibet_Interior","Tibet","China",8.59773047112189e-08
+"sheepgoat","Plateau_of_Tibet_Interior","Tibet","China",0.000151654386924231
+"beef","Russia_South_East_Coast","RusCstSE","China",0.00372121845615143
+"dairy","Russia_South_East_Coast","RusCstSE","China",0.00372121845615143
+"pork","Russia_South_East_Coast","RusCstSE","China",0.00117024352424183
+"poultry","Russia_South_East_Coast","RusCstSE","China",0.00125317160314086
+"sheepgoat","Russia_South_East_Coast","RusCstSE","China",0.00110598801889233
+"beef","Salween","Salween","China",0.0189114454229135
+"dairy","Salween","Salween","China",0.0189114454229135
+"pork","Salween","Salween","China",0.00350198298826
+"poultry","Salween","Salween","China",0.00275974555438502
+"sheepgoat","Salween","Salween","China",0.0056847327129049
+"beef","South_China_Sea_Coast","SChinaSea","China",0.019272567268469
+"dairy","South_China_Sea_Coast","SChinaSea","China",0.019272567268469
+"pork","South_China_Sea_Coast","SChinaSea","China",0.0229715561737781
+"poultry","South_China_Sea_Coast","SChinaSea","China",0.0261105176919037
+"sheepgoat","South_China_Sea_Coast","SChinaSea","China",0.00332155857557162
+"beef","Tarim_Interior","Tarim","China",0.00887730057600505
+"dairy","Tarim_Interior","Tarim","China",0.00887730057600504
+"pork","Tarim_Interior","Tarim","China",0.00112618802391278
+"poultry","Tarim_Interior","Tarim","China",0.00448600986424832
+"sheepgoat","Tarim_Interior","Tarim","China",0.072111539260898
+"beef","Xun_Jiang","XunJiang","China",0.128262479144908
+"dairy","Xun_Jiang","XunJiang","China",0.128262479144908
+"pork","Xun_Jiang","XunJiang","China",0.095712333838429
+"poultry","Xun_Jiang","XunJiang","China",0.0674493031191296
+"sheepgoat","Xun_Jiang","XunJiang","China",0.0158462780554421
+"beef","Yangtze","Yangtze","China",0.344465943348271
+"dairy","Yangtze","Yangtze","China",0.344465943348271
+"pork","Yangtze","Yangtze","China",0.526003207785103
+"poultry","Yangtze","Yangtze","China",0.364023013754497
+"sheepgoat","Yangtze","Yangtze","China",0.237669574075924
+"beef","Ziya_He_Interior","ZiyaHe","China",0.0568243505294611
+"dairy","Ziya_He_Interior","ZiyaHe","China",0.0568243505294611
+"pork","Ziya_He_Interior","ZiyaHe","China",0.0521237019615013
+"poultry","Ziya_He_Interior","ZiyaHe","China",0.113060417856136
+"sheepgoat","Ziya_He_Interior","ZiyaHe","China",0.0853885070216376
+"beef","Caribbean_Coast","SAmerCstN","Colombia",0.180228861270084
+"dairy","Caribbean_Coast","SAmerCstN","Colombia",0.180228861270084
+"pork","Caribbean_Coast","SAmerCstN","Colombia",0.315755595885581
+"poultry","Caribbean_Coast","SAmerCstN","Colombia",0.162454713864238
+"sheepgoat","Caribbean_Coast","SAmerCstN","Colombia",0.183613698912233
+"beef","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Colombia",0.043534608052867
+"dairy","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Colombia",0.043534608052867
+"pork","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Colombia",0.0649755933115917
+"poultry","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Colombia",0.0840797022042262
+"sheepgoat","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","Colombia",0.0100792596524772
+"beef","Magdalena","MagdalenaR","Colombia",0.643532725141044
+"dairy","Magdalena","MagdalenaR","Colombia",0.643532725141044
+"pork","Magdalena","MagdalenaR","Colombia",0.379608584130025
+"poultry","Magdalena","MagdalenaR","Colombia",0.540626294292503
+"sheepgoat","Magdalena","MagdalenaR","Colombia",0.717172990071398
+"beef","Orinoco","OrinocoR","Colombia",0.132703805536006
+"dairy","Orinoco","OrinocoR","Colombia",0.132703805536006
+"pork","Orinoco","OrinocoR","Colombia",0.239660226672802
+"poultry","Orinoco","OrinocoR","Colombia",0.212839289639033
+"sheepgoat","Orinoco","OrinocoR","Colombia",0.0891340513638918
+"beef","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-12",0.017954849964312
+"dairy","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-12",0.017954849964312
+"pork","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-12",0.0191226179398979
+"poultry","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-12",0.0348015526102139
+"sheepgoat","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-12",0.15258773169349
+"beef","Baltic_Sea_Coast","BalticSea","EU-12",0.0448717188827607
+"dairy","Baltic_Sea_Coast","BalticSea","EU-12",0.0448717188827607
+"pork","Baltic_Sea_Coast","BalticSea","EU-12",0.0149000541204638
+"poultry","Baltic_Sea_Coast","BalticSea","EU-12",0.010221226567338
+"sheepgoat","Baltic_Sea_Coast","BalticSea","EU-12",0.00958908521804137
+"beef","Danube","DanubeR","EU-12",0.2761505297914
+"dairy","Danube","DanubeR","EU-12",0.2761505297914
+"pork","Danube","DanubeR","EU-12",0.345444157049104
+"poultry","Danube","DanubeR","EU-12",0.308945615980749
+"sheepgoat","Danube","DanubeR","EU-12",0.375333840291613
+"beef","Daugava","DaugavaR","EU-12",0.00820629701566273
+"dairy","Daugava","DaugavaR","EU-12",0.00820629701566273
+"pork","Daugava","DaugavaR","EU-12",0.00481858941805357
+"poultry","Daugava","DaugavaR","EU-12",0.0034953890692638
+"sheepgoat","Daugava","DaugavaR","EU-12",0.00261015614760729
+"beef","Elbe","ElbeR","EU-12",0.087921975949405
+"dairy","Elbe","ElbeR","EU-12",0.087921975949405
+"pork","Elbe","ElbeR","EU-12",0.0672030948909073
+"poultry","Elbe","ElbeR","EU-12",0.0677572202862382
+"sheepgoat","Elbe","ElbeR","EU-12",0.0110293999227634
+"beef","Mediterranean_Sea_East_Coast","MeditE","EU-12",0.0029934388918355
+"dairy","Mediterranean_Sea_East_Coast","MeditE","EU-12",0.0029934388918355
+"pork","Mediterranean_Sea_East_Coast","MeditE","EU-12",0.00369007040631422
+"poultry","Mediterranean_Sea_East_Coast","MeditE","EU-12",0.0154374329362593
+"sheepgoat","Mediterranean_Sea_East_Coast","MeditE","EU-12",0.0170507161184156
+"beef","Narva","NarvaR","EU-12",0.00925885792104267
+"dairy","Narva","NarvaR","EU-12",0.00925885792104267
+"pork","Narva","NarvaR","EU-12",0.00335330928973223
+"poultry","Narva","NarvaR","EU-12",0.00531629431278298
+"sheepgoat","Narva","NarvaR","EU-12",0.00280554716863647
+"beef","Neman","NemanR","EU-12",0.0672967731764217
+"dairy","Neman","NemanR","EU-12",0.0672967731764217
+"pork","Neman","NemanR","EU-12",0.0323816228766895
+"poultry","Neman","NemanR","EU-12",0.0203957604967115
+"sheepgoat","Neman","NemanR","EU-12",0.0183553312666188
+"beef","Oder","OderR","EU-12",0.169888825984861
+"dairy","Oder","OderR","EU-12",0.169888825984861
+"pork","Oder","OderR","EU-12",0.178295250049746
+"poultry","Oder","OderR","EU-12",0.270919014688569
+"sheepgoat","Oder","OderR","EU-12",0.119551735550246
+"beef","Poland_Coast","PolandCst","EU-12",0.0271836993561866
+"dairy","Poland_Coast","PolandCst","EU-12",0.0271836993561866
+"pork","Poland_Coast","PolandCst","EU-12",0.0633593094276446
+"poultry","Poland_Coast","PolandCst","EU-12",0.0370066995262158
+"sheepgoat","Poland_Coast","PolandCst","EU-12",0.128351705617606
+"beef","Wisla","WislaR","EU-12",0.288273033066112
+"dairy","Wisla","WislaR","EU-12",0.288273033066112
+"pork","Wisla","WislaR","EU-12",0.267431924531446
+"poultry","Wisla","WislaR","EU-12",0.225703793525659
+"sheepgoat","Wisla","WislaR","EU-12",0.162734751004962
+"beef","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-15",0.00544160559617869
+"dairy","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-15",0.00544160559617869
+"pork","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-15",0.0111165462840105
+"poultry","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-15",0.012993700658107
+"sheepgoat","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","EU-15",0.0578970676239769
+"beef","Danube","DanubeR","EU-15",0.0412434348847738
+"dairy","Danube","DanubeR","EU-15",0.0412434348847738
+"pork","Danube","DanubeR","EU-15",0.0989609941794689
+"poultry","Danube","DanubeR","EU-15",0.0568433861213338
+"sheepgoat","Danube","DanubeR","EU-15",0.0701808040313455
+"beef","Denmark_Germany_Coast","DnkGrmCst","EU-15",0.0393367991469909
+"dairy","Denmark_Germany_Coast","DnkGrmCst","EU-15",0.0393367991469909
+"pork","Denmark_Germany_Coast","DnkGrmCst","EU-15",0.126517798870783
+"poultry","Denmark_Germany_Coast","DnkGrmCst","EU-15",0.023388153392866
+"sheepgoat","Denmark_Germany_Coast","DnkGrmCst","EU-15",0.00316474156227507
+"beef","Douro","DouroR","EU-15",0.020089184651902
+"dairy","Douro","DouroR","EU-15",0.020089184651902
+"pork","Douro","DouroR","EU-15",0.0338126152601423
+"poultry","Douro","DouroR","EU-15",0.0283197275170281
+"sheepgoat","Douro","DouroR","EU-15",0.0367233719547735
+"beef","Ebro","EbroR","EU-15",0.0178715071441594
+"dairy","Ebro","EbroR","EU-15",0.0178715071441594
+"pork","Ebro","EbroR","EU-15",0.0680946037410789
+"poultry","Ebro","EbroR","EU-15",0.0339478963792063
+"sheepgoat","Ebro","EbroR","EU-15",0.0570203293225326
+"beef","Elbe","ElbeR","EU-15",0.025991009068692
+"dairy","Elbe","ElbeR","EU-15",0.025991009068692
+"pork","Elbe","ElbeR","EU-15",0.0381059002707407
+"poultry","Elbe","ElbeR","EU-15",0.0246757430290804
+"sheepgoat","Elbe","ElbeR","EU-15",0.00408196480238192
+"beef","Ems_Weser","EmsWeserR","EU-15",0.0385564781350003
+"dairy","Ems_Weser","EmsWeserR","EU-15",0.0385564781350003
+"pork","Ems_Weser","EmsWeserR","EU-15",0.0551714906620426
+"poultry","Ems_Weser","EmsWeserR","EU-15",0.0376590295920518
+"sheepgoat","Ems_Weser","EmsWeserR","EU-15",0.00378554884984376
+"beef","England_and_Wales","EngWales","EU-15",0.0895251880008621
+"dairy","England_and_Wales","EngWales","EU-15",0.0895251880008621
+"pork","England_and_Wales","EngWales","EU-15",0.0351779876285755
+"poultry","England_and_Wales","EngWales","EU-15",0.144503549604731
+"sheepgoat","England_and_Wales","EngWales","EU-15",0.225846248716138
+"beef","Finland","Finland","EU-15",0.0122708409413066
+"dairy","Finland","Finland","EU-15",0.0122708409413066
+"pork","Finland","Finland","EU-15",0.0106335413395629
+"poultry","Finland","Finland","EU-15",0.00470131071464598
+"sheepgoat","Finland","Finland","EU-15",0.000715849201334709
+"beef","France_South_Coast","FranceCstS","EU-15",0.00544873780078619
+"dairy","France_South_Coast","FranceCstS","EU-15",0.00544873780078619
+"pork","France_South_Coast","FranceCstS","EU-15",0.00418528755913042
+"poultry","France_South_Coast","FranceCstS","EU-15",0.00268928336687329
+"sheepgoat","France_South_Coast","FranceCstS","EU-15",0.0102925634458509
+"beef","France_West_Coast","FranceCstW","EU-15",0.0656382421495317
+"dairy","France_West_Coast","FranceCstW","EU-15",0.0656382421495317
+"pork","France_West_Coast","FranceCstW","EU-15",0.051783544943267
+"poultry","France_West_Coast","FranceCstW","EU-15",0.10284615869755
+"sheepgoat","France_West_Coast","FranceCstW","EU-15",0.00745509651534135
+"beef","Gironde","Gironde","EU-15",0.0352313869613873
+"dairy","Gironde","Gironde","EU-15",0.0352313869613873
+"pork","Gironde","Gironde","EU-15",0.0111557900080073
+"poultry","Gironde","Gironde","EU-15",0.0121021788198719
+"sheepgoat","Gironde","Gironde","EU-15",0.0233524482560245
+"beef","Guadalquivir","GuadalqR","EU-15",0.0088849928346327
+"dairy","Guadalquivir","GuadalqR","EU-15",0.0088849928346327
+"pork","Guadalquivir","GuadalqR","EU-15",0.0147500045750402
+"poultry","Guadalquivir","GuadalqR","EU-15",0.0105153756287604
+"sheepgoat","Guadalquivir","GuadalqR","EU-15",0.0142272662410588
+"beef","Guadiana","GuadianaR","EU-15",0.0108751125427974
+"dairy","Guadiana","GuadianaR","EU-15",0.0108751125427974
+"pork","Guadiana","GuadianaR","EU-15",0.019746790113521
+"poultry","Guadiana","GuadianaR","EU-15",0.00885752375930332
+"sheepgoat","Guadiana","GuadianaR","EU-15",0.0319996310823404
+"beef","Ireland","Ireland","EU-15",0.107641892203448
+"dairy","Ireland","Ireland","EU-15",0.107641892203448
+"pork","Ireland","Ireland","EU-15",0.0137984277019837
+"poultry","Ireland","Ireland","EU-15",0.0305423014680468
+"sheepgoat","Ireland","Ireland","EU-15",0.0796971881886556
+"beef","Italy_East_Coast","ItalyCstE","EU-15",0.0223084412095923
+"dairy","Italy_East_Coast","ItalyCstE","EU-15",0.0223084412095923
+"pork","Italy_East_Coast","ItalyCstE","EU-15",0.0164331356624605
+"poultry","Italy_East_Coast","ItalyCstE","EU-15",0.0429244840501249
+"sheepgoat","Italy_East_Coast","ItalyCstE","EU-15",0.014034006179323
+"beef","Italy_West_Coast","ItalyCstW","EU-15",0.0131690616139775
+"dairy","Italy_West_Coast","ItalyCstW","EU-15",0.0131690616139775
+"pork","Italy_West_Coast","ItalyCstW","EU-15",0.00965870786167619
+"poultry","Italy_West_Coast","ItalyCstW","EU-15",0.0124278305832203
+"sheepgoat","Italy_West_Coast","ItalyCstW","EU-15",0.0279129225963308
+"beef","Loire","LoireR","EU-15",0.0702666490118436
+"dairy","Loire","LoireR","EU-15",0.0702666490118436
+"pork","Loire","LoireR","EU-15",0.0189350508703981
+"poultry","Loire","LoireR","EU-15",0.0385152141373047
+"sheepgoat","Loire","LoireR","EU-15",0.0279218644781393
+"beef","Mediterranean_Sea_Islands","MeditIsl","EU-15",0.00971674896445925
+"dairy","Mediterranean_Sea_Islands","MeditIsl","EU-15",0.00971674896445924
+"pork","Mediterranean_Sea_Islands","MeditIsl","EU-15",0.00533509829499274
+"poultry","Mediterranean_Sea_Islands","MeditIsl","EU-15",0.0135477767802952
+"sheepgoat","Mediterranean_Sea_Islands","MeditIsl","EU-15",0.0163086260463304
+"beef","Neva","NevaR","EU-15",0.000312978406227452
+"dairy","Neva","NevaR","EU-15",0.000312978406227452
+"pork","Neva","NevaR","EU-15",9.96467297156589e-05
+"poultry","Neva","NevaR","EU-15",0.000373711148447855
+"sheepgoat","Neva","NevaR","EU-15",0.000174684677253285
+"beef","Oder","OderR","EU-15",0.000685741019270415
+"dairy","Oder","OderR","EU-15",0.000685741019270415
+"pork","Oder","OderR","EU-15",0.00138042348196633
+"poultry","Oder","OderR","EU-15",0.00134717420289187
+"sheepgoat","Oder","OderR","EU-15",0.000604147341732417
+"beef","Po","PoR","EU-15",0.0368607501694629
+"dairy","Po","PoR","EU-15",0.0368607501694629
+"pork","Po","PoR","EU-15",0.038913549123296
+"poultry","Po","PoR","EU-15",0.042015985498396
+"sheepgoat","Po","PoR","EU-15",0.0117205174388563
+"beef","Rhine","RhineR","EU-15",0.125661128422021
+"dairy","Rhine","RhineR","EU-15",0.125661128422021
+"pork","Rhine","RhineR","EU-15",0.147735702807921
+"poultry","Rhine","RhineR","EU-15",0.124277994727422
+"sheepgoat","Rhine","RhineR","EU-15",0.0224832557590254
+"beef","Rhone","RhoneR","EU-15",0.0298947333693785
+"dairy","Rhone","RhoneR","EU-15",0.0298947333693785
+"pork","Rhone","RhoneR","EU-15",0.00986325353170241
+"poultry","Rhone","RhoneR","EU-15",0.0115422479053042
+"sheepgoat","Rhone","RhoneR","EU-15",0.014853468602912
+"beef","Scandinavia_North_Coast","ScndnvN","EU-15",0.000718211756899016
+"dairy","Scandinavia_North_Coast","ScndnvN","EU-15",0.000718211756899016
+"pork","Scandinavia_North_Coast","ScndnvN","EU-15",0.000252757045166333
+"poultry","Scandinavia_North_Coast","ScndnvN","EU-15",0.000334056254226556
+"sheepgoat","Scandinavia_North_Coast","ScndnvN","EU-15",0.000700406374757408
+"beef","Scheldt","ScheldtR","EU-15",0.0294743277026734
+"dairy","Scheldt","ScheldtR","EU-15",0.0294743277026734
+"pork","Scheldt","ScheldtR","EU-15",0.0565049192928068
+"poultry","Scheldt","ScheldtR","EU-15",0.0402948474068713
+"sheepgoat","Scheldt","ScheldtR","EU-15",0.00135544012450614
+"beef","Scotland","Scotland","EU-15",0.024073700784453
+"dairy","Scotland","Scotland","EU-15",0.024073700784453
+"pork","Scotland","Scotland","EU-15",0.0019490942134108
+"poultry","Scotland","Scotland","EU-15",0.0151395594824848
+"sheepgoat","Scotland","Scotland","EU-15",0.0711276604565685
+"beef","Seine","SeineR","EU-15",0.0265326517782365
+"dairy","Seine","SeineR","EU-15",0.0265326517782365
+"pork","Seine","SeineR","EU-15",0.008284763565887
+"poultry","Seine","SeineR","EU-15",0.0315988291315255
+"sheepgoat","Seine","SeineR","EU-15",0.00184952756407673
+"beef","Spain_Portugal_Atlantic_Coast","IberiaCst","EU-15",0.0280474812437256
+"dairy","Spain_Portugal_Atlantic_Coast","IberiaCst","EU-15",0.0280474812437256
+"pork","Spain_Portugal_Atlantic_Coast","IberiaCst","EU-15",0.0212180460535025
+"poultry","Spain_Portugal_Atlantic_Coast","IberiaCst","EU-15",0.0266756863911539
+"sheepgoat","Spain_Portugal_Atlantic_Coast","IberiaCst","EU-15",0.0876760112822783
+"beef","Spain_South_and_East_Coast","SpainCstSE","EU-15",0.0129612996530049
+"dairy","Spain_South_and_East_Coast","SpainCstSE","EU-15",0.0129612996530049
+"pork","Spain_South_and_East_Coast","SpainCstSE","EU-15",0.0329010961101957
+"poultry","Spain_South_and_East_Coast","SpainCstSE","EU-15",0.0302992422466774
+"sheepgoat","Spain_South_and_East_Coast","SpainCstSE","EU-15",0.0325706923344713
+"beef","Sweden","Sweden","EU-15",0.0297773752644603
+"dairy","Sweden","Sweden","EU-15",0.0297773752644603
+"pork","Sweden","Sweden","EU-15",0.0159505102279186
+"poultry","Sweden","Sweden","EU-15",0.0064667434855763
+"sheepgoat","Sweden","Sweden","EU-15",0.00435831429268431
+"beef","Tagus","TagusR","EU-15",0.0110115902883498
+"dairy","Tagus","TagusR","EU-15",0.0110115902883498
+"pork","Tagus","TagusR","EU-15",0.0184243669976128
+"poultry","Tagus","TagusR","EU-15",0.0209935723367746
+"sheepgoat","Tagus","TagusR","EU-15",0.0222044859061945
+"beef","Tiber","TiberR","EU-15",0.00448071727951588
+"dairy","Tiber","TiberR","EU-15",0.00448071727951588
+"pork","Tiber","TiberR","EU-15",0.00314855499201531
+"poultry","Tiber","TiberR","EU-15",0.00663972548184561
+"sheepgoat","Tiber","TiberR","EU-15",0.015703848750686
+"beef","Black_Sea_North_Coast","BlackSeaN","Europe_Eastern",0.139307768057259
+"dairy","Black_Sea_North_Coast","BlackSeaN","Europe_Eastern",0.139307768057259
+"pork","Black_Sea_North_Coast","BlackSeaN","Europe_Eastern",0.15073177553317
+"poultry","Black_Sea_North_Coast","BlackSeaN","Europe_Eastern",0.216606591676281
+"sheepgoat","Black_Sea_North_Coast","BlackSeaN","Europe_Eastern",0.187267010925345
+"beef","Danube","DanubeR","Europe_Eastern",0.0410950970710767
+"dairy","Danube","DanubeR","Europe_Eastern",0.0410950970710767
+"pork","Danube","DanubeR","Europe_Eastern",0.133649696851875
+"poultry","Danube","DanubeR","Europe_Eastern",0.103500284775461
+"sheepgoat","Danube","DanubeR","Europe_Eastern",0.0957663494187408
+"beef","Daugava","DaugavaR","Europe_Eastern",0.0140601888395377
+"dairy","Daugava","DaugavaR","Europe_Eastern",0.0140601888395377
+"pork","Daugava","DaugavaR","Europe_Eastern",0.0214639595605295
+"poultry","Daugava","DaugavaR","Europe_Eastern",0.0134820155533501
+"sheepgoat","Daugava","DaugavaR","Europe_Eastern",0.0076676360623349
+"beef","Dnieper","DnieperR","Europe_Eastern",0.625516215014037
+"dairy","Dnieper","DnieperR","Europe_Eastern",0.625516215014037
+"pork","Dnieper","DnieperR","Europe_Eastern",0.480768794293738
+"poultry","Dnieper","DnieperR","Europe_Eastern",0.451930022923259
+"sheepgoat","Dnieper","DnieperR","Europe_Eastern",0.268691061407172
+"beef","Dniester","DniesterR","Europe_Eastern",0.0365968410441891
+"dairy","Dniester","DniesterR","Europe_Eastern",0.0365968410441891
+"pork","Dniester","DniesterR","Europe_Eastern",0.0243943404241651
+"poultry","Dniester","DniesterR","Europe_Eastern",0.0574732374513009
+"sheepgoat","Dniester","DniesterR","Europe_Eastern",0.323592277494854
+"beef","Don","DonR","Europe_Eastern",0.0509540114163834
+"dairy","Don","DonR","Europe_Eastern",0.0509540114163834
+"pork","Don","DonR","Europe_Eastern",0.0367674336223448
+"poultry","Don","DonR","Europe_Eastern",0.0599087191209728
+"sheepgoat","Don","DonR","Europe_Eastern",0.0580241754844537
+"beef","Neman","NemanR","Europe_Eastern",0.0609890337967868
+"dairy","Neman","NemanR","Europe_Eastern",0.0609890337967868
+"pork","Neman","NemanR","Europe_Eastern",0.0762960615485773
+"poultry","Neman","NemanR","Europe_Eastern",0.0416114446806033
+"sheepgoat","Neman","NemanR","Europe_Eastern",0.0285213986991741
+"beef","Wisla","WislaR","Europe_Eastern",0.031480844760731
+"dairy","Wisla","WislaR","Europe_Eastern",0.031480844760731
+"pork","Wisla","WislaR","Europe_Eastern",0.0759279381656007
+"poultry","Wisla","WislaR","Europe_Eastern",0.0554876838187714
+"sheepgoat","Wisla","WislaR","Europe_Eastern",0.0304700905079252
+"beef","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","Europe_Non_EU",0.111555785235228
+"dairy","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","Europe_Non_EU",0.111555785235228
+"pork","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","Europe_Non_EU",0.135930394268114
+"poultry","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","Europe_Non_EU",0.102400752371119
+"sheepgoat","Adriatic_Sea_Greece_Black_Sea_Coast","AdrBlkSea","Europe_Non_EU",0.292352304264278
+"beef","Black_Sea_South_Coast","BlackSeaS","Europe_Non_EU",0.227175805574008
+"dairy","Black_Sea_South_Coast","BlackSeaS","Europe_Non_EU",0.227175805574008
+"pork","Black_Sea_South_Coast","BlackSeaS","Europe_Non_EU",0.0533507005135525
+"poultry","Black_Sea_South_Coast","BlackSeaS","Europe_Non_EU",0.243932216859064
+"sheepgoat","Black_Sea_South_Coast","BlackSeaS","Europe_Non_EU",0.159382781757823
+"beef","Caspian_Sea_South_West_Coast","CaspianSW","Europe_Non_EU",0.0487566300019256
+"dairy","Caspian_Sea_South_West_Coast","CaspianSW","Europe_Non_EU",0.0487566300019256
+"pork","Caspian_Sea_South_West_Coast","CaspianSW","Europe_Non_EU",0.0984543567211265
+"poultry","Caspian_Sea_South_West_Coast","CaspianSW","Europe_Non_EU",0.0267257387935029
+"sheepgoat","Caspian_Sea_South_West_Coast","CaspianSW","Europe_Non_EU",0.0178376040053108
+"beef","Danube","DanubeR","Europe_Non_EU",0.359270188872625
+"dairy","Danube","DanubeR","Europe_Non_EU",0.359270188872625
+"pork","Danube","DanubeR","Europe_Non_EU",0.514176311079005
+"poultry","Danube","DanubeR","Europe_Non_EU",0.190349416180889
+"sheepgoat","Danube","DanubeR","Europe_Non_EU",0.150580803767374
+"beef","Mediterranean_Sea_East_Coast","MeditE","Europe_Non_EU",0.140453871837858
+"dairy","Mediterranean_Sea_East_Coast","MeditE","Europe_Non_EU",0.140453871837858
+"pork","Mediterranean_Sea_East_Coast","MeditE","Europe_Non_EU",0.198087414150185
+"poultry","Mediterranean_Sea_East_Coast","MeditE","Europe_Non_EU",0.343030403002937
+"sheepgoat","Mediterranean_Sea_East_Coast","MeditE","Europe_Non_EU",0.246707600711313
+"beef","Tigris_Euphrates","TigrEuphR","Europe_Non_EU",0.112787718478355
+"dairy","Tigris_Euphrates","TigrEuphR","Europe_Non_EU",0.112787718478355
+"pork","Tigris_Euphrates","TigrEuphR","Europe_Non_EU",8.23268017344049e-07
+"poultry","Tigris_Euphrates","TigrEuphR","Europe_Non_EU",0.0935614727924871
+"sheepgoat","Tigris_Euphrates","TigrEuphR","Europe_Non_EU",0.133138905493902
+"beef","Danube","DanubeR","European Free Trade Association",0.00621059872698273
+"dairy","Danube","DanubeR","European Free Trade Association",0.00621059872698273
+"pork","Danube","DanubeR","European Free Trade Association",0.019353274031477
+"poultry","Danube","DanubeR","European Free Trade Association",0.0119636422634837
+"sheepgoat","Danube","DanubeR","European Free Trade Association",0.0194271888302084
+"beef","Iceland","Iceland","European Free Trade Association",0
+"dairy","Iceland","Iceland","European Free Trade Association",0
+"pork","Iceland","Iceland","European Free Trade Association",0.0199121720221969
+"poultry","Iceland","Iceland","European Free Trade Association",0.0122817045890598
+"sheepgoat","Iceland","Iceland","European Free Trade Association",0
+"beef","Po","PoR","European Free Trade Association",0.0172053375956166
+"dairy","Po","PoR","European Free Trade Association",0.0172053375956166
+"pork","Po","PoR","European Free Trade Association",0.0235891138058365
+"poultry","Po","PoR","European Free Trade Association",0.0274105922226377
+"sheepgoat","Po","PoR","European Free Trade Association",0.0100567763976541
+"beef","Rhine","RhineR","European Free Trade Association",0.454238525329921
+"dairy","Rhine","RhineR","European Free Trade Association",0.454238525329921
+"pork","Rhine","RhineR","European Free Trade Association",0.693553913192119
+"poultry","Rhine","RhineR","European Free Trade Association",0.62788785439348
+"sheepgoat","Rhine","RhineR","European Free Trade Association",0.149401580017411
+"beef","Rhone","RhoneR","European Free Trade Association",0.0794039691732027
+"dairy","Rhone","RhoneR","European Free Trade Association",0.0794039691732027
+"pork","Rhone","RhoneR","European Free Trade Association",0.0340235384613097
+"poultry","Rhone","RhoneR","European Free Trade Association",0.0428492042326321
+"sheepgoat","Rhone","RhoneR","European Free Trade Association",0.0725251089668996
+"beef","Scandinavia_North_Coast","ScndnvN","European Free Trade Association",0.413094002706612
+"dairy","Scandinavia_North_Coast","ScndnvN","European Free Trade Association",0.413094002706612
+"pork","Scandinavia_North_Coast","ScndnvN","European Free Trade Association",0.188804092351324
+"poultry","Scandinavia_North_Coast","ScndnvN","European Free Trade Association",0.268547319684339
+"sheepgoat","Scandinavia_North_Coast","ScndnvN","European Free Trade Association",0.740558634015841
+"beef","Sweden","Sweden","European Free Trade Association",0.0298475664676651
+"dairy","Sweden","Sweden","European Free Trade Association",0.0298475664676651
+"pork","Sweden","Sweden","European Free Trade Association",0.0207638961357375
+"poultry","Sweden","Sweden","European Free Trade Association",0.00905968261436737
+"sheepgoat","Sweden","Sweden","European Free Trade Association",0.00803071177198545
+"beef","Bay_of_Bengal_North_East_Coast","BengalBay","India",0.000596722794687671
+"dairy","Bay_of_Bengal_North_East_Coast","BengalBay","India",0.000596722794687671
+"pork","Bay_of_Bengal_North_East_Coast","BengalBay","India",6.03553339762739e-05
+"poultry","Bay_of_Bengal_North_East_Coast","BengalBay","India",0.000265160948331062
+"sheepgoat","Bay_of_Bengal_North_East_Coast","BengalBay","India",0.000409259847676601
+"beef","Brahmani","BrahmaniR","India",0.0231001624163091
+"dairy","Brahmani","BrahmaniR","India",0.0231001624163091
+"pork","Brahmani","BrahmaniR","India",0.00832759744221858
+"poultry","Brahmani","BrahmaniR","India",0.020508681887949
+"sheepgoat","Brahmani","BrahmaniR","India",0.0124342059539481
+"beef","Cauvery","CauveryR","India",0.0259325473003882
+"dairy","Cauvery","CauveryR","India",0.0259325473003882
+"pork","Cauvery","CauveryR","India",0.0328755661148797
+"poultry","Cauvery","CauveryR","India",0.0682469688451468
+"sheepgoat","Cauvery","CauveryR","India",0.029198074240254
+"beef","Ganges_Bramaputra","GangesR","India",0.385023349630392
+"dairy","Ganges_Bramaputra","GangesR","India",0.385023349630392
+"pork","Ganges_Bramaputra","GangesR","India",0.444819410268125
+"poultry","Ganges_Bramaputra","GangesR","India",0.333159106105482
+"sheepgoat","Ganges_Bramaputra","GangesR","India",0.364049850089835
+"beef","Godavari","GodavariR","India",0.105976571370265
+"dairy","Godavari","GodavariR","India",0.105976571370265
+"pork","Godavari","GodavariR","India",0.0921627134022613
+"poultry","Godavari","GodavariR","India",0.098567924496011
+"sheepgoat","Godavari","GodavariR","India",0.0781894086139381
+"beef","India_East_Coast","IndCstE","India",0.0201363458968569
+"dairy","India_East_Coast","IndCstE","India",0.0201363458968569
+"pork","India_East_Coast","IndCstE","India",0.0197271504494456
+"poultry","India_East_Coast","IndCstE","India",0.035275609848551
+"sheepgoat","India_East_Coast","IndCstE","India",0.0292359039352341
+"beef","India_North_East_Coast","IndCstNE","India",0.0134230707678041
+"dairy","India_North_East_Coast","IndCstNE","India",0.0134230707678041
+"pork","India_North_East_Coast","IndCstNE","India",0.00943816785048295
+"poultry","India_North_East_Coast","IndCstNE","India",0.0291810090948972
+"sheepgoat","India_North_East_Coast","IndCstNE","India",0.00220186627354665
+"beef","India_South_Coast","IndCstS","India",0.0172624159577698
+"dairy","India_South_Coast","IndCstS","India",0.0172624159577698
+"pork","India_South_Coast","IndCstS","India",0.0572893080886027
+"poultry","India_South_Coast","IndCstS","India",0.0542593074486218
+"sheepgoat","India_South_Coast","IndCstS","India",0.0317906122947016
+"beef","India_West_Coast","IndCstW","India",0.0233339546154879
+"dairy","India_West_Coast","IndCstW","India",0.0233339546154879
+"pork","India_West_Coast","IndCstW","India",0.0388587193248891
+"poultry","India_West_Coast","IndCstW","India",0.0455000321577695
+"sheepgoat","India_West_Coast","IndCstW","India",0.0119799737360467
+"beef","Indus","IndusR","India",0.0358219330061077
+"dairy","Indus","IndusR","India",0.0358219330061077
+"pork","Indus","IndusR","India",0.0962035251420118
+"poultry","Indus","IndusR","India",0.0269226175288243
+"sheepgoat","Indus","IndusR","India",0.0417074453057037
+"beef","Irrawaddy","IrrawaddyR","India",0.00230576909180276
+"dairy","Irrawaddy","IrrawaddyR","India",0.00230576909180276
+"pork","Irrawaddy","IrrawaddyR","India",0.00041220447675772
+"poultry","Irrawaddy","IrrawaddyR","India",0.000491358360929168
+"sheepgoat","Irrawaddy","IrrawaddyR","India",0.000406184920998972
+"beef","Krishna","KrishnaR","India",0.0782516614390526
+"dairy","Krishna","KrishnaR","India",0.0782516614390527
+"pork","Krishna","KrishnaR","India",0.0614079305979736
+"poultry","Krishna","KrishnaR","India",0.0998772567783548
+"sheepgoat","Krishna","KrishnaR","India",0.113048622085095
+"beef","Mahanadi","MahanadiR","India",0.0535284788480264
+"dairy","Mahanadi","MahanadiR","India",0.0535284788480264
+"pork","Mahanadi","MahanadiR","India",0.0354684422694626
+"poultry","Mahanadi","MahanadiR","India",0.0413136065924116
+"sheepgoat","Mahanadi","MahanadiR","India",0.0310013681125527
+"beef","Mahi","MahiR","India",0.0172245066427614
+"dairy","Mahi","MahiR","India",0.0172245066427614
+"pork","Mahi","MahiR","India",0.00554448212556982
+"poultry","Mahi","MahiR","India",0.00575823619998505
+"sheepgoat","Mahi","MahiR","India",0.0236525561898575
+"beef","Narmada","NarmadaR","India",0.0351560170434728
+"dairy","Narmada","NarmadaR","India",0.0351560170434728
+"pork","Narmada","NarmadaR","India",0.0313890851674589
+"poultry","Narmada","NarmadaR","India",0.015237777569997
+"sheepgoat","Narmada","NarmadaR","India",0.0244394304008616
+"beef","Pennar","PennarR","India",0.0214339333098367
+"dairy","Pennar","PennarR","India",0.0214339333098367
+"pork","Pennar","PennarR","India",0.0179594608705734
+"poultry","Pennar","PennarR","India",0.0395676551803413
+"sheepgoat","Pennar","PennarR","India",0.0289201764767385
+"beef","Sabarmati","SabarmatiR","India",0.075740454514698
+"dairy","Sabarmati","SabarmatiR","India",0.0757404545146981
+"pork","Sabarmati","SabarmatiR","India",0.0275421068318376
+"poultry","Sabarmati","SabarmatiR","India",0.0306651736971113
+"sheepgoat","Sabarmati","SabarmatiR","India",0.128526384445289
+"beef","Tapti","TaptiR","India",0.0213617706613273
+"dairy","Tapti","TaptiR","India",0.0213617706613273
+"pork","Tapti","TaptiR","India",0.0114278476445033
+"poultry","Tapti","TaptiR","India",0.0162385078719925
+"sheepgoat","Tapti","TaptiR","India",0.0120788885097715
+"beef","Yasai","BengalW","India",0.044390334692954
+"dairy","Yasai","BengalW","India",0.0443903346929541
+"pork","Yasai","BengalW","India",0.00908592659897001
+"poultry","Yasai","BengalW","India",0.0389640093872939
+"sheepgoat","Yasai","BengalW","India",0.0367297885679496
+"beef","Fly","FlyR","Indonesia",0.000180156579962168
+"dairy","Fly","FlyR","Indonesia",0.000180156579962168
+"pork","Fly","FlyR","Indonesia",0.000803445752540595
+"poultry","Fly","FlyR","Indonesia",0.0001090118576271
+"sheepgoat","Fly","FlyR","Indonesia",9.3752989543916e-05
+"beef","Irian_Jaya_Coast","IrianJaya","Indonesia",0.0540729341065937
+"dairy","Irian_Jaya_Coast","IrianJaya","Indonesia",0.0540729341065937
+"pork","Irian_Jaya_Coast","IrianJaya","Indonesia",0.121479833441499
+"poultry","Irian_Jaya_Coast","IrianJaya","Indonesia",0.0191850700844035
+"sheepgoat","Irian_Jaya_Coast","IrianJaya","Indonesia",0.0477281844534557
+"beef","Java_Timor","JavaTimor","Indonesia",0.314012906507106
+"dairy","Java_Timor","JavaTimor","Indonesia",0.314012906507106
+"pork","Java_Timor","JavaTimor","Indonesia",0.277613360153774
+"poultry","Java_Timor","JavaTimor","Indonesia",0.485563933140458
+"sheepgoat","Java_Timor","JavaTimor","Indonesia",0.447248744551176
+"beef","Kalimantan","Kalimantan","Indonesia",0.0793931061541723
+"dairy","Kalimantan","Kalimantan","Indonesia",0.0793931061541723
+"pork","Kalimantan","Kalimantan","Indonesia",0.106291200729571
+"poultry","Kalimantan","Kalimantan","Indonesia",0.106381364839277
+"sheepgoat","Kalimantan","Kalimantan","Indonesia",0.126908736996452
+"beef","North_Borneo_Coast","BorneoCstN","Indonesia",0.00117514282644894
+"dairy","North_Borneo_Coast","BorneoCstN","Indonesia",0.00117514282644894
+"pork","North_Borneo_Coast","BorneoCstN","Indonesia",0.00102474810557129
+"poultry","North_Borneo_Coast","BorneoCstN","Indonesia",0.00498319290452055
+"sheepgoat","North_Borneo_Coast","BorneoCstN","Indonesia",0.000369271641124969
+"beef","Palau_and_East_Indonesia","IdnE","Indonesia",0.0279140319478304
+"dairy","Palau_and_East_Indonesia","IdnE","Indonesia",0.0279140319478304
+"pork","Palau_and_East_Indonesia","IdnE","Indonesia",0.0394298321592183
+"poultry","Palau_and_East_Indonesia","IdnE","Indonesia",0.0190937741330228
+"sheepgoat","Palau_and_East_Indonesia","IdnE","Indonesia",0.0196732552813452
+"beef","Sulawesi","Sulawesi","Indonesia",0.334582607421092
+"dairy","Sulawesi","Sulawesi","Indonesia",0.334582607421092
+"pork","Sulawesi","Sulawesi","Indonesia",0.261011822615996
+"poultry","Sulawesi","Sulawesi","Indonesia",0.0948555689760322
+"sheepgoat","Sulawesi","Sulawesi","Indonesia",0.0823769036546678
+"beef","Sumatra","Sumatra","Indonesia",0.188669114456795
+"dairy","Sumatra","Sumatra","Indonesia",0.188669114456795
+"pork","Sumatra","Sumatra","Indonesia",0.19234575704183
+"poultry","Sumatra","Sumatra","Indonesia",0.269828084064659
+"sheepgoat","Sumatra","Sumatra","Indonesia",0.275601150432235
+"beef","Japan","Japan","Japan",1
+"dairy","Japan","Japan","Japan",1
+"pork","Japan","Japan","Japan",1
+"poultry","Japan","Japan","Japan",1
+"sheepgoat","Japan","Japan","Japan",1
+"beef","Baja_California","MexBaja","Mexico",0.00865136574344842
+"dairy","Baja_California","MexBaja","Mexico",0.00865136574344842
+"pork","Baja_California","MexBaja","Mexico",0.00296400700256895
+"poultry","Baja_California","MexBaja","Mexico",0.00501716539303459
+"sheepgoat","Baja_California","MexBaja","Mexico",0.00824327666856657
+"beef","California_River_Basin","California","Mexico",0.000266399107197938
+"dairy","California_River_Basin","California","Mexico",0.000266399107197938
+"pork","California_River_Basin","California","Mexico",1.443405073701e-05
+"poultry","California_River_Basin","California","Mexico",0.000404786729673362
+"sheepgoat","California_River_Basin","California","Mexico",0.000356058661850068
+"beef","Grijalva_Usumacinta","GrijUsuR","Mexico",0.0421591563190866
+"dairy","Grijalva_Usumacinta","GrijUsuR","Mexico",0.0421591563190866
+"pork","Grijalva_Usumacinta","GrijUsuR","Mexico",0.0218022455248796
+"poultry","Grijalva_Usumacinta","GrijUsuR","Mexico",0.0268938301079293
+"sheepgoat","Grijalva_Usumacinta","GrijUsuR","Mexico",0.0179673449326252
+"beef","Isthmus_of_Tehuantepec","Tehuantpc","Mexico",0.0777989522693568
+"dairy","Isthmus_of_Tehuantepec","Tehuantpc","Mexico",0.0777989522693568
+"pork","Isthmus_of_Tehuantepec","Tehuantpc","Mexico",0.0643000506924387
+"poultry","Isthmus_of_Tehuantepec","Tehuantpc","Mexico",0.0150900740935386
+"sheepgoat","Isthmus_of_Tehuantepec","Tehuantpc","Mexico",0.0643290571189876
+"beef","Lower_Colorado_River_Basin","UsaColoRS","Mexico",0.0121098985410839
+"dairy","Lower_Colorado_River_Basin","UsaColoRS","Mexico",0.0121098985410839
+"pork","Lower_Colorado_River_Basin","UsaColoRS","Mexico",0.00571343741653901
+"poultry","Lower_Colorado_River_Basin","UsaColoRS","Mexico",0.00953534438230687
+"sheepgoat","Lower_Colorado_River_Basin","UsaColoRS","Mexico",0.0062647698376931
+"beef","Mexico_Interior","MexInt","Mexico",0.0919958029166489
+"dairy","Mexico_Interior","MexInt","Mexico",0.0919958029166489
+"pork","Mexico_Interior","MexInt","Mexico",0.0434683239313764
+"poultry","Mexico_Interior","MexInt","Mexico",0.0275740642287506
+"sheepgoat","Mexico_Interior","MexInt","Mexico",0.133627821486567
+"beef","Mexico_Northwest_Coast","MexCstNW","Mexico",0.119973121942509
+"dairy","Mexico_Northwest_Coast","MexCstNW","Mexico",0.119973121942509
+"pork","Mexico_Northwest_Coast","MexCstNW","Mexico",0.0977641556408975
+"poultry","Mexico_Northwest_Coast","MexCstNW","Mexico",0.0843525938876389
+"sheepgoat","Mexico_Northwest_Coast","MexCstNW","Mexico",0.0221774621219079
+"beef","North_Gulf","MexGulf","Mexico",0.065522713560505
+"dairy","North_Gulf","MexGulf","Mexico",0.065522713560505
+"pork","North_Gulf","MexGulf","Mexico",0.0378675685450064
+"poultry","North_Gulf","MexGulf","Mexico",0.0421977673983292
+"sheepgoat","North_Gulf","MexGulf","Mexico",0.0595428145307109
+"beef","Pacific_Central_Coast","MexCstW","Mexico",0.0700680397440582
+"dairy","Pacific_Central_Coast","MexCstW","Mexico",0.0700680397440582
+"pork","Pacific_Central_Coast","MexCstW","Mexico",0.0905873152125674
+"poultry","Pacific_Central_Coast","MexCstW","Mexico",0.218285827636551
+"sheepgoat","Pacific_Central_Coast","MexCstW","Mexico",0.0455366778087416
+"beef","Papaloapan","Papaloapan","Mexico",0.0668165372440153
+"dairy","Papaloapan","Papaloapan","Mexico",0.0668165372440153
+"pork","Papaloapan","Papaloapan","Mexico",0.0600797539204003
+"poultry","Papaloapan","Papaloapan","Mexico",0.0415697857940035
+"sheepgoat","Papaloapan","Papaloapan","Mexico",0.0416288621938506
+"beef","Rio_Balsas","RioBalsas","Mexico",0.129883248448692
+"dairy","Rio_Balsas","RioBalsas","Mexico",0.129883248448692
+"pork","Rio_Balsas","RioBalsas","Mexico",0.214741913583098
+"poultry","Rio_Balsas","RioBalsas","Mexico",0.22164556032752
+"sheepgoat","Rio_Balsas","RioBalsas","Mexico",0.215313011516546
+"beef","Rio_Grande_River_Basin","RioGrande","Mexico",0.10106404415823
+"dairy","Rio_Grande_River_Basin","RioGrande","Mexico",0.10106404415823
+"pork","Rio_Grande_River_Basin","RioGrande","Mexico",0.031855406194283
+"poultry","Rio_Grande_River_Basin","RioGrande","Mexico",0.0309559568654975
+"sheepgoat","Rio_Grande_River_Basin","RioGrande","Mexico",0.0756139995637912
+"beef","Rio_Lerma","RioLerma","Mexico",0.118523210009203
+"dairy","Rio_Lerma","RioLerma","Mexico",0.118523210009203
+"pork","Rio_Lerma","RioLerma","Mexico",0.190876515890209
+"poultry","Rio_Lerma","RioLerma","Mexico",0.189375945425649
+"sheepgoat","Rio_Lerma","RioLerma","Mexico",0.129253718220332
+"beef","Rio_Verde","RioVerde","Mexico",0.0695159700419301
+"dairy","Rio_Verde","RioVerde","Mexico",0.0695159700419301
+"pork","Rio_Verde","RioVerde","Mexico",0.0763726418133268
+"poultry","Rio_Verde","RioVerde","Mexico",0.0353015205277495
+"sheepgoat","Rio_Verde","RioVerde","Mexico",0.168398816021765
+"beef","Southern_Central_America","CntAmer","Mexico",0.000850918853133655
+"dairy","Southern_Central_America","CntAmer","Mexico",0.000850918853133655
+"pork","Southern_Central_America","CntAmer","Mexico",0.000500946204568071
+"poultry","Southern_Central_America","CntAmer","Mexico",0.000567283406410364
+"sheepgoat","Southern_Central_America","CntAmer","Mexico",4.55192005784725e-05
+"beef","Yucatan_Peninsula","YucatanP","Mexico",0.0248006211009009
+"dairy","Yucatan_Peninsula","YucatanP","Mexico",0.0248006211009009
+"pork","Yucatan_Peninsula","YucatanP","Mexico",0.0610912843771038
+"poultry","Yucatan_Peninsula","YucatanP","Mexico",0.0512324937954171
+"sheepgoat","Yucatan_Peninsula","YucatanP","Mexico",0.0117007901154879
+"beef","Arabian_Peninsula","ArabianP","Middle East",0.039151920910018
+"dairy","Arabian_Peninsula","ArabianP","Middle East",0.039151920910018
+"pork","Arabian_Peninsula","ArabianP","Middle East",0
+"poultry","Arabian_Peninsula","ArabianP","Middle East",0.208750563781284
+"sheepgoat","Arabian_Peninsula","ArabianP","Middle East",0.0924881137042808
+"beef","Arabian_Sea_Coast","ArabianSea","Middle East",0.00628468987905234
+"dairy","Arabian_Sea_Coast","ArabianSea","Middle East",0.00628468987905234
+"pork","Arabian_Sea_Coast","ArabianSea","Middle East",0
+"poultry","Arabian_Sea_Coast","ArabianSea","Middle East",0.00388868653012453
+"sheepgoat","Arabian_Sea_Coast","ArabianSea","Middle East",0.0037637964988153
+"beef","Caspian_Sea_East_Coast","CaspianE","Middle East",0.0832754552255684
+"dairy","Caspian_Sea_East_Coast","CaspianE","Middle East",0.0832754552255684
+"pork","Caspian_Sea_East_Coast","CaspianE","Middle East",0.0682214801381494
+"poultry","Caspian_Sea_East_Coast","CaspianE","Middle East",0.0395176102773608
+"sheepgoat","Caspian_Sea_East_Coast","CaspianE","Middle East",0.0604327284403457
+"beef","Caspian_Sea_South_West_Coast","CaspianSW","Middle East",0.243134485095652
+"dairy","Caspian_Sea_South_West_Coast","CaspianSW","Middle East",0.243134485095652
+"pork","Caspian_Sea_South_West_Coast","CaspianSW","Middle East",0.23998604521337
+"poultry","Caspian_Sea_South_West_Coast","CaspianSW","Middle East",0.0962027612805593
+"sheepgoat","Caspian_Sea_South_West_Coast","CaspianSW","Middle East",0.0704752427095267
+"beef","Central_Iran","Iran","Middle East",0.134916374062742
+"dairy","Central_Iran","Iran","Middle East",0.134916374062742
+"pork","Central_Iran","Iran","Middle East",0
+"poultry","Central_Iran","Iran","Middle East",0.225419996425029
+"sheepgoat","Central_Iran","Iran","Middle East",0.13052396607333
+"beef","Dead_Sea","DeadSea","Middle East",0.0128943841721603
+"dairy","Dead_Sea","DeadSea","Middle East",0.0128943841721603
+"pork","Dead_Sea","DeadSea","Middle East",0.644021640192477
+"poultry","Dead_Sea","DeadSea","Middle East",0.0368746692797837
+"sheepgoat","Dead_Sea","DeadSea","Middle East",0.0272489755899543
+"beef","Eastern_Jordan_Syria","EJrdnSyr","Middle East",0.00859364613309696
+"dairy","Eastern_Jordan_Syria","EJrdnSyr","Middle East",0.00859364613309696
+"pork","Eastern_Jordan_Syria","EJrdnSyr","Middle East",0
+"poultry","Eastern_Jordan_Syria","EJrdnSyr","Middle East",0.0192705124080792
+"sheepgoat","Eastern_Jordan_Syria","EJrdnSyr","Middle East",0.0333449863819948
+"beef","Farahrud","FarahrudR","Middle East",0.00195654726932835
+"dairy","Farahrud","FarahrudR","Middle East",0.00195654726932835
+"pork","Farahrud","FarahrudR","Middle East",0
+"poultry","Farahrud","FarahrudR","Middle East",0.000748024523231526
+"sheepgoat","Farahrud","FarahrudR","Middle East",0.00141583832504022
+"beef","HamuniMashkel","HamuMashR","Middle East",0.000528428617961977
+"dairy","HamuniMashkel","HamuMashR","Middle East",0.000528428617961977
+"pork","HamuniMashkel","HamuMashR","Middle East",0
+"poultry","HamuniMashkel","HamuMashR","Middle East",0.00163746629077858
+"sheepgoat","HamuniMashkel","HamuMashR","Middle East",0.00158652657527253
+"beef","Helmand","Helmand","Middle East",8.84794834671496e-05
+"dairy","Helmand","Helmand","Middle East",8.84794834671496e-05
+"pork","Helmand","Helmand","Middle East",0
+"poultry","Helmand","Helmand","Middle East",1.94510054430655e-05
+"sheepgoat","Helmand","Helmand","Middle East",7.52340575814384e-05
+"beef","Mediterranean_Sea_East_Coast","MeditE","Middle East",0.0341751848872738
+"dairy","Mediterranean_Sea_East_Coast","MeditE","Middle East",0.0341751848872738
+"pork","Mediterranean_Sea_East_Coast","MeditE","Middle East",0.0235598330308985
+"poultry","Mediterranean_Sea_East_Coast","MeditE","Middle East",0.0602496748188908
+"sheepgoat","Mediterranean_Sea_East_Coast","MeditE","Middle East",0.0475605498737583
+"beef","Persian_Gulf_Coast","PersianGulf","Middle East",0.0842524940617535
+"dairy","Persian_Gulf_Coast","PersianGulf","Middle East",0.0842524940617535
+"pork","Persian_Gulf_Coast","PersianGulf","Middle East",0
+"poultry","Persian_Gulf_Coast","PersianGulf","Middle East",0.0552992416630606
+"sheepgoat","Persian_Gulf_Coast","PersianGulf","Middle East",0.186834030329986
+"beef","Red_Sea_East_Coast","RedSeaE","Middle East",0.0809328322442181
+"dairy","Red_Sea_East_Coast","RedSeaE","Middle East",0.0809328322442181
+"pork","Red_Sea_East_Coast","RedSeaE","Middle East",1.30144639660046e-06
+"poultry","Red_Sea_East_Coast","RedSeaE","Middle East",0.0905757494174273
+"sheepgoat","Red_Sea_East_Coast","RedSeaE","Middle East",0.0919222320882163
+"beef","Sinai_Peninsula","SinaiP","Middle East",0.0001298778135434
+"dairy","Sinai_Peninsula","SinaiP","Middle East",0.0001298778135434
+"pork","Sinai_Peninsula","SinaiP","Middle East",0.024208737757966
+"poultry","Sinai_Peninsula","SinaiP","Middle East",5.86957204733213e-05
+"sheepgoat","Sinai_Peninsula","SinaiP","Middle East",0.000103166037460161
+"beef","Tigris_Euphrates","TigrEuphR","Middle East",0.269685200144164
+"dairy","Tigris_Euphrates","TigrEuphR","Middle East",0.269685200144164
+"pork","Tigris_Euphrates","TigrEuphR","Middle East",9.62220742573826e-07
+"poultry","Tigris_Euphrates","TigrEuphR","Middle East",0.161486896578474
+"sheepgoat","Tigris_Euphrates","TigrEuphR","Middle East",0.252224613314438
+"beef","Arabian_Sea_Coast","ArabianSea","Pakistan",0.0176048794720261
+"dairy","Arabian_Sea_Coast","ArabianSea","Pakistan",0.0176048794720261
+"poultry","Arabian_Sea_Coast","ArabianSea","Pakistan",0.060875643855565
+"sheepgoat","Arabian_Sea_Coast","ArabianSea","Pakistan",0.0441428656754338
+"beef","HamuniMashkel","HamuMashR","Pakistan",0.000990408073634574
+"dairy","HamuniMashkel","HamuMashR","Pakistan",0.000990408073634574
+"poultry","HamuniMashkel","HamuMashR","Pakistan",0.0171510865496729
+"sheepgoat","HamuniMashkel","HamuMashR","Pakistan",0.0124497427891996
+"beef","Helmand","Helmand","Pakistan",0.000917892270592152
+"dairy","Helmand","Helmand","Pakistan",0.000917892270592152
+"poultry","Helmand","Helmand","Pakistan",0.001127671533307
+"sheepgoat","Helmand","Helmand","Pakistan",0.00326774985989727
+"beef","Indus","IndusR","Pakistan",0.850251443295419
+"dairy","Indus","IndusR","Pakistan",0.850251443295419
+"poultry","Indus","IndusR","Pakistan",0.850654198636783
+"sheepgoat","Indus","IndusR","Pakistan",0.768562123021566
+"beef","Sabarmati","SabarmatiR","Pakistan",0.130235376888328
+"dairy","Sabarmati","SabarmatiR","Pakistan",0.130235376888328
+"poultry","Sabarmati","SabarmatiR","Pakistan",0.070191399424672
+"sheepgoat","Sabarmati","SabarmatiR","Pakistan",0.171577518653904
+"beef","Amur","AmurR","Russia",0.0140829510743758
+"dairy","Amur","AmurR","Russia",0.0140829510743758
+"pork","Amur","AmurR","Russia",0.0318106038936085
+"poultry","Amur","AmurR","Russia",0.0424837518613208
+"sheepgoat","Amur","AmurR","Russia",0.0158307176580214
+"beef","Baltic_Sea_Coast","BalticSea","Russia",0.00179758395133954
+"dairy","Baltic_Sea_Coast","BalticSea","Russia",0.00179758395133954
+"pork","Baltic_Sea_Coast","BalticSea","Russia",0.00245287599398574
+"poultry","Baltic_Sea_Coast","BalticSea","Russia",0.00102667259737509
+"sheepgoat","Baltic_Sea_Coast","BalticSea","Russia",0.000806533538093753
+"beef","Black_Sea_North_Coast","BlackSeaN","Russia",0.0383416756601648
+"dairy","Black_Sea_North_Coast","BlackSeaN","Russia",0.0383416756601648
+"pork","Black_Sea_North_Coast","BlackSeaN","Russia",0.0655731193950393
+"poultry","Black_Sea_North_Coast","BlackSeaN","Russia",0.0663994566004867
+"sheepgoat","Black_Sea_North_Coast","BlackSeaN","Russia",0.0631153115644668
+"beef","Black_Sea_South_Coast","BlackSeaS","Russia",0.000181161488209953
+"dairy","Black_Sea_South_Coast","BlackSeaS","Russia",0.000181161488209953
+"pork","Black_Sea_South_Coast","BlackSeaS","Russia",0.000152811588021999
+"poultry","Black_Sea_South_Coast","BlackSeaS","Russia",0.00102989093225335
+"sheepgoat","Black_Sea_South_Coast","BlackSeaS","Russia",0.000865361153455429
+"beef","Caspian_Sea_Coast","CaspianNE","Russia",0.0577535365051127
+"dairy","Caspian_Sea_Coast","CaspianNE","Russia",0.0577535365051127
+"pork","Caspian_Sea_Coast","CaspianNE","Russia",0.0731004620577013
+"poultry","Caspian_Sea_Coast","CaspianNE","Russia",0.0766405057094376
+"sheepgoat","Caspian_Sea_Coast","CaspianNE","Russia",0.0927749321086611
+"beef","Daugava","DaugavaR","Russia",0.0030191743867172
+"dairy","Daugava","DaugavaR","Russia",0.0030191743867172
+"pork","Daugava","DaugavaR","Russia",0.00728504368723988
+"poultry","Daugava","DaugavaR","Russia",0.00322440042844985
+"sheepgoat","Daugava","DaugavaR","Russia",0.00201621217579193
+"beef","Dnieper","DnieperR","Russia",0.0356138075547342
+"dairy","Dnieper","DnieperR","Russia",0.0356138075547342
+"pork","Dnieper","DnieperR","Russia",0.0432654654643906
+"poultry","Dnieper","DnieperR","Russia",0.0286581486166407
+"sheepgoat","Dnieper","DnieperR","Russia",0.0187331474395437
+"beef","Don","DonR","Russia",0.149145269887638
+"dairy","Don","DonR","Russia",0.149145269887638
+"pork","Don","DonR","Russia",0.170106024762953
+"poultry","Don","DonR","Russia",0.195307193810593
+"sheepgoat","Don","DonR","Russia",0.207978182763608
+"beef","Finland","Finland","Russia",0.0009386900031745
+"dairy","Finland","Finland","Russia",0.0009386900031745
+"pork","Finland","Finland","Russia",0.00174268867700865
+"poultry","Finland","Finland","Russia",0.00073196504822479
+"sheepgoat","Finland","Finland","Russia",9.18346378860728e-05
+"beef","Gobi_Interior","Gobi","Russia",0.000402728587706354
+"dairy","Gobi_Interior","Gobi","Russia",0.000402728587706354
+"pork","Gobi_Interior","Gobi","Russia",0.000462811634912561
+"poultry","Gobi_Interior","Gobi","Russia",0.000368001674625404
+"sheepgoat","Gobi_Interior","Gobi","Russia",0.00379968605253449
+"beef","Kara_Sea_Coast","KaraSea","Russia",1.54708877178698e-05
+"dairy","Kara_Sea_Coast","KaraSea","Russia",1.54708877178698e-05
+"pork","Kara_Sea_Coast","KaraSea","Russia",0.000128672034264747
+"poultry","Kara_Sea_Coast","KaraSea","Russia",7.20064073670985e-05
+"sheepgoat","Kara_Sea_Coast","KaraSea","Russia",2.11835008793072e-06
+"beef","Lena","LenaR","Russia",0.0228721459031593
+"dairy","Lena","LenaR","Russia",0.0228721459031593
+"pork","Lena","LenaR","Russia",0.011714266764361
+"poultry","Lena","LenaR","Russia",0.0049911078458387
+"sheepgoat","Lena","LenaR","Russia",0.0251546951297906
+"beef","Narva","NarvaR","Russia",0.00423461149048962
+"dairy","Narva","NarvaR","Russia",0.00423461149048962
+"pork","Narva","NarvaR","Russia",0.00630232847893262
+"poultry","Narva","NarvaR","Russia",0.00609645885431964
+"sheepgoat","Narva","NarvaR","Russia",0.00269403047275095
+"beef","Neman","NemanR","Russia",0.000624071848887959
+"dairy","Neman","NemanR","Russia",0.000624071848887959
+"pork","Neman","NemanR","Russia",0.00123398600294476
+"poultry","Neman","NemanR","Russia",0.000474234051955248
+"sheepgoat","Neman","NemanR","Russia",0.000357380914608239
+"beef","Neva","NevaR","Russia",0.0223579752242985
+"dairy","Neva","NevaR","Russia",0.0223579752242985
+"pork","Neva","NevaR","Russia",0.0152501868796473
+"poultry","Neva","NevaR","Russia",0.0543347498801089
+"sheepgoat","Neva","NevaR","Russia",0.0209271465066595
+"beef","Northern_Dvina","DvinaRN","Russia",0.0108645975696706
+"dairy","Northern_Dvina","DvinaRN","Russia",0.0108645975696706
+"pork","Northern_Dvina","DvinaRN","Russia",0.00695539739190542
+"poultry","Northern_Dvina","DvinaRN","Russia",0.0137897495411766
+"sheepgoat","Northern_Dvina","DvinaRN","Russia",0.00411451916344245
+"beef","Ob","ObR","Russia",0.136190192588608
+"dairy","Ob","ObR","Russia",0.136190192588608
+"pork","Ob","ObR","Russia",0.155854966065736
+"poultry","Ob","ObR","Russia",0.10930351583914
+"sheepgoat","Ob","ObR","Russia",0.124934062284789
+"beef","Poland_Coast","PolandCst","Russia",0.00246423704107554
+"dairy","Poland_Coast","PolandCst","Russia",0.00246423704107554
+"pork","Poland_Coast","PolandCst","Russia",0.0236023708106185
+"poultry","Poland_Coast","PolandCst","Russia",0.0084113703727269
+"sheepgoat","Poland_Coast","PolandCst","Russia",0.0244289243418828
+"beef","Russia_Barents_Sea_Coast","BarentsSea","Russia",0.00450770609887836
+"dairy","Russia_Barents_Sea_Coast","BarentsSea","Russia",0.00450770609887836
+"pork","Russia_Barents_Sea_Coast","BarentsSea","Russia",0.00440882351872244
+"poultry","Russia_Barents_Sea_Coast","BarentsSea","Russia",0.0101152900263184
+"sheepgoat","Russia_Barents_Sea_Coast","BarentsSea","Russia",0.00240056812174611
+"beef","Russia_South_East_Coast","RusCstSE","Russia",0.00265806349401669
+"dairy","Russia_South_East_Coast","RusCstSE","Russia",0.00265806349401669
+"pork","Russia_South_East_Coast","RusCstSE","Russia",0.00346918230144491
+"poultry","Russia_South_East_Coast","RusCstSE","Russia",0.00355087461427783
+"sheepgoat","Russia_South_East_Coast","RusCstSE","Russia",0.00108092339696982
+"beef","Scandinavia_North_Coast","ScndnvN","Russia",0.00306124943935869
+"dairy","Scandinavia_North_Coast","ScndnvN","Russia",0.00306124943935869
+"pork","Scandinavia_North_Coast","ScndnvN","Russia",0.00230804088468293
+"poultry","Scandinavia_North_Coast","ScndnvN","Russia",0.00289793965722362
+"sheepgoat","Scandinavia_North_Coast","ScndnvN","Russia",0.00500649060675764
+"beef","Siberia_North_Coast","SiberiaN","Russia",0.00037232305371662
+"dairy","Siberia_North_Coast","SiberiaN","Russia",0.00037232305371662
+"pork","Siberia_North_Coast","SiberiaN","Russia",0.000708330608435861
+"poultry","Siberia_North_Coast","SiberiaN","Russia",5.46628370484921e-05
+"sheepgoat","Siberia_North_Coast","SiberiaN","Russia",1.77785924707679e-06
+"beef","Siberia_West_Coast","SiberiaW","Russia",0.00579336986639175
+"dairy","Siberia_West_Coast","SiberiaW","Russia",0.00579336986639175
+"pork","Siberia_West_Coast","SiberiaW","Russia",0.00657949086668646
+"poultry","Siberia_West_Coast","SiberiaW","Russia",0.010075509328171
+"sheepgoat","Siberia_West_Coast","SiberiaW","Russia",0.0231762207642915
+"beef","Syr_Darya","SyrDaryaR","Russia",0.000343533836513162
+"dairy","Syr_Darya","SyrDaryaR","Russia",0.000343533836513162
+"pork","Syr_Darya","SyrDaryaR","Russia",0.00140374730357158
+"poultry","Syr_Darya","SyrDaryaR","Russia",0.000517079293316525
+"sheepgoat","Syr_Darya","SyrDaryaR","Russia",0.000310574463803402
+"beef","Ural","UralR","Russia",0.030958342957485
+"dairy","Ural","UralR","Russia",0.030958342957485
+"pork","Ural","UralR","Russia",0.0328105675692755
+"poultry","Ural","UralR","Russia",0.0190917281092181
+"sheepgoat","Ural","UralR","Russia",0.0216202732384846
+"beef","Volga","VolgaR","Russia",0.40742298351489
+"dairy","Volga","VolgaR","Russia",0.40742298351489
+"pork","Volga","VolgaR","Russia",0.282147744152905
+"poultry","Volga","VolgaR","Russia",0.30154830267747
+"sheepgoat","Volga","VolgaR","Russia",0.248935460011498
+"beef","Yenisei","YeniseiR","Russia",0.0439825460856688
+"dairy","Yenisei","YeniseiR","Russia",0.0439825460856688
+"pork","Yenisei","YeniseiR","Russia",0.0491699912110042
+"poultry","Yenisei","YeniseiR","Russia",0.0388054333849152
+"sheepgoat","Yenisei","YeniseiR","Russia",0.088842915281127
+"beef","Limpopo","LimpopoR","South Africa",0.221453350882225
+"dairy","Limpopo","LimpopoR","South Africa",0.221453350882225
+"pork","Limpopo","LimpopoR","South Africa",0.364426689285641
+"poultry","Limpopo","LimpopoR","South Africa",0.314680175385475
+"sheepgoat","Limpopo","LimpopoR","South Africa",0.103017924276999
+"beef","Orange","OrangeR","South Africa",0.335937721054325
+"dairy","Orange","OrangeR","South Africa",0.335937721054325
+"pork","Orange","OrangeR","South Africa",0.259194372117881
+"poultry","Orange","OrangeR","South Africa",0.333198249850196
+"sheepgoat","Orange","OrangeR","South Africa",0.469865998318949
+"beef","South_Africa_South_Coast","AfrCstS","South Africa",0.427119869993951
+"dairy","South_Africa_South_Coast","AfrCstS","South Africa",0.427119869993951
+"pork","South_Africa_South_Coast","AfrCstS","South Africa",0.32228210467469
+"poultry","South_Africa_South_Coast","AfrCstS","South Africa",0.255346411716729
+"sheepgoat","South_Africa_South_Coast","AfrCstS","South Africa",0.387895149988974
+"beef","South_Africa_West_Coast","AfrCstSSW","South Africa",0.0154890580694985
+"dairy","South_Africa_West_Coast","AfrCstSSW","South Africa",0.0154890580694985
+"pork","South_Africa_West_Coast","AfrCstSSW","South Africa",0.054096833921788
+"poultry","South_Africa_West_Coast","AfrCstSSW","South Africa",0.0967751630476002
+"sheepgoat","South_Africa_West_Coast","AfrCstSSW","South Africa",0.0392209274150777
+"beef","Caribbean_Coast","SAmerCstN","South America_Northern",0.57586382744917
+"dairy","Caribbean_Coast","SAmerCstN","South America_Northern",0.57586382744917
+"pork","Caribbean_Coast","SAmerCstN","South America_Northern",0.572622045099962
+"poultry","Caribbean_Coast","SAmerCstN","South America_Northern",0.287501984657719
+"sheepgoat","Caribbean_Coast","SAmerCstN","South America_Northern",0.608223309476025
+"beef","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","South America_Northern",0.0423846472709266
+"dairy","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","South America_Northern",0.0423846472709266
+"pork","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","South America_Northern",0.036073388086021
+"poultry","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","South America_Northern",0.37337108938053
+"sheepgoat","Northeast_South_America_South_Atlantic_Coast","SAmerCstNE","South America_Northern",0.125946948324951
+"beef","Orinoco","OrinocoR","South America_Northern",0.381751525279904
+"dairy","Orinoco","OrinocoR","South America_Northern",0.381751525279904
+"pork","Orinoco","OrinocoR","South America_Northern",0.391304566814018
+"poultry","Orinoco","OrinocoR","South America_Northern",0.339126925961751
+"sheepgoat","Orinoco","OrinocoR","South America_Northern",0.265829742199024
+"beef","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","South America_Southern",0.143736893682386
+"dairy","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","South America_Southern",0.143736893682386
+"pork","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","South America_Southern",0.124163819261668
+"poultry","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","South America_Southern",0.150041349739987
+"sheepgoat","Colombia_Ecuador_Pacific_Coast","ColEcuaCst","South America_Southern",0.065711266949934
+"beef","La_Plata","RioLaPlata","South America_Southern",0.433817596672735
+"dairy","La_Plata","RioLaPlata","South America_Southern",0.433817596672735
+"pork","La_Plata","RioLaPlata","South America_Southern",0.315770035999318
+"poultry","La_Plata","RioLaPlata","South America_Southern",0.340131736209568
+"sheepgoat","La_Plata","RioLaPlata","South America_Southern",0.268822623819553
+"beef","La_Puna_Region","LaPuna","South America_Southern",0.018551821576586
+"dairy","La_Puna_Region","LaPuna","South America_Southern",0.018551821576586
+"pork","La_Puna_Region","LaPuna","South America_Southern",0.0180173953041285
+"poultry","La_Puna_Region","LaPuna","South America_Southern",0.0214795391989531
+"sheepgoat","La_Puna_Region","LaPuna","South America_Southern",0.11862135676947
+"beef","North_Chile_Pacific_Coast","ChileCstN","South America_Southern",0.0255964991756302
+"dairy","North_Chile_Pacific_Coast","ChileCstN","South America_Southern",0.0255964991756302
+"pork","North_Chile_Pacific_Coast","ChileCstN","South America_Southern",0.134196230305545
+"poultry","North_Chile_Pacific_Coast","ChileCstN","South America_Southern",0.0986922586905878
+"sheepgoat","North_Chile_Pacific_Coast","ChileCstN","South America_Southern",0.0425549717362311
+"beef","Orinoco","OrinocoR","South America_Southern",0.179727223060354
+"dairy","Orinoco","OrinocoR","South America_Southern",0.179727223060354
+"pork","Orinoco","OrinocoR","South America_Southern",0.187861439355789
+"poultry","Orinoco","OrinocoR","South America_Southern",0.155800364334274
+"sheepgoat","Orinoco","OrinocoR","South America_Southern",0.238370070467431
+"beef","Peru_Pacific_Coast","PeruCst","South America_Southern",0.0714613864992324
+"dairy","Peru_Pacific_Coast","PeruCst","South America_Southern",0.0714613864992324
+"pork","Peru_Pacific_Coast","PeruCst","South America_Southern",0.0991287793725899
+"poultry","Peru_Pacific_Coast","PeruCst","South America_Southern",0.113715147762694
+"sheepgoat","Peru_Pacific_Coast","PeruCst","South America_Southern",0.152952938629113
+"beef","South_Argentina_South_Atlantic_Coast","ArgCstS","South America_Southern",0.00679833754512483
+"dairy","South_Argentina_South_Atlantic_Coast","ArgCstS","South America_Southern",0.00679833754512483
+"pork","South_Argentina_South_Atlantic_Coast","ArgCstS","South America_Southern",3.60658524680822e-05
+"poultry","South_Argentina_South_Atlantic_Coast","ArgCstS","South America_Southern",0.00580758113736724
+"sheepgoat","South_Argentina_South_Atlantic_Coast","ArgCstS","South America_Southern",0.0234675147018063
+"beef","South_Chile_Pacific_Coast","ChileCstS","South America_Southern",0.120310241787952
+"dairy","South_Chile_Pacific_Coast","ChileCstS","South America_Southern",0.120310241787952
+"pork","South_Chile_Pacific_Coast","ChileCstS","South America_Southern",0.120826234548494
+"poultry","South_Chile_Pacific_Coast","ChileCstS","South America_Southern",0.114332022926569
+"sheepgoat","South_Chile_Pacific_Coast","ChileCstS","South America_Southern",0.0894992569264621
+"beef","Amu_Darya","AmuDaryaR","South Asia",0.0302351455543192
+"dairy","Amu_Darya","AmuDaryaR","South Asia",0.0302351455543192
+"pork","Amu_Darya","AmuDaryaR","South Asia",0.0141755825360104
+"poultry","Amu_Darya","AmuDaryaR","South Asia",0.0155137930823245
+"sheepgoat","Amu_Darya","AmuDaryaR","South Asia",0.0227605594521561
+"beef","Bay_of_Bengal_North_East_Coast","BengalBay","South Asia",0.0261632657697624
+"dairy","Bay_of_Bengal_North_East_Coast","BengalBay","South Asia",0.0261632657697624
+"pork","Bay_of_Bengal_North_East_Coast","BengalBay","South Asia",0.00218172079625234
+"poultry","Bay_of_Bengal_North_East_Coast","BengalBay","South Asia",0.0135772385004893
+"sheepgoat","Bay_of_Bengal_North_East_Coast","BengalBay","South Asia",0.018193001614407
+"beef","Caspian_Sea_East_Coast","CaspianE","South Asia",0.00457727496514398
+"dairy","Caspian_Sea_East_Coast","CaspianE","South Asia",0.00457727496514398
+"pork","Caspian_Sea_East_Coast","CaspianE","South Asia",0.010097692058456
+"poultry","Caspian_Sea_East_Coast","CaspianE","South Asia",0.0106492062670078
+"sheepgoat","Caspian_Sea_East_Coast","CaspianE","South Asia",0.0181621074842251
+"beef","Farahrud","FarahrudR","South Asia",0.00220295069430028
+"dairy","Farahrud","FarahrudR","South Asia",0.00220295069430028
+"pork","Farahrud","FarahrudR","South Asia",0
+"poultry","Farahrud","FarahrudR","South Asia",0.00412920882501302
+"sheepgoat","Farahrud","FarahrudR","South Asia",0.00871629958450171
+"beef","Ganges_Bramaputra","GangesR","South Asia",0.834135234551163
+"dairy","Ganges_Bramaputra","GangesR","South Asia",0.834135234551163
+"pork","Ganges_Bramaputra","GangesR","South Asia",0.794506249647573
+"poultry","Ganges_Bramaputra","GangesR","South Asia",0.842914734200594
+"sheepgoat","Ganges_Bramaputra","GangesR","South Asia",0.799643019041112
+"beef","HamuniMashkel","HamuMashR","South Asia",0.000214840915425224
+"dairy","HamuniMashkel","HamuMashR","South Asia",0.000214840915425224
+"pork","HamuniMashkel","HamuMashR","South Asia",0
+"poultry","HamuniMashkel","HamuMashR","South Asia",0.00326392079674831
+"sheepgoat","HamuniMashkel","HamuMashR","South Asia",0.00352681003932854
+"beef","Helmand","Helmand","South Asia",0.0122013803823297
+"dairy","Helmand","Helmand","South Asia",0.0122013803823297
+"pork","Helmand","Helmand","South Asia",0
+"poultry","Helmand","Helmand","South Asia",0.0131505834623836
+"sheepgoat","Helmand","Helmand","South Asia",0.0567263611628776
+"beef","Indus","IndusR","South Asia",0.054719926357795
+"dairy","Indus","IndusR","South Asia",0.054719926357795
+"pork","Indus","IndusR","South Asia",0.12115787904285
+"poultry","Indus","IndusR","South Asia",0.0480282018386025
+"sheepgoat","Indus","IndusR","South Asia",0.0645945639572604
+"beef","Sri_Lanka","SriLanka","South Asia",0.0355499808097612
+"dairy","Sri_Lanka","SriLanka","South Asia",0.0355499808097612
+"pork","Sri_Lanka","SriLanka","South Asia",0.0578808759188584
+"poultry","Sri_Lanka","SriLanka","South Asia",0.0487731130268366
+"sheepgoat","Sri_Lanka","SriLanka","South Asia",0.00767727766413185
+"beef","North_and_South_Korea","Korea","South Korea",1
+"dairy","North_and_South_Korea","Korea","South Korea",1
+"pork","North_and_South_Korea","Korea","South Korea",1
+"poultry","North_and_South_Korea","Korea","South Korea",1
+"sheepgoat","North_and_South_Korea","Korea","South Korea",1
+"beef","Bay_of_Bengal_North_East_Coast","BengalBay","Southeast Asia",0.0324954963809324
+"dairy","Bay_of_Bengal_North_East_Coast","BengalBay","Southeast Asia",0.0324954963809324
+"pork","Bay_of_Bengal_North_East_Coast","BengalBay","Southeast Asia",0.00578656604836989
+"poultry","Bay_of_Bengal_North_East_Coast","BengalBay","Southeast Asia",0.0197292821353117
+"sheepgoat","Bay_of_Bengal_North_East_Coast","BengalBay","Southeast Asia",0.0599525015971221
+"beef","Bo_Hai_Korean_Bay_North_Coast","BoHai","Southeast Asia",0.00142863567004604
+"dairy","Bo_Hai_Korean_Bay_North_Coast","BoHai","Southeast Asia",0.00142863567004604
+"pork","Bo_Hai_Korean_Bay_North_Coast","BoHai","Southeast Asia",0.00528655459940534
+"poultry","Bo_Hai_Korean_Bay_North_Coast","BoHai","Southeast Asia",0.00705967064704694
+"sheepgoat","Bo_Hai_Korean_Bay_North_Coast","BoHai","Southeast Asia",0.00464414116449705
+"beef","Chao_Phraya","ChaoPhrR","Southeast Asia",0.0683788657671296
+"dairy","Chao_Phraya","ChaoPhrR","Southeast Asia",0.0683788657671296
+"pork","Chao_Phraya","ChaoPhrR","Southeast Asia",0.0404792132271091
+"poultry","Chao_Phraya","ChaoPhrR","Southeast Asia",0.0749166672772458
+"sheepgoat","Chao_Phraya","ChaoPhrR","Southeast Asia",0.0164450027468008
+"beef","Fly","FlyR","Southeast Asia",0.000216648112620492
+"dairy","Fly","FlyR","Southeast Asia",0.000216648112620492
+"pork","Fly","FlyR","Southeast Asia",0.00254207516944473
+"poultry","Fly","FlyR","Southeast Asia",0.000291001554934436
+"sheepgoat","Fly","FlyR","Southeast Asia",0.00075325484975169
+"beef","Ganges_Bramaputra","GangesR","Southeast Asia",0.000734297378440289
+"dairy","Ganges_Bramaputra","GangesR","Southeast Asia",0.000734297378440289
+"pork","Ganges_Bramaputra","GangesR","Southeast Asia",0.00149356232354131
+"poultry","Ganges_Bramaputra","GangesR","Southeast Asia",0.000868136009010694
+"sheepgoat","Ganges_Bramaputra","GangesR","Southeast Asia",0.00186768396469107
+"beef","Gulf_of_Thailand_Coast","ThaiGulf","Southeast Asia",0.0153920227361134
+"dairy","Gulf_of_Thailand_Coast","ThaiGulf","Southeast Asia",0.0153920227361134
+"pork","Gulf_of_Thailand_Coast","ThaiGulf","Southeast Asia",0.0222557836115425
+"poultry","Gulf_of_Thailand_Coast","ThaiGulf","Southeast Asia",0.0225912519690402
+"sheepgoat","Gulf_of_Thailand_Coast","ThaiGulf","Southeast Asia",0.00657657282505494
+"beef","Hong_(Red_River)","Hong","Southeast Asia",0.0492492219681247
+"dairy","Hong_(Red_River)","Hong","Southeast Asia",0.0492492219681247
+"pork","Hong_(Red_River)","Hong","Southeast Asia",0.122418966292177
+"poultry","Hong_(Red_River)","Hong","Southeast Asia",0.0527793257507054
+"sheepgoat","Hong_(Red_River)","Hong","Southeast Asia",0.0175992296217322
+"beef","Irian_Jaya_Coast","IrianJaya","Southeast Asia",8.90485122541432e-05
+"dairy","Irian_Jaya_Coast","IrianJaya","Southeast Asia",8.90485122541432e-05
+"pork","Irian_Jaya_Coast","IrianJaya","Southeast Asia",0.000526354048985093
+"poultry","Irian_Jaya_Coast","IrianJaya","Southeast Asia",7.01337256647147e-05
+"sheepgoat","Irian_Jaya_Coast","IrianJaya","Southeast Asia",0.000525138279193295
+"beef","Irrawaddy","IrrawaddyR","Southeast Asia",0.211907852182397
+"dairy","Irrawaddy","IrrawaddyR","Southeast Asia",0.211907852182397
+"pork","Irrawaddy","IrrawaddyR","Southeast Asia",0.0666958252189198
+"poultry","Irrawaddy","IrrawaddyR","Southeast Asia",0.0616993742315982
+"sheepgoat","Irrawaddy","IrrawaddyR","Southeast Asia",0.100418251945064
+"beef","Java_Timor","JavaTimor","Southeast Asia",0.00307435324740132
+"dairy","Java_Timor","JavaTimor","Southeast Asia",0.00307435324740132
+"pork","Java_Timor","JavaTimor","Southeast Asia",0.00715111363423983
+"poultry","Java_Timor","JavaTimor","Southeast Asia",0.010552843000536
+"sheepgoat","Java_Timor","JavaTimor","Southeast Asia",0.0292554935113748
+"beef","Kalimantan","Kalimantan","Southeast Asia",0.000212541797597263
+"dairy","Kalimantan","Kalimantan","Southeast Asia",0.000212541797597263
+"pork","Kalimantan","Kalimantan","Southeast Asia",0.000748662219031784
+"poultry","Kalimantan","Kalimantan","Southeast Asia",0.000632184584812669
+"sheepgoat","Kalimantan","Kalimantan","Southeast Asia",0.00226989154938681
+"beef","Mekong","Mekong","Southeast Asia",0.188847078018366
+"dairy","Mekong","Mekong","Southeast Asia",0.188847078018366
+"pork","Mekong","Mekong","Southeast Asia",0.140205310382759
+"poultry","Mekong","Mekong","Southeast Asia",0.151665174030703
+"sheepgoat","Mekong","Mekong","Southeast Asia",0.0812766267685024
+"beef","North_and_South_Korea","Korea","Southeast Asia",0.0215690049849643
+"dairy","North_and_South_Korea","Korea","Southeast Asia",0.0215690049849643
+"pork","North_and_South_Korea","Korea","Southeast Asia",0.0284295012794685
+"poultry","North_and_South_Korea","Korea","Southeast Asia",0.0231214709576392
+"sheepgoat","North_and_South_Korea","Korea","Southeast Asia",0.17345491109434
+"beef","North_Borneo_Coast","BorneoCstN","Southeast Asia",0.00718747964446138
+"dairy","North_Borneo_Coast","BorneoCstN","Southeast Asia",0.00718747964446138
+"pork","North_Borneo_Coast","BorneoCstN","Southeast Asia",0.0164903603575224
+"poultry","North_Borneo_Coast","BorneoCstN","Southeast Asia",0.0676566455522453
+"sheepgoat","North_Borneo_Coast","BorneoCstN","Southeast Asia",0.0150898165704716
+"beef","Papua_New_Guinea_Coast","PapuaCst","Southeast Asia",0.00195234499966399
+"dairy","Papua_New_Guinea_Coast","PapuaCst","Southeast Asia",0.00195234499966399
+"pork","Papua_New_Guinea_Coast","PapuaCst","Southeast Asia",0.0241486490909374
+"poultry","Papua_New_Guinea_Coast","PapuaCst","Southeast Asia",0.00391190648978181
+"sheepgoat","Papua_New_Guinea_Coast","PapuaCst","Southeast Asia",0.000481481098736532
+"beef","Peninsula_Malaysia","MalaysiaP","Southeast Asia",0.0575208454235173
+"dairy","Peninsula_Malaysia","MalaysiaP","Southeast Asia",0.0575208454235173
+"pork","Peninsula_Malaysia","MalaysiaP","Southeast Asia",0.0698284117672319
+"poultry","Peninsula_Malaysia","MalaysiaP","Southeast Asia",0.205384818953035
+"sheepgoat","Peninsula_Malaysia","MalaysiaP","Southeast Asia",0.0427217362732292
+"beef","Philippines","Phlppns","Southeast Asia",0.153546456196454
+"dairy","Philippines","Phlppns","Southeast Asia",0.153546456196454
+"pork","Philippines","Phlppns","Southeast Asia",0.212349211810717
+"poultry","Philippines","Phlppns","Southeast Asia",0.164904195054992
+"sheepgoat","Philippines","Phlppns","Southeast Asia",0.346354205708551
+"beef","Russia_South_East_Coast","RusCstSE","Southeast Asia",0.0009200964938865
+"dairy","Russia_South_East_Coast","RusCstSE","Southeast Asia",0.0009200964938865
+"pork","Russia_South_East_Coast","RusCstSE","Southeast Asia",0.000939771941737155
+"poultry","Russia_South_East_Coast","RusCstSE","Southeast Asia",0.0009612474979862
+"sheepgoat","Russia_South_East_Coast","RusCstSE","Southeast Asia",0.000631645946900303
+"beef","Salween","Salween","Southeast Asia",0.0376755779517272
+"dairy","Salween","Salween","Southeast Asia",0.0376755779517272
+"pork","Salween","Salween","Southeast Asia",0.0226593396797347
+"poultry","Salween","Salween","Southeast Asia",0.0170561383282764
+"sheepgoat","Salween","Salween","Southeast Asia",0.026158951403595
+"beef","Sepik","SepikR","Southeast Asia",0.000426153926753424
+"dairy","Sepik","SepikR","Southeast Asia",0.000426153926753424
+"pork","Sepik","SepikR","Southeast Asia",0.00469119717521687
+"poultry","Sepik","SepikR","Southeast Asia",0.000383213614943462
+"sheepgoat","Sepik","SepikR","Southeast Asia",0.000512862615918961
+"beef","Sittaung","SittaungR","Southeast Asia",0.0292112006379993
+"dairy","Sittaung","SittaungR","Southeast Asia",0.0292112006379993
+"pork","Sittaung","SittaungR","Southeast Asia",0.006972503774838
+"poultry","Sittaung","SittaungR","Southeast Asia",0.00774564139174921
+"sheepgoat","Sittaung","SittaungR","Southeast Asia",0.00993549125508052
+"beef","Solomon_Islands","SolomonIsl","Southeast Asia",0.000327968049116889
+"dairy","Solomon_Islands","SolomonIsl","Southeast Asia",0.000327968049116889
+"pork","Solomon_Islands","SolomonIsl","Southeast Asia",0.00112076723810551
+"poultry","Solomon_Islands","SolomonIsl","Southeast Asia",0.000152710335988096
+"sheepgoat","Solomon_Islands","SolomonIsl","Southeast Asia",1.1008444861562e-39
+"beef","South_China_Sea_Coast","SChinaSea","Southeast Asia",0.000805251652442865
+"dairy","South_China_Sea_Coast","SChinaSea","Southeast Asia",0.000805251652442865
+"pork","South_China_Sea_Coast","SChinaSea","Southeast Asia",0.00311731356681605
+"poultry","South_China_Sea_Coast","SChinaSea","Southeast Asia",0.00338441806726391
+"sheepgoat","South_China_Sea_Coast","SChinaSea","Southeast Asia",0.000320559795247401
+"beef","South_Pacific_Islands","NewCaledn","Southeast Asia",0.00689670864064634
+"dairy","South_Pacific_Islands","NewCaledn","Southeast Asia",0.00689670864064634
+"pork","South_Pacific_Islands","NewCaledn","Southeast Asia",0.00135489335967481
+"poultry","South_Pacific_Islands","NewCaledn","Southeast Asia",0.000601915091992169
+"sheepgoat","South_Pacific_Islands","NewCaledn","Southeast Asia",0.00224088554977513
+"beef","Viet_Nam_Coast","VietnamCst","Southeast Asia",0.107008400304153
+"dairy","Viet_Nam_Coast","VietnamCst","Southeast Asia",0.107008400304153
+"pork","Viet_Nam_Coast","VietnamCst","Southeast Asia",0.185215462221229
+"poultry","Viet_Nam_Coast","VietnamCst","Southeast Asia",0.0971064919660621
+"sheepgoat","Viet_Nam_Coast","VietnamCst","Southeast Asia",0.0596785537729883
+"beef","Xun_Jiang","XunJiang","Southeast Asia",0.00292644932278993
+"dairy","Xun_Jiang","XunJiang","Southeast Asia",0.00292644932278993
+"pork","Xun_Jiang","XunJiang","Southeast Asia",0.00709262996124573
+"poultry","Xun_Jiang","XunJiang","Southeast Asia",0.00477414178143479
+"sheepgoat","Xun_Jiang","XunJiang","Southeast Asia",0.000835110091995188
+"beef","Taiwan","Taiwan","Taiwan",1
+"dairy","Taiwan","Taiwan","Taiwan",1
+"pork","Taiwan","Taiwan","Taiwan",1
+"poultry","Taiwan","Taiwan","Taiwan",1
+"sheepgoat","Taiwan","Taiwan","Taiwan",1
+"beef","La_Plata","RioLaPlata","Uruguay",0.824741182739336
+"dairy","La_Plata","RioLaPlata","Uruguay",0.824741182739336
+"pork","La_Plata","RioLaPlata","Uruguay",0.766853096350561
+"poultry","La_Plata","RioLaPlata","Uruguay",0.747475652659763
+"sheepgoat","La_Plata","RioLaPlata","Uruguay",0.656424187287114
+"beef","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Uruguay",0.175258817260664
+"dairy","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Uruguay",0.175258817260664
+"pork","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Uruguay",0.233146903649439
+"poultry","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Uruguay",0.252524347340237
+"sheepgoat","Uruguay_Brazil_South_Atlantic_Coast","BrzCstS","Uruguay",0.343575812712886
+"beef","Arkansas_White_Red_Basin","ArkWhtRedR","USA",0.171188909200499
+"dairy","Arkansas_White_Red_Basin","ArkWhtRedR","USA",0.171188909200499
+"pork","Arkansas_White_Red_Basin","ArkWhtRedR","USA",0.0543221509164571
+"poultry","Arkansas_White_Red_Basin","ArkWhtRedR","USA",0.0758574141191887
+"sheepgoat","Arkansas_White_Red_Basin","ArkWhtRedR","USA",0.0339959135966345
+"beef","California_River_Basin","California","USA",0.0520017374385984
+"dairy","California_River_Basin","California","USA",0.0520017374385983
+"pork","California_River_Basin","California","USA",0.00343942867484523
+"poultry","California_River_Basin","California","USA",0.0982673343050913
+"sheepgoat","California_River_Basin","California","USA",0.101788638036101
+"beef","Caribbean","Caribbean","USA",0.00209527766275499
+"dairy","Caribbean","Caribbean","USA",0.00209527766275499
+"pork","Caribbean","Caribbean","USA",0.00305160335985789
+"poultry","Caribbean","Caribbean","USA",0.0022305495797387
+"sheepgoat","Caribbean","Caribbean","USA",0.00351652791019865
+"beef","Fraser","FraserR","USA",0.000798771678956915
+"dairy","Fraser","FraserR","USA",0.000798771678956915
+"pork","Fraser","FraserR","USA",0.000260677193592248
+"poultry","Fraser","FraserR","USA",0.00123492889077561
+"sheepgoat","Fraser","FraserR","USA",0.000209391164426678
+"beef","Great_Basin","GreatBasin","USA",0.01139626829865
+"dairy","Great_Basin","GreatBasin","USA",0.01139626829865
+"pork","Great_Basin","GreatBasin","USA",0.00460390426534928
+"poultry","Great_Basin","GreatBasin","USA",0.0051507645836264
+"sheepgoat","Great_Basin","GreatBasin","USA",0.0410384023584247
+"beef","Great_Lakes_Basin","GreatLakes","USA",0.0375780857052348
+"dairy","Great_Lakes_Basin","GreatLakes","USA",0.0375780857052348
+"pork","Great_Lakes_Basin","GreatLakes","USA",0.0546141884048428
+"poultry","Great_Lakes_Basin","GreatLakes","USA",0.0573211270977379
+"sheepgoat","Great_Lakes_Basin","GreatLakes","USA",0.0207538409432993
+"beef","Lower_Colorado_River_Basin","UsaColoRS","USA",0.00931975191061434
+"dairy","Lower_Colorado_River_Basin","UsaColoRS","USA",0.00931975191061434
+"pork","Lower_Colorado_River_Basin","UsaColoRS","USA",0.0053675279271794
+"poultry","Lower_Colorado_River_Basin","UsaColoRS","USA",0.00912636953064986
+"sheepgoat","Lower_Colorado_River_Basin","UsaColoRS","USA",0.00706092544833739
+"beef","Lower_Mississippi_River_Basin","MissppRS","USA",0.0180645374225161
+"dairy","Lower_Mississippi_River_Basin","MissppRS","USA",0.0180645374225161
+"pork","Lower_Mississippi_River_Basin","MissppRS","USA",0.0139737724252332
+"poultry","Lower_Mississippi_River_Basin","MissppRS","USA",0.0249083175716774
+"sheepgoat","Lower_Mississippi_River_Basin","MissppRS","USA",0.00559839655677848
+"beef","Mexico_Northwest_Coast","MexCstNW","USA",0.0001468405494227
+"dairy","Mexico_Northwest_Coast","MexCstNW","USA",0.0001468405494227
+"pork","Mexico_Northwest_Coast","MexCstNW","USA",0.000146067866311017
+"poultry","Mexico_Northwest_Coast","MexCstNW","USA",0.00012839801275465
+"sheepgoat","Mexico_Northwest_Coast","MexCstNW","USA",3.97526921688256e-05
+"beef","Mid_Atlantic_Basin","UsaCstE","USA",0.0303270435917396
+"dairy","Mid_Atlantic_Basin","UsaCstE","USA",0.0303270435917396
+"pork","Mid_Atlantic_Basin","UsaCstE","USA",0.0271696250049642
+"poultry","Mid_Atlantic_Basin","UsaCstE","USA",0.108991447262587
+"sheepgoat","Mid_Atlantic_Basin","UsaCstE","USA",0.0237012858750833
+"beef","Missouri_River_Basin","MissouriR","USA",0.235215357391278
+"dairy","Missouri_River_Basin","MissouriR","USA",0.235215357391278
+"pork","Missouri_River_Basin","MissouriR","USA",0.189420446347451
+"poultry","Missouri_River_Basin","MissouriR","USA",0.0688445156738587
+"sheepgoat","Missouri_River_Basin","MissouriR","USA",0.249205311206621
+"beef","New_England_Basin","UsaCstNE","USA",0.00327892627568668
+"dairy","New_England_Basin","UsaCstNE","USA",0.00327892627568668
+"pork","New_England_Basin","UsaCstNE","USA",0.00343850520621407
+"poultry","New_England_Basin","UsaCstNE","USA",0.030165198146304
+"sheepgoat","New_England_Basin","UsaCstNE","USA",0.00466448054421245
+"beef","Ohio_River_Basin","OhioR","USA",0.0608351017063976
+"dairy","Ohio_River_Basin","OhioR","USA",0.0608351017063976
+"pork","Ohio_River_Basin","OhioR","USA",0.100408024007495
+"poultry","Ohio_River_Basin","OhioR","USA",0.11932473969108
+"sheepgoat","Ohio_River_Basin","OhioR","USA",0.040434377372175
+"beef","Pacific_and_Arctic_Coast","PacArctic","USA",0.00145296601426223
+"dairy","Pacific_and_Arctic_Coast","PacArctic","USA",0.00145296601426223
+"pork","Pacific_and_Arctic_Coast","PacArctic","USA",0.00212212315692165
+"poultry","Pacific_and_Arctic_Coast","PacArctic","USA",0.000824824440431267
+"sheepgoat","Pacific_and_Arctic_Coast","PacArctic","USA",0.0281226686412437
+"beef","Pacific_Northwest_Basin","UsaPacNW","USA",0.0472820515326483
+"dairy","Pacific_Northwest_Basin","UsaPacNW","USA",0.0472820515326483
+"pork","Pacific_Northwest_Basin","UsaPacNW","USA",0.0023609135719385
+"poultry","Pacific_Northwest_Basin","UsaPacNW","USA",0.0302017064179507
+"sheepgoat","Pacific_Northwest_Basin","UsaPacNW","USA",0.067872216383536
+"beef","Rio_Grande_River_Basin","RioGrande","USA",0.013982842882883
+"dairy","Rio_Grande_River_Basin","RioGrande","USA",0.013982842882883
+"pork","Rio_Grande_River_Basin","RioGrande","USA",0.00538015692533016
+"poultry","Rio_Grande_River_Basin","RioGrande","USA",0.00532648682719159
+"sheepgoat","Rio_Grande_River_Basin","RioGrande","USA",0.015321231484372
+"beef","Saskatchewan_Nelson","NelsonR","USA",0.0132918613326164
+"dairy","Saskatchewan_Nelson","NelsonR","USA",0.0132918613326164
+"pork","Saskatchewan_Nelson","NelsonR","USA",0.00584320329060466
+"poultry","Saskatchewan_Nelson","NelsonR","USA",0.00467480297368907
+"sheepgoat","Saskatchewan_Nelson","NelsonR","USA",0.00347865102281211
+"beef","South_Atlantic_Gulf_Basin","UsaCstSE","USA",0.0697819507874648
+"dairy","South_Atlantic_Gulf_Basin","UsaCstSE","USA",0.0697819507874648
+"pork","South_Atlantic_Gulf_Basin","UsaCstSE","USA",0.183415990732778
+"poultry","South_Atlantic_Gulf_Basin","UsaCstSE","USA",0.187580690879278
+"sheepgoat","South_Atlantic_Gulf_Basin","UsaCstSE","USA",0.0271543024903405
+"beef","Tennessee_River_Basin","TennR","USA",0.0166756494597893
+"dairy","Tennessee_River_Basin","TennR","USA",0.0166756494597893
+"pork","Tennessee_River_Basin","TennR","USA",0.00360854006589626
+"poultry","Tennessee_River_Basin","TennR","USA",0.0226141090548612
+"sheepgoat","Tennessee_River_Basin","TennR","USA",0.00508645499568159
+"beef","Texas_Gulf_Coast_Basin","TexasCst","USA",0.102477621824233
+"dairy","Texas_Gulf_Coast_Basin","TexasCst","USA",0.102477621824233
+"pork","Texas_Gulf_Coast_Basin","TexasCst","USA",0.00490774587730844
+"poultry","Texas_Gulf_Coast_Basin","TexasCst","USA",0.0403437385320193
+"sheepgoat","Texas_Gulf_Coast_Basin","TexasCst","USA",0.196370070131964
+"beef","Upper_Colorado_River_Basin","UsaColoRN","USA",0.0117851748473068
+"dairy","Upper_Colorado_River_Basin","UsaColoRN","USA",0.0117851748473068
+"pork","Upper_Colorado_River_Basin","UsaColoRN","USA",0.00188735802093631
+"poultry","Upper_Colorado_River_Basin","UsaColoRN","USA",0.00335730080829105
+"sheepgoat","Upper_Colorado_River_Basin","UsaColoRN","USA",0.0622239328569624
+"beef","Upper_Mississippi_Basin","MissppRN","USA",0.0910232724864472
+"dairy","Upper_Mississippi_Basin","MissppRN","USA",0.0910232724864472
+"pork","Upper_Mississippi_Basin","MissppRN","USA",0.330258046758493
+"poultry","Upper_Mississippi_Basin","MissppRN","USA",0.103525235601219
+"sheepgoat","Upper_Mississippi_Basin","MissppRN","USA",0.062363228288626

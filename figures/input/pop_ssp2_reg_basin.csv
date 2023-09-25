@@ -1,0 +1,1676 @@
+"basin_id","basin_nm","GCAM_region_ID","region","year","value"
+91,"Baja_California",20,"Mexico","1980",2.67781701236989
+91,"Baja_California",20,"Mexico","1985",2.84233878866296
+91,"Baja_California",20,"Mexico","1990",3.00686056495603
+91,"Baja_California",20,"Mexico","1995",3.42734859498967
+91,"Baja_California",20,"Mexico","2000",3.84783662502332
+91,"Baja_California",20,"Mexico","2005",3.96264696161703
+91,"Baja_California",20,"Mexico","2010",4.07745729821074
+91,"Baja_California",20,"Mexico","2015",4.21532783721129
+91,"Baja_California",20,"Mexico","2020",4.35319837621183
+91,"Baja_California",20,"Mexico","2025",4.47728216467456
+91,"Baja_California",20,"Mexico","2030",4.60136595313729
+91,"Baja_California",20,"Mexico","2035",4.70167417107267
+91,"Baja_California",20,"Mexico","2040",4.80198238900806
+91,"Baja_California",20,"Mexico","2045",4.8748761066421
+91,"Baja_California",20,"Mexico","2050",4.94776982427614
+91,"Baja_California",20,"Mexico","2055",4.98164000469627
+91,"Baja_California",20,"Mexico","2060",5.0155101851164
+91,"Baja_California",20,"Mexico","2065",5.03498048491682
+91,"Baja_California",20,"Mexico","2070",5.05445078471723
+91,"Baja_California",20,"Mexico","2075",5.06329211619705
+91,"Baja_California",20,"Mexico","2080",5.07213344767686
+91,"Baja_California",20,"Mexico","2085",5.05930039183804
+91,"Baja_California",20,"Mexico","2090",5.04646733599922
+91,"Baja_California",20,"Mexico","2095",5.04994872959601
+91,"Baja_California",20,"Mexico","2100",5.0534301231928
+96,"Mexico_Northwest_Coast",20,"Mexico","1980",7.23881875306807
+96,"Mexico_Northwest_Coast",20,"Mexico","1985",7.67912681604845
+96,"Mexico_Northwest_Coast",20,"Mexico","1990",8.11943487902882
+96,"Mexico_Northwest_Coast",20,"Mexico","1995",9.29308927973656
+96,"Mexico_Northwest_Coast",20,"Mexico","2000",10.4667436804443
+96,"Mexico_Northwest_Coast",20,"Mexico","2005",10.449699494309
+96,"Mexico_Northwest_Coast",20,"Mexico","2010",10.4326553081737
+96,"Mexico_Northwest_Coast",20,"Mexico","2015",11.1898515265851
+96,"Mexico_Northwest_Coast",20,"Mexico","2020",11.9470477449964
+96,"Mexico_Northwest_Coast",20,"Mexico","2025",12.4397680736093
+96,"Mexico_Northwest_Coast",20,"Mexico","2030",12.9324884022222
+96,"Mexico_Northwest_Coast",20,"Mexico","2035",13.2981982708407
+96,"Mexico_Northwest_Coast",20,"Mexico","2040",13.6639081394592
+96,"Mexico_Northwest_Coast",20,"Mexico","2045",13.9210790404195
+96,"Mexico_Northwest_Coast",20,"Mexico","2050",14.1782499413799
+96,"Mexico_Northwest_Coast",20,"Mexico","2055",14.2840612285881
+96,"Mexico_Northwest_Coast",20,"Mexico","2060",14.3898725157964
+96,"Mexico_Northwest_Coast",20,"Mexico","2065",14.3907292939498
+96,"Mexico_Northwest_Coast",20,"Mexico","2070",14.3915860721032
+96,"Mexico_Northwest_Coast",20,"Mexico","2075",14.3592678101666
+96,"Mexico_Northwest_Coast",20,"Mexico","2080",14.32694954823
+96,"Mexico_Northwest_Coast",20,"Mexico","2085",14.2743119044969
+96,"Mexico_Northwest_Coast",20,"Mexico","2090",14.2216742607637
+96,"Mexico_Northwest_Coast",20,"Mexico","2095",14.2486995183993
+96,"Mexico_Northwest_Coast",20,"Mexico","2100",14.2757247760348
+101,"Caribbean",9,"Central America and Caribbean","1980",24.0052838880298
+101,"Caribbean",9,"Central America and Caribbean","1985",25.9328656438701
+101,"Caribbean",9,"Central America and Caribbean","1990",27.8604473997104
+101,"Caribbean",9,"Central America and Caribbean","1995",29.7086080699423
+101,"Caribbean",9,"Central America and Caribbean","2000",31.5567687401742
+101,"Caribbean",9,"Central America and Caribbean","2005",32.9687910737253
+101,"Caribbean",9,"Central America and Caribbean","2010",34.3808134072765
+101,"Caribbean",9,"Central America and Caribbean","2015",35.4281104545682
+101,"Caribbean",9,"Central America and Caribbean","2020",36.4754075018599
+101,"Caribbean",9,"Central America and Caribbean","2025",37.1907202957679
+101,"Caribbean",9,"Central America and Caribbean","2030",37.9060330896758
+101,"Caribbean",9,"Central America and Caribbean","2035",38.2293940429519
+101,"Caribbean",9,"Central America and Caribbean","2040",38.5527549962279
+101,"Caribbean",9,"Central America and Caribbean","2045",38.4515084727304
+101,"Caribbean",9,"Central America and Caribbean","2050",38.3502619492328
+101,"Caribbean",9,"Central America and Caribbean","2055",37.8419103296208
+101,"Caribbean",9,"Central America and Caribbean","2060",37.3335587100088
+101,"Caribbean",9,"Central America and Caribbean","2065",36.6260599828301
+101,"Caribbean",9,"Central America and Caribbean","2070",35.9185612556514
+101,"Caribbean",9,"Central America and Caribbean","2075",35.1498818703065
+101,"Caribbean",9,"Central America and Caribbean","2080",34.3812024849615
+101,"Caribbean",9,"Central America and Caribbean","2085",33.5761906559885
+101,"Caribbean",9,"Central America and Caribbean","2090",32.7711788270156
+101,"Caribbean",9,"Central America and Caribbean","2095",32.0057542486896
+101,"Caribbean",9,"Central America and Caribbean","2100",31.2403296703637
+105,"North_Gulf",20,"Mexico","1980",2.52514982902428
+105,"North_Gulf",20,"Mexico","1985",2.69853211749926
+105,"North_Gulf",20,"Mexico","1990",2.87191440597424
+105,"North_Gulf",20,"Mexico","1995",3.2950532119673
+105,"North_Gulf",20,"Mexico","2000",3.71819201796036
+105,"North_Gulf",20,"Mexico","2005",3.78895475756484
+105,"North_Gulf",20,"Mexico","2010",3.85971749716933
+105,"North_Gulf",20,"Mexico","2015",4.15335531933002
+105,"North_Gulf",20,"Mexico","2020",4.44699314149071
+105,"North_Gulf",20,"Mexico","2025",4.66641435519632
+105,"North_Gulf",20,"Mexico","2030",4.88583556890193
+105,"North_Gulf",20,"Mexico","2035",5.06193405769443
+105,"North_Gulf",20,"Mexico","2040",5.23803254648693
+105,"North_Gulf",20,"Mexico","2045",5.36733312280999
+105,"North_Gulf",20,"Mexico","2050",5.49663369913306
+105,"North_Gulf",20,"Mexico","2055",5.57184960987858
+105,"North_Gulf",20,"Mexico","2060",5.64706552062409
+105,"North_Gulf",20,"Mexico","2065",5.67391833886154
+105,"North_Gulf",20,"Mexico","2070",5.70077115709898
+105,"North_Gulf",20,"Mexico","2075",5.71852572405615
+105,"North_Gulf",20,"Mexico","2080",5.73628029101332
+105,"North_Gulf",20,"Mexico","2085",5.70571010265194
+105,"North_Gulf",20,"Mexico","2090",5.67513991429056
+105,"North_Gulf",20,"Mexico","2095",5.68523586966443
+105,"North_Gulf",20,"Mexico","2100",5.6953318250383
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","1980",3.32263315733342
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","1985",3.80227186504393
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","1990",4.28191057275444
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","1995",4.8181568651311
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2000",5.35440315750777
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2005",5.63105805213413
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2010",5.9077129467605
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2015",6.61919015128411
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2020",7.33066735580773
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2025",7.94723278903454
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2030",8.56379822226136
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2035",9.02839324481177
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2040",9.49298826736219
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2045",9.85734332170865
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2050",10.2216983760551
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2055",10.4908428504985
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2060",10.7599873249419
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2065",10.966509522985
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2070",11.1730317210281
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2075",11.294251549373
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2080",11.4154713777179
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2085",11.4669722609833
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2090",11.5184731442487
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2095",11.4996481805026
+111,"Yucatan_Peninsula",9,"Central America and Caribbean","2100",11.4808232167565
+111,"Yucatan_Peninsula",20,"Mexico","1980",2.08684060517394
+111,"Yucatan_Peninsula",20,"Mexico","1985",2.20759558152309
+111,"Yucatan_Peninsula",20,"Mexico","1990",2.32835055787224
+111,"Yucatan_Peninsula",20,"Mexico","1995",2.65974654288018
+111,"Yucatan_Peninsula",20,"Mexico","2000",2.99114252788812
+111,"Yucatan_Peninsula",20,"Mexico","2005",3.37741735434822
+111,"Yucatan_Peninsula",20,"Mexico","2010",3.76369218080833
+111,"Yucatan_Peninsula",20,"Mexico","2015",4.02604289441202
+111,"Yucatan_Peninsula",20,"Mexico","2020",4.2883936080157
+111,"Yucatan_Peninsula",20,"Mexico","2025",4.54132825339159
+111,"Yucatan_Peninsula",20,"Mexico","2030",4.79426289876748
+111,"Yucatan_Peninsula",20,"Mexico","2035",4.99737590669176
+111,"Yucatan_Peninsula",20,"Mexico","2040",5.20048891461604
+111,"Yucatan_Peninsula",20,"Mexico","2045",5.33493024125487
+111,"Yucatan_Peninsula",20,"Mexico","2050",5.4693715678937
+111,"Yucatan_Peninsula",20,"Mexico","2055",5.52555577960224
+111,"Yucatan_Peninsula",20,"Mexico","2060",5.58173999131079
+111,"Yucatan_Peninsula",20,"Mexico","2065",5.59184183518624
+111,"Yucatan_Peninsula",20,"Mexico","2070",5.6019436790617
+111,"Yucatan_Peninsula",20,"Mexico","2075",5.58587844183812
+111,"Yucatan_Peninsula",20,"Mexico","2080",5.56981320461453
+111,"Yucatan_Peninsula",20,"Mexico","2085",5.5450291044129
+111,"Yucatan_Peninsula",20,"Mexico","2090",5.52024500421127
+111,"Yucatan_Peninsula",20,"Mexico","2095",5.53109974768091
+111,"Yucatan_Peninsula",20,"Mexico","2100",5.54195449115055
+114,"Mexico_Interior",20,"Mexico","1980",1.87755502737159
+114,"Mexico_Interior",20,"Mexico","1985",1.99647020970542
+114,"Mexico_Interior",20,"Mexico","1990",2.11538539203925
+114,"Mexico_Interior",20,"Mexico","1995",2.43129015267276
+114,"Mexico_Interior",20,"Mexico","2000",2.74719491330627
+114,"Mexico_Interior",20,"Mexico","2005",3.00911358650354
+114,"Mexico_Interior",20,"Mexico","2010",3.27103225970081
+114,"Mexico_Interior",20,"Mexico","2015",3.38155327715524
+114,"Mexico_Interior",20,"Mexico","2020",3.49207429460966
+114,"Mexico_Interior",20,"Mexico","2025",3.62452334410846
+114,"Mexico_Interior",20,"Mexico","2030",3.75697239360726
+114,"Mexico_Interior",20,"Mexico","2035",3.80947562397116
+114,"Mexico_Interior",20,"Mexico","2040",3.86197885433506
+114,"Mexico_Interior",20,"Mexico","2045",3.82100276374709
+114,"Mexico_Interior",20,"Mexico","2050",3.78002667315911
+114,"Mexico_Interior",20,"Mexico","2055",3.70428414362738
+114,"Mexico_Interior",20,"Mexico","2060",3.62854161409564
+114,"Mexico_Interior",20,"Mexico","2065",3.57467997367664
+114,"Mexico_Interior",20,"Mexico","2070",3.52081833325764
+114,"Mexico_Interior",20,"Mexico","2075",3.44524039330047
+114,"Mexico_Interior",20,"Mexico","2080",3.3696624533433
+114,"Mexico_Interior",20,"Mexico","2085",3.30999761318148
+114,"Mexico_Interior",20,"Mexico","2090",3.25033277301966
+114,"Mexico_Interior",20,"Mexico","2095",3.11058688472503
+114,"Mexico_Interior",20,"Mexico","2100",2.97084099643039
+115,"Pacific_Central_Coast",20,"Mexico","1980",2.14855950880669
+115,"Pacific_Central_Coast",20,"Mexico","1985",2.30755543093899
+115,"Pacific_Central_Coast",20,"Mexico","1990",2.4665513530713
+115,"Pacific_Central_Coast",20,"Mexico","1995",2.83224938163581
+115,"Pacific_Central_Coast",20,"Mexico","2000",3.19794741020032
+115,"Pacific_Central_Coast",20,"Mexico","2005",3.37650929101649
+115,"Pacific_Central_Coast",20,"Mexico","2010",3.55507117183266
+115,"Pacific_Central_Coast",20,"Mexico","2015",3.79383000641198
+115,"Pacific_Central_Coast",20,"Mexico","2020",4.03258884099129
+115,"Pacific_Central_Coast",20,"Mexico","2025",4.24106371700617
+115,"Pacific_Central_Coast",20,"Mexico","2030",4.44953859302105
+115,"Pacific_Central_Coast",20,"Mexico","2035",4.63110979568795
+115,"Pacific_Central_Coast",20,"Mexico","2040",4.81268099835486
+115,"Pacific_Central_Coast",20,"Mexico","2045",4.95741128580025
+115,"Pacific_Central_Coast",20,"Mexico","2050",5.10214157324565
+115,"Pacific_Central_Coast",20,"Mexico","2055",5.18379961429522
+115,"Pacific_Central_Coast",20,"Mexico","2060",5.26545765534479
+115,"Pacific_Central_Coast",20,"Mexico","2065",5.30260702227999
+115,"Pacific_Central_Coast",20,"Mexico","2070",5.33975638921518
+115,"Pacific_Central_Coast",20,"Mexico","2075",5.36776775667652
+115,"Pacific_Central_Coast",20,"Mexico","2080",5.39577912413787
+115,"Pacific_Central_Coast",20,"Mexico","2085",5.3619175413695
+115,"Pacific_Central_Coast",20,"Mexico","2090",5.32805595860113
+115,"Pacific_Central_Coast",20,"Mexico","2095",5.31589415252291
+115,"Pacific_Central_Coast",20,"Mexico","2100",5.30373234644468
+130,"Papaloapan",20,"Mexico","1980",3.14160212039564
+130,"Papaloapan",20,"Mexico","1985",3.36353912434037
+130,"Papaloapan",20,"Mexico","1990",3.58547612828509
+130,"Papaloapan",20,"Mexico","1995",4.12937461918924
+130,"Papaloapan",20,"Mexico","2000",4.67327311009338
+130,"Papaloapan",20,"Mexico","2005",4.6505469287878
+130,"Papaloapan",20,"Mexico","2010",4.62782074748222
+130,"Papaloapan",20,"Mexico","2015",5.08632739977024
+130,"Papaloapan",20,"Mexico","2020",5.54483405205825
+130,"Papaloapan",20,"Mexico","2025",5.91293248189504
+130,"Papaloapan",20,"Mexico","2030",6.28103091173184
+130,"Papaloapan",20,"Mexico","2035",6.55934237580555
+130,"Papaloapan",20,"Mexico","2040",6.83765383987926
+130,"Papaloapan",20,"Mexico","2045",7.05143842337937
+130,"Papaloapan",20,"Mexico","2050",7.26522300687947
+130,"Papaloapan",20,"Mexico","2055",7.37967747124115
+130,"Papaloapan",20,"Mexico","2060",7.49413193560282
+130,"Papaloapan",20,"Mexico","2065",7.51964610631297
+130,"Papaloapan",20,"Mexico","2070",7.54516027702312
+130,"Papaloapan",20,"Mexico","2075",7.55371726879028
+130,"Papaloapan",20,"Mexico","2080",7.56227426055745
+130,"Papaloapan",20,"Mexico","2085",7.5154626428636
+130,"Papaloapan",20,"Mexico","2090",7.46865102516975
+130,"Papaloapan",20,"Mexico","2095",7.48483437481067
+130,"Papaloapan",20,"Mexico","2100",7.50101772445158
+131,"Rio_Lerma",20,"Mexico","1980",9.79833090336179
+131,"Rio_Lerma",20,"Mexico","1985",10.4749261702779
+131,"Rio_Lerma",20,"Mexico","1990",11.1515214371939
+131,"Rio_Lerma",20,"Mexico","1995",12.8561176578475
+131,"Rio_Lerma",20,"Mexico","2000",14.560713878501
+131,"Rio_Lerma",20,"Mexico","2005",15.2084417432771
+131,"Rio_Lerma",20,"Mexico","2010",15.8561696080531
+131,"Rio_Lerma",20,"Mexico","2015",16.486046124384
+131,"Rio_Lerma",20,"Mexico","2020",17.1159226407149
+131,"Rio_Lerma",20,"Mexico","2025",17.7311932048307
+131,"Rio_Lerma",20,"Mexico","2030",18.3464637689465
+131,"Rio_Lerma",20,"Mexico","2035",18.7148471468854
+131,"Rio_Lerma",20,"Mexico","2040",19.0832305248244
+131,"Rio_Lerma",20,"Mexico","2045",19.1650533813534
+131,"Rio_Lerma",20,"Mexico","2050",19.2468762378824
+131,"Rio_Lerma",20,"Mexico","2055",19.1226248566424
+131,"Rio_Lerma",20,"Mexico","2060",18.9983734754023
+131,"Rio_Lerma",20,"Mexico","2065",18.8396488576366
+131,"Rio_Lerma",20,"Mexico","2070",18.6809242398709
+131,"Rio_Lerma",20,"Mexico","2075",18.4322283514964
+131,"Rio_Lerma",20,"Mexico","2080",18.1835324631218
+131,"Rio_Lerma",20,"Mexico","2085",17.8888073144733
+131,"Rio_Lerma",20,"Mexico","2090",17.5940821658248
+131,"Rio_Lerma",20,"Mexico","2095",17.080279093223
+131,"Rio_Lerma",20,"Mexico","2100",16.5664760206212
+132,"Rio_Verde",20,"Mexico","1980",8.95540151036284
+132,"Rio_Verde",20,"Mexico","1985",9.62075482148265
+132,"Rio_Verde",20,"Mexico","1990",10.2861081326025
+132,"Rio_Verde",20,"Mexico","1995",11.89124881843
+132,"Rio_Verde",20,"Mexico","2000",13.4963895042576
+132,"Rio_Verde",20,"Mexico","2005",13.6565383907598
+132,"Rio_Verde",20,"Mexico","2010",13.8166872772621
+132,"Rio_Verde",20,"Mexico","2015",14.6391477525224
+132,"Rio_Verde",20,"Mexico","2020",15.4616082277828
+132,"Rio_Verde",20,"Mexico","2025",16.2673454295397
+132,"Rio_Verde",20,"Mexico","2030",17.0730826312966
+132,"Rio_Verde",20,"Mexico","2035",17.5863959877496
+132,"Rio_Verde",20,"Mexico","2040",18.0997093442025
+132,"Rio_Verde",20,"Mexico","2045",18.3483537819372
+132,"Rio_Verde",20,"Mexico","2050",18.5969982196718
+132,"Rio_Verde",20,"Mexico","2055",18.6225421770311
+132,"Rio_Verde",20,"Mexico","2060",18.6480861343904
+132,"Rio_Verde",20,"Mexico","2065",18.5693872278964
+132,"Rio_Verde",20,"Mexico","2070",18.4906883214025
+132,"Rio_Verde",20,"Mexico","2075",18.3362521299492
+132,"Rio_Verde",20,"Mexico","2080",18.181815938496
+132,"Rio_Verde",20,"Mexico","2085",17.8877882996278
+132,"Rio_Verde",20,"Mexico","2090",17.5937606607596
+132,"Rio_Verde",20,"Mexico","2095",17.1537724994433
+132,"Rio_Verde",20,"Mexico","2100",16.713784338127
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","1980",0.34475908728554
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","1985",0.389871611121283
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","1990",0.434984134957026
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","1995",0.48923719087811
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2000",0.543490246799195
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2005",1.04122835623257
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2010",1.53896646566594
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2015",1.5784639954111
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2020",1.61796152515625
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2025",1.68512982244495
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2030",1.75229811973366
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2035",1.86491931680988
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2040",1.9775405138861
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2045",2.06305256084551
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2050",2.14856460780492
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2055",2.20928311700874
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2060",2.27000162621257
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2065",2.31522850324449
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2070",2.36045538027641
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2075",2.38874212045749
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2080",2.41702886063857
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2085",2.43211870004817
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2090",2.44720853945777
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2095",2.41617993001527
+133,"Grijalva_Usumacinta",9,"Central America and Caribbean","2100",2.38515132057277
+133,"Grijalva_Usumacinta",20,"Mexico","1980",1.57465864146772
+133,"Grijalva_Usumacinta",20,"Mexico","1985",1.67497034378285
+133,"Grijalva_Usumacinta",20,"Mexico","1990",1.77528204609798
+133,"Grijalva_Usumacinta",20,"Mexico","1995",2.03565013875587
+133,"Grijalva_Usumacinta",20,"Mexico","2000",2.29601823141375
+133,"Grijalva_Usumacinta",20,"Mexico","2005",2.5383459754391
+133,"Grijalva_Usumacinta",20,"Mexico","2010",2.78067371946444
+133,"Grijalva_Usumacinta",20,"Mexico","2015",2.89547700439623
+133,"Grijalva_Usumacinta",20,"Mexico","2020",3.01028028932802
+133,"Grijalva_Usumacinta",20,"Mexico","2025",3.1637891139609
+133,"Grijalva_Usumacinta",20,"Mexico","2030",3.31729793859378
+133,"Grijalva_Usumacinta",20,"Mexico","2035",3.45004345865736
+133,"Grijalva_Usumacinta",20,"Mexico","2040",3.58278897872094
+133,"Grijalva_Usumacinta",20,"Mexico","2045",3.67166422991175
+133,"Grijalva_Usumacinta",20,"Mexico","2050",3.76053948110256
+133,"Grijalva_Usumacinta",20,"Mexico","2055",3.8092254813098
+133,"Grijalva_Usumacinta",20,"Mexico","2060",3.85791148151705
+133,"Grijalva_Usumacinta",20,"Mexico","2065",3.87555836293715
+133,"Grijalva_Usumacinta",20,"Mexico","2070",3.89320524435725
+133,"Grijalva_Usumacinta",20,"Mexico","2075",3.90037350418177
+133,"Grijalva_Usumacinta",20,"Mexico","2080",3.90754176400629
+133,"Grijalva_Usumacinta",20,"Mexico","2085",3.88873447036667
+133,"Grijalva_Usumacinta",20,"Mexico","2090",3.86992717672704
+133,"Grijalva_Usumacinta",20,"Mexico","2095",3.87030030736194
+133,"Grijalva_Usumacinta",20,"Mexico","2100",3.87067343799684
+134,"Rio_Balsas",20,"Mexico","1980",9.00616865458014
+134,"Rio_Balsas",20,"Mexico","1985",9.67821830213817
+134,"Rio_Balsas",20,"Mexico","1990",10.3502679496962
+134,"Rio_Balsas",20,"Mexico","1995",11.9562163288936
+134,"Rio_Balsas",20,"Mexico","2000",13.562164708091
+134,"Rio_Balsas",20,"Mexico","2005",13.9461366011177
+134,"Rio_Balsas",20,"Mexico","2010",14.3301084941444
+134,"Rio_Balsas",20,"Mexico","2015",15.1325428452393
+134,"Rio_Balsas",20,"Mexico","2020",15.9349771963342
+134,"Rio_Balsas",20,"Mexico","2025",16.702401815545
+134,"Rio_Balsas",20,"Mexico","2030",17.4698264347557
+134,"Rio_Balsas",20,"Mexico","2035",17.9518046113858
+134,"Rio_Balsas",20,"Mexico","2040",18.4337827880159
+134,"Rio_Balsas",20,"Mexico","2045",18.6845906631492
+134,"Rio_Balsas",20,"Mexico","2050",18.9353985382826
+134,"Rio_Balsas",20,"Mexico","2055",18.9833095792945
+134,"Rio_Balsas",20,"Mexico","2060",19.0312206203064
+134,"Rio_Balsas",20,"Mexico","2065",18.9789889777665
+134,"Rio_Balsas",20,"Mexico","2070",18.9267573352265
+134,"Rio_Balsas",20,"Mexico","2075",18.8179520140789
+134,"Rio_Balsas",20,"Mexico","2080",18.7091466929312
+134,"Rio_Balsas",20,"Mexico","2085",18.4466164747826
+134,"Rio_Balsas",20,"Mexico","2090",18.184086256634
+134,"Rio_Balsas",20,"Mexico","2095",17.8287484893363
+134,"Rio_Balsas",20,"Mexico","2100",17.4734107220386
+135,"Southern_Central_America",9,"Central America and Caribbean","1980",19.1846503922548
+135,"Southern_Central_America",9,"Central America and Caribbean","1985",21.5281111159854
+135,"Southern_Central_America",9,"Central America and Caribbean","1990",23.8715718397159
+135,"Southern_Central_America",9,"Central America and Caribbean","1995",26.7072676230545
+135,"Southern_Central_America",9,"Central America and Caribbean","2000",29.5429634063931
+135,"Southern_Central_America",9,"Central America and Caribbean","2005",31.7697210392064
+135,"Southern_Central_America",9,"Central America and Caribbean","2010",33.9964786720197
+135,"Southern_Central_America",9,"Central America and Caribbean","2015",36.4601091782404
+135,"Southern_Central_America",9,"Central America and Caribbean","2020",38.923739684461
+135,"Southern_Central_America",9,"Central America and Caribbean","2025",40.9481303799699
+135,"Southern_Central_America",9,"Central America and Caribbean","2030",42.9725210754788
+135,"Southern_Central_America",9,"Central America and Caribbean","2035",44.5652455032831
+135,"Southern_Central_America",9,"Central America and Caribbean","2040",46.1579699310875
+135,"Southern_Central_America",9,"Central America and Caribbean","2045",47.2728058184514
+135,"Southern_Central_America",9,"Central America and Caribbean","2050",48.3876417058153
+135,"Southern_Central_America",9,"Central America and Caribbean","2055",49.0212428543957
+135,"Southern_Central_America",9,"Central America and Caribbean","2060",49.6548440029761
+135,"Southern_Central_America",9,"Central America and Caribbean","2065",49.9469324862918
+135,"Southern_Central_America",9,"Central America and Caribbean","2070",50.2390209696075
+135,"Southern_Central_America",9,"Central America and Caribbean","2075",50.2325637930441
+135,"Southern_Central_America",9,"Central America and Caribbean","2080",50.2261066164807
+135,"Southern_Central_America",9,"Central America and Caribbean","2085",49.9510093368176
+135,"Southern_Central_America",9,"Central America and Caribbean","2090",49.6759120571546
+135,"Southern_Central_America",9,"Central America and Caribbean","2095",49.270453402768
+135,"Southern_Central_America",9,"Central America and Caribbean","2100",48.8649947483814
+135,"Southern_Central_America",20,"Mexico","1980",0.424074476433197
+135,"Southern_Central_America",20,"Mexico","1985",0.450156567616894
+135,"Southern_Central_America",20,"Mexico","1990",0.476238658800592
+135,"Southern_Central_America",20,"Mexico","1995",0.545356961721901
+135,"Southern_Central_America",20,"Mexico","2000",0.614475264643209
+135,"Southern_Central_America",20,"Mexico","2005",0.662781759061927
+135,"Southern_Central_America",20,"Mexico","2010",0.711088253480645
+135,"Southern_Central_America",20,"Mexico","2015",0.772100089074583
+135,"Southern_Central_America",20,"Mexico","2020",0.833111924668522
+135,"Southern_Central_America",20,"Mexico","2025",0.875928080085382
+135,"Southern_Central_America",20,"Mexico","2030",0.918744235502241
+135,"Southern_Central_America",20,"Mexico","2035",0.961613569690096
+135,"Southern_Central_America",20,"Mexico","2040",1.00448290387795
+135,"Southern_Central_America",20,"Mexico","2045",1.0465829481488
+135,"Southern_Central_America",20,"Mexico","2050",1.08868299241965
+135,"Southern_Central_America",20,"Mexico","2055",1.11539369827773
+135,"Southern_Central_America",20,"Mexico","2060",1.14210440413581
+135,"Southern_Central_America",20,"Mexico","2065",1.16133902926542
+135,"Southern_Central_America",20,"Mexico","2070",1.18057365439503
+135,"Southern_Central_America",20,"Mexico","2075",1.19784034278249
+135,"Southern_Central_America",20,"Mexico","2080",1.21510703116996
+135,"Southern_Central_America",20,"Mexico","2085",1.22155981288282
+135,"Southern_Central_America",20,"Mexico","2090",1.22801259459568
+135,"Southern_Central_America",20,"Mexico","2095",1.22998454901434
+135,"Southern_Central_America",20,"Mexico","2100",1.231956503433
+136,"Isthmus_of_Tehuantepec",20,"Mexico","1980",1.9901008417094
+136,"Isthmus_of_Tehuantepec",20,"Mexico","1985",2.11839752040733
+136,"Isthmus_of_Tehuantepec",20,"Mexico","1990",2.24669419910526
+136,"Isthmus_of_Tehuantepec",20,"Mexico","1995",2.57801296911601
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2000",2.90933173912676
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2005",3.04228745557408
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2010",3.17524317202141
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2015",3.49804964769386
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2020",3.82085612336631
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2025",4.08471495437005
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2030",4.3485737853738
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2035",4.55490602992948
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2040",4.76123827448516
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2045",4.91444709495576
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2050",5.06765591542635
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2055",5.15937730096577
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2060",5.25109868650519
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2065",5.27955354209228
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2070",5.30800839767938
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2075",5.32553801718957
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2080",5.34306763669976
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2085",5.32020910353986
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2090",5.29735057037996
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2095",5.33538334259893
+136,"Isthmus_of_Tehuantepec",20,"Mexico","2100",5.37341611481791
+143,"Caribbean_Coast",9,"Central America and Caribbean","1980",1.11984089849305
+143,"Caribbean_Coast",9,"Central America and Caribbean","1985",1.20487364450111
+143,"Caribbean_Coast",9,"Central America and Caribbean","1990",1.28990639050917
+143,"Caribbean_Coast",9,"Central America and Caribbean","1995",1.31642269148244
+143,"Caribbean_Coast",9,"Central America and Caribbean","2000",1.34293899245571
+143,"Caribbean_Coast",9,"Central America and Caribbean","2005",1.38521761738643
+143,"Caribbean_Coast",9,"Central America and Caribbean","2010",1.42749624231714
+143,"Caribbean_Coast",9,"Central America and Caribbean","2015",1.44905046825457
+143,"Caribbean_Coast",9,"Central America and Caribbean","2020",1.47060469419199
+143,"Caribbean_Coast",9,"Central America and Caribbean","2025",1.47296626998535
+143,"Caribbean_Coast",9,"Central America and Caribbean","2030",1.4753278457787
+143,"Caribbean_Coast",9,"Central America and Caribbean","2035",1.46001037673529
+143,"Caribbean_Coast",9,"Central America and Caribbean","2040",1.44469290769188
+143,"Caribbean_Coast",9,"Central America and Caribbean","2045",1.41115163099325
+143,"Caribbean_Coast",9,"Central America and Caribbean","2050",1.37761035429461
+143,"Caribbean_Coast",9,"Central America and Caribbean","2055",1.33160471168804
+143,"Caribbean_Coast",9,"Central America and Caribbean","2060",1.28559906908146
+143,"Caribbean_Coast",9,"Central America and Caribbean","2065",1.23777973430124
+143,"Caribbean_Coast",9,"Central America and Caribbean","2070",1.18996039952103
+143,"Caribbean_Coast",9,"Central America and Caribbean","2075",1.14087743808929
+143,"Caribbean_Coast",9,"Central America and Caribbean","2080",1.09179447665756
+143,"Caribbean_Coast",9,"Central America and Caribbean","2085",1.04680607845245
+143,"Caribbean_Coast",9,"Central America and Caribbean","2090",1.00181768024735
+143,"Caribbean_Coast",9,"Central America and Caribbean","2095",0.961713464943419
+143,"Caribbean_Coast",9,"Central America and Caribbean","2100",0.921609249639487
+143,"Caribbean_Coast",25,"South America_Northern","1980",10.7290559152772
+143,"Caribbean_Coast",25,"South America_Northern","1985",12.3675373859851
+143,"Caribbean_Coast",25,"South America_Northern","1990",14.0060188566931
+143,"Caribbean_Coast",25,"South America_Northern","1995",15.6865377287628
+143,"Caribbean_Coast",25,"South America_Northern","2000",17.3670566008326
+143,"Caribbean_Coast",25,"South America_Northern","2005",18.8391724611331
+143,"Caribbean_Coast",25,"South America_Northern","2010",20.3112883214336
+143,"Caribbean_Coast",25,"South America_Northern","2015",21.8984692755011
+143,"Caribbean_Coast",25,"South America_Northern","2020",23.4856502295685
+143,"Caribbean_Coast",25,"South America_Northern","2025",24.7661057440222
+143,"Caribbean_Coast",25,"South America_Northern","2030",26.046561258476
+143,"Caribbean_Coast",25,"South America_Northern","2035",27.1048479191134
+143,"Caribbean_Coast",25,"South America_Northern","2040",28.1631345797508
+143,"Caribbean_Coast",25,"South America_Northern","2045",28.9758048788644
+143,"Caribbean_Coast",25,"South America_Northern","2050",29.788475177978
+143,"Caribbean_Coast",25,"South America_Northern","2055",30.259299894837
+143,"Caribbean_Coast",25,"South America_Northern","2060",30.730124611696
+143,"Caribbean_Coast",25,"South America_Northern","2065",30.8545803172336
+143,"Caribbean_Coast",25,"South America_Northern","2070",30.9790360227711
+143,"Caribbean_Coast",25,"South America_Northern","2075",30.818264084325
+143,"Caribbean_Coast",25,"South America_Northern","2080",30.6574921458788
+143,"Caribbean_Coast",25,"South America_Northern","2085",30.2755277495569
+143,"Caribbean_Coast",25,"South America_Northern","2090",29.8935633532351
+143,"Caribbean_Coast",25,"South America_Northern","2095",29.4065505286612
+143,"Caribbean_Coast",25,"South America_Northern","2100",28.9195377040873
+143,"Caribbean_Coast",32,"Colombia","1980",6.54914302045328
+143,"Caribbean_Coast",32,"Colombia","1985",7.32206217963683
+143,"Caribbean_Coast",32,"Colombia","1990",8.09498133882038
+143,"Caribbean_Coast",32,"Colombia","1995",8.90881860508616
+143,"Caribbean_Coast",32,"Colombia","2000",9.72265587135194
+143,"Caribbean_Coast",32,"Colombia","2005",10.4260160068173
+143,"Caribbean_Coast",32,"Colombia","2010",11.1293761422827
+143,"Caribbean_Coast",32,"Colombia","2015",11.9775077847633
+143,"Caribbean_Coast",32,"Colombia","2020",12.8256394272439
+143,"Caribbean_Coast",32,"Colombia","2025",13.4936735656218
+143,"Caribbean_Coast",32,"Colombia","2030",14.1617077039996
+143,"Caribbean_Coast",32,"Colombia","2035",14.7690340761703
+143,"Caribbean_Coast",32,"Colombia","2040",15.3763604483409
+143,"Caribbean_Coast",32,"Colombia","2045",15.9044441875112
+143,"Caribbean_Coast",32,"Colombia","2050",16.4325279266814
+143,"Caribbean_Coast",32,"Colombia","2055",16.7900762766688
+143,"Caribbean_Coast",32,"Colombia","2060",17.1476246266561
+143,"Caribbean_Coast",32,"Colombia","2065",17.3003780555813
+143,"Caribbean_Coast",32,"Colombia","2070",17.4531314845064
+143,"Caribbean_Coast",32,"Colombia","2075",17.5071689600463
+143,"Caribbean_Coast",32,"Colombia","2080",17.5612064355862
+143,"Caribbean_Coast",32,"Colombia","2085",17.4339735293706
+143,"Caribbean_Coast",32,"Colombia","2090",17.306740623155
+143,"Caribbean_Coast",32,"Colombia","2095",17.2419310626809
+143,"Caribbean_Coast",32,"Colombia","2100",17.1771215022068
+156,"Orinoco",7,"Brazil","1980",0.00795426271925445
+156,"Orinoco",7,"Brazil","1985",0.00860694554585718
+156,"Orinoco",7,"Brazil","1990",0.00925962837245992
+156,"Orinoco",7,"Brazil","1995",0.00987670653515579
+156,"Orinoco",7,"Brazil","2000",0.0104937846978517
+156,"Orinoco",7,"Brazil","2005",0.010039548953783
+156,"Orinoco",7,"Brazil","2010",0.00958531320971434
+156,"Orinoco",7,"Brazil","2015",0.0104453375961114
+156,"Orinoco",7,"Brazil","2020",0.0113053619825085
+156,"Orinoco",7,"Brazil","2025",0.0117397472724007
+156,"Orinoco",7,"Brazil","2030",0.0121741325622929
+156,"Orinoco",7,"Brazil","2035",0.0122859752965334
+156,"Orinoco",7,"Brazil","2040",0.0123978180307739
+156,"Orinoco",7,"Brazil","2045",0.0120553459727098
+156,"Orinoco",7,"Brazil","2050",0.0117128739146456
+156,"Orinoco",7,"Brazil","2055",0.0114726841519951
+156,"Orinoco",7,"Brazil","2060",0.0112324943893446
+156,"Orinoco",7,"Brazil","2065",0.0110448368377117
+156,"Orinoco",7,"Brazil","2070",0.0108571792860787
+156,"Orinoco",7,"Brazil","2075",0.0106053123604177
+156,"Orinoco",7,"Brazil","2080",0.0103534454347566
+156,"Orinoco",7,"Brazil","2085",0.0102465168965579
+156,"Orinoco",7,"Brazil","2090",0.0101395883583592
+156,"Orinoco",7,"Brazil","2095",0.00980633873656925
+156,"Orinoco",7,"Brazil","2100",0.00947308911477931
+156,"Orinoco",25,"South America_Northern","1980",4.23600070016094
+156,"Orinoco",25,"South America_Northern","1985",4.87618502844938
+156,"Orinoco",25,"South America_Northern","1990",5.51636935673782
+156,"Orinoco",25,"South America_Northern","1995",6.17637893258587
+156,"Orinoco",25,"South America_Northern","2000",6.83638850843392
+156,"Orinoco",25,"South America_Northern","2005",7.43649629381417
+156,"Orinoco",25,"South America_Northern","2010",8.03660407919443
+156,"Orinoco",25,"South America_Northern","2015",8.57555145491006
+156,"Orinoco",25,"South America_Northern","2020",9.11449883062569
+156,"Orinoco",25,"South America_Northern","2025",9.61584907911201
+156,"Orinoco",25,"South America_Northern","2030",10.1171993275983
+156,"Orinoco",25,"South America_Northern","2035",10.4582402423367
+156,"Orinoco",25,"South America_Northern","2040",10.799281157075
+156,"Orinoco",25,"South America_Northern","2045",10.9557728326429
+156,"Orinoco",25,"South America_Northern","2050",11.1122645082107
+156,"Orinoco",25,"South America_Northern","2055",11.1871292882374
+156,"Orinoco",25,"South America_Northern","2060",11.2619940682641
+156,"Orinoco",25,"South America_Northern","2065",11.2525653583948
+156,"Orinoco",25,"South America_Northern","2070",11.2431366485255
+156,"Orinoco",25,"South America_Northern","2075",11.1222252393211
+156,"Orinoco",25,"South America_Northern","2080",11.0013138301167
+156,"Orinoco",25,"South America_Northern","2085",10.8241971033145
+156,"Orinoco",25,"South America_Northern","2090",10.6470803765123
+156,"Orinoco",25,"South America_Northern","2095",10.3760365916105
+156,"Orinoco",25,"South America_Northern","2100",10.1049928067087
+156,"Orinoco",32,"Colombia","1980",1.8144692505615
+156,"Orinoco",32,"Colombia","1985",2.01587903815121
+156,"Orinoco",32,"Colombia","1990",2.21728882574092
+156,"Orinoco",32,"Colombia","1995",2.44626808212254
+156,"Orinoco",32,"Colombia","2000",2.67524733850417
+156,"Orinoco",32,"Colombia","2005",3.04357113572268
+156,"Orinoco",32,"Colombia","2010",3.4118949329412
+156,"Orinoco",32,"Colombia","2015",3.60616929220636
+156,"Orinoco",32,"Colombia","2020",3.80044365147152
+156,"Orinoco",32,"Colombia","2025",3.99716419469422
+156,"Orinoco",32,"Colombia","2030",4.19388473791693
+156,"Orinoco",32,"Colombia","2035",4.29412295484624
+156,"Orinoco",32,"Colombia","2040",4.39436117177556
+156,"Orinoco",32,"Colombia","2045",4.38430670264191
+156,"Orinoco",32,"Colombia","2050",4.37425223350826
+156,"Orinoco",32,"Colombia","2055",4.33974614864185
+156,"Orinoco",32,"Colombia","2060",4.30524006377543
+156,"Orinoco",32,"Colombia","2065",4.26989028452109
+156,"Orinoco",32,"Colombia","2070",4.23454050526675
+156,"Orinoco",32,"Colombia","2075",4.1628611493815
+156,"Orinoco",32,"Colombia","2080",4.09118179349624
+156,"Orinoco",32,"Colombia","2085",4.0076711505996
+156,"Orinoco",32,"Colombia","2090",3.92416050770296
+156,"Orinoco",32,"Colombia","2095",3.7470510457613
+156,"Orinoco",32,"Colombia","2100",3.56994158381963
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","1980",0.153314708361224
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","1985",0.164823497441618
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","1990",0.176332286522012
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","1995",0.206046767616545
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2000",0.235761248711078
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2005",0.288664684166819
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2010",0.341568119622559
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2015",0.339078910587929
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2020",0.336589701553299
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2025",0.352319656743521
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2030",0.368049611933743
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2035",0.382490219460252
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2040",0.396930826986762
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2045",0.405035245967881
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2050",0.413139664949
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2055",0.41698430880918
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2060",0.42082895266936
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2065",0.423545778998625
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2070",0.42626260532789
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2075",0.424660502173382
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2080",0.423058399018873
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2085",0.416755303519726
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2090",0.41045220802058
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2095",0.397900082900979
+157,"Colombia_Ecuador_Pacific_Coast",9,"Central America and Caribbean","2100",0.385347957781378
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","1980",6.38560401788481
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","1985",7.00145649967341
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","1990",7.61730898146201
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","1995",8.85768227773193
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2000",10.0980555740018
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2005",10.7103937263939
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2010",11.322731878786
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2015",12.0515479572752
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2020",12.7803640357643
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2025",13.4167690616783
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2030",14.0531740875923
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2035",14.5840985028476
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2040",15.1150229181028
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2045",15.5189924239196
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2050",15.9229619297364
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2055",16.1341910333316
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2060",16.3454201369268
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2065",16.4110348356923
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2070",16.4766495344578
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2075",16.4346164246365
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2080",16.3925833148152
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2085",16.2486259462604
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2090",16.1046685777056
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2095",15.9079201238092
+157,"Colombia_Ecuador_Pacific_Coast",26,"South America_Southern","2100",15.7111716699127
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","1980",1.91756824777493
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","1985",2.14090526432
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","1990",2.36424228086507
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","1995",2.60353237083665
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2000",2.84282246080822
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2005",3.32286149680138
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2010",3.80290053279454
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2015",4.0358497016513
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2020",4.26879887050805
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2025",4.55037255912994
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2030",4.83194624775183
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2035",5.07338116841077
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2040",5.31481608906971
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2045",5.5267899342972
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2050",5.73876377952468
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2055",5.88654921717814
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2060",6.03433465483159
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2065",6.10002892504632
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2070",6.16572319526104
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2075",6.19507560960589
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2080",6.22442802395074
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2085",6.18090164465483
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2090",6.13737526535892
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2095",6.12017433114119
+157,"Colombia_Ecuador_Pacific_Coast",32,"Colombia","2100",6.10297339692347
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","1980",0.128693795265922
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","1985",0.138779273676588
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","1990",0.148864752087253
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","1995",0.156736815716794
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2000",0.164608879346334
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2005",0.192949774018941
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2010",0.221290668691548
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2015",0.208286313845517
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2020",0.195281958999485
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2025",0.195700691838645
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2030",0.196119424677804
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2035",0.195686234651233
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2040",0.195253044624662
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2045",0.191888036056046
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2050",0.188523027487429
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2055",0.186200989354413
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2060",0.183878951221396
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2065",0.180921650822353
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2070",0.17796435042331
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2075",0.173837560484052
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2080",0.169710770544794
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2085",0.165565869355494
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2090",0.161420968166193
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2095",0.160373641309696
+161,"Northeast_South_America_South_Atlantic_Coast",7,"Brazil","2100",0.159326314453199
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","1980",1.20303693592967
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","1985",1.1819341957269
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","1990",1.16083145552413
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","1995",1.23749806130248
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2000",1.31416466708082
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2005",1.34385716564469
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2010",1.37354966420855
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2015",1.40644928959546
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2020",1.43934891498236
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2025",1.47099308045641
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2030",1.50263724593045
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2035",1.51343267421471
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2040",1.52422810249897
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2045",1.51564804733301
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2050",1.50706799216705
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2055",1.49052757102269
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2060",1.47398714987833
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2065",1.45284766532311
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2070",1.43170818076789
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2075",1.40720504293753
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2080",1.38270190510717
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2085",1.35646862020278
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2090",1.33023533529839
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2095",1.30466197067214
+161,"Northeast_South_America_South_Atlantic_Coast",25,"South America_Northern","2100",1.27908860604588
+166,"Magdalena",25,"South America_Northern","1980",0.0163798984595279
+166,"Magdalena",25,"South America_Northern","1985",0.0187382475930898
+166,"Magdalena",25,"South America_Northern","1990",0.0210965967266518
+166,"Magdalena",25,"South America_Northern","1995",0.0236327553694767
+166,"Magdalena",25,"South America_Northern","2000",0.0261689140123016
+166,"Magdalena",25,"South America_Northern","2005",0.026834982552951
+166,"Magdalena",25,"South America_Northern","2010",0.0275010510936004
+166,"Magdalena",25,"South America_Northern","2015",0.0299111621306714
+166,"Magdalena",25,"South America_Northern","2020",0.0323212731677425
+166,"Magdalena",25,"South America_Northern","2025",0.0337842865021563
+166,"Magdalena",25,"South America_Northern","2030",0.0352472998365702
+166,"Magdalena",25,"South America_Northern","2035",0.0360767365369503
+166,"Magdalena",25,"South America_Northern","2040",0.0369061732373305
+166,"Magdalena",25,"South America_Northern","2045",0.0374757057985298
+166,"Magdalena",25,"South America_Northern","2050",0.0380452383597292
+166,"Magdalena",25,"South America_Northern","2055",0.0384301841475361
+166,"Magdalena",25,"South America_Northern","2060",0.038815129935343
+166,"Magdalena",25,"South America_Northern","2065",0.0389762321548146
+166,"Magdalena",25,"South America_Northern","2070",0.0391373343742861
+166,"Magdalena",25,"South America_Northern","2075",0.0392021036982817
+166,"Magdalena",25,"South America_Northern","2080",0.0392668730222773
+166,"Magdalena",25,"South America_Northern","2085",0.0391467328278225
+166,"Magdalena",25,"South America_Northern","2090",0.0390265926333677
+166,"Magdalena",25,"South America_Northern","2095",0.03862121889683
+166,"Magdalena",25,"South America_Northern","2100",0.0382158451602923
+166,"Magdalena",32,"Colombia","1980",16.0530824918052
+166,"Magdalena",32,"Colombia","1985",17.9018565991708
+166,"Magdalena",32,"Colombia","1990",19.7506307065364
+166,"Magdalena",32,"Colombia","1995",21.7672017089064
+166,"Magdalena",32,"Colombia","2000",23.7837727112765
+166,"Magdalena",32,"Colombia","2005",25.1663596730212
+166,"Magdalena",32,"Colombia","2010",26.5489466347659
+166,"Magdalena",32,"Colombia","2015",28.1083703446482
+166,"Magdalena",32,"Colombia","2020",29.6677940545305
+166,"Magdalena",32,"Colombia","2025",30.958564618197
+166,"Magdalena",32,"Colombia","2030",32.2493351818635
+166,"Magdalena",32,"Colombia","2035",33.1783877103492
+166,"Magdalena",32,"Colombia","2040",34.1074402388348
+166,"Magdalena",32,"Colombia","2045",34.6740459725729
+166,"Magdalena",32,"Colombia","2050",35.2406517063109
+166,"Magdalena",32,"Colombia","2055",35.44532759523
+166,"Magdalena",32,"Colombia","2060",35.6500034841491
+166,"Magdalena",32,"Colombia","2065",35.6028975551299
+166,"Magdalena",32,"Colombia","2070",35.5557916261106
+166,"Magdalena",32,"Colombia","2075",35.2123035956364
+166,"Magdalena",32,"Colombia","2080",34.8688155651622
+166,"Magdalena",32,"Colombia","2085",34.3902306573497
+166,"Magdalena",32,"Colombia","2090",33.9116457495371
+166,"Magdalena",32,"Colombia","2095",33.2245227335508
+166,"Magdalena",32,"Colombia","2100",32.5373997175646
+168,"Amazon",7,"Brazil","1980",3.04197670512756
+168,"Amazon",7,"Brazil","1985",3.33951145378088
+168,"Amazon",7,"Brazil","1990",3.6370462024342
+168,"Amazon",7,"Brazil","1995",3.91235493514586
+168,"Amazon",7,"Brazil","2000",4.18766366785751
+168,"Amazon",7,"Brazil","2005",5.13441538495869
+168,"Amazon",7,"Brazil","2010",6.08116710205987
+168,"Amazon",7,"Brazil","2015",5.95640858138747
+168,"Amazon",7,"Brazil","2020",5.83165006071507
+168,"Amazon",7,"Brazil","2025",5.95842322070302
+168,"Amazon",7,"Brazil","2030",6.08519638069098
+168,"Amazon",7,"Brazil","2035",6.10717934940627
+168,"Amazon",7,"Brazil","2040",6.12916231812156
+168,"Amazon",7,"Brazil","2045",5.98736940402087
+168,"Amazon",7,"Brazil","2050",5.84557648992018
+168,"Amazon",7,"Brazil","2055",5.66204818486847
+168,"Amazon",7,"Brazil","2060",5.47851987981676
+168,"Amazon",7,"Brazil","2065",5.32925803375727
+168,"Amazon",7,"Brazil","2070",5.17999618769778
+168,"Amazon",7,"Brazil","2075",4.97330182097029
+168,"Amazon",7,"Brazil","2080",4.7666074542428
+168,"Amazon",7,"Brazil","2085",4.62530466404878
+168,"Amazon",7,"Brazil","2090",4.48400187385475
+168,"Amazon",7,"Brazil","2095",4.25607796147185
+168,"Amazon",7,"Brazil","2100",4.02815404908894
+168,"Amazon",25,"South America_Northern","1980",0.0170116838340314
+168,"Amazon",25,"South America_Northern","1985",0.0159119244471
+168,"Amazon",25,"South America_Northern","1990",0.0148121650601686
+168,"Amazon",25,"South America_Northern","1995",0.0158165477374408
+168,"Amazon",25,"South America_Northern","2000",0.0168209304147129
+168,"Amazon",25,"South America_Northern","2005",0.0199667088740892
+168,"Amazon",25,"South America_Northern","2010",0.0231124873334655
+168,"Amazon",25,"South America_Northern","2015",0.0228228343750711
+168,"Amazon",25,"South America_Northern","2020",0.0225331814166766
+168,"Amazon",25,"South America_Northern","2025",0.0218015992840042
+168,"Amazon",25,"South America_Northern","2030",0.0210700171513318
+168,"Amazon",25,"South America_Northern","2035",0.0204981692488724
+168,"Amazon",25,"South America_Northern","2040",0.0199263213464129
+168,"Amazon",25,"South America_Northern","2045",0.0188497769824171
+168,"Amazon",25,"South America_Northern","2050",0.0177732326184214
+168,"Amazon",25,"South America_Northern","2055",0.0167907158399981
+168,"Amazon",25,"South America_Northern","2060",0.0158081990615748
+168,"Amazon",25,"South America_Northern","2065",0.0150951365869231
+168,"Amazon",25,"South America_Northern","2070",0.0143820741122714
+168,"Amazon",25,"South America_Northern","2075",0.0137171525192638
+168,"Amazon",25,"South America_Northern","2080",0.0130522309262562
+168,"Amazon",25,"South America_Northern","2085",0.0124918033686275
+168,"Amazon",25,"South America_Northern","2090",0.0119313758109988
+168,"Amazon",25,"South America_Northern","2095",0.0112466576360392
+168,"Amazon",25,"South America_Northern","2100",0.0105619394610796
+168,"Amazon",26,"South America_Southern","1980",7.34361741845613
+168,"Amazon",26,"South America_Southern","1985",8.11959055469293
+168,"Amazon",26,"South America_Southern","1990",8.89556369092973
+168,"Amazon",26,"South America_Southern","1995",10.1060054672405
+168,"Amazon",26,"South America_Southern","2000",11.3164472435513
+168,"Amazon",26,"South America_Southern","2005",11.935456528169
+168,"Amazon",26,"South America_Southern","2010",12.5544658127867
+168,"Amazon",26,"South America_Southern","2015",13.1853006688519
+168,"Amazon",26,"South America_Southern","2020",13.8161355249172
+168,"Amazon",26,"South America_Southern","2025",14.3817761939276
+168,"Amazon",26,"South America_Southern","2030",14.947416862938
+168,"Amazon",26,"South America_Southern","2035",15.219739220374
+168,"Amazon",26,"South America_Southern","2040",15.4920615778099
+168,"Amazon",26,"South America_Southern","2045",15.4707447352599
+168,"Amazon",26,"South America_Southern","2050",15.4494278927099
+168,"Amazon",26,"South America_Southern","2055",15.3197665813231
+168,"Amazon",26,"South America_Southern","2060",15.1901052699363
+168,"Amazon",26,"South America_Southern","2065",15.0404020691679
+168,"Amazon",26,"South America_Southern","2070",14.8906988683996
+168,"Amazon",26,"South America_Southern","2075",14.6574892375817
+168,"Amazon",26,"South America_Southern","2080",14.4242796067637
+168,"Amazon",26,"South America_Southern","2085",14.208621082711
+168,"Amazon",26,"South America_Southern","2090",13.9929625586583
+168,"Amazon",26,"South America_Southern","2095",13.6653006803997
+168,"Amazon",26,"South America_Southern","2100",13.3376388021411
+168,"Amazon",32,"Colombia","1980",0.606856672179354
+168,"Amazon",32,"Colombia","1985",0.671156123224577
+168,"Amazon",32,"Colombia","1990",0.735455574269799
+168,"Amazon",32,"Colombia","1995",0.8105303771598
+168,"Amazon",32,"Colombia","2000",0.885605180049802
+168,"Amazon",32,"Colombia","2005",0.921328463678693
+168,"Amazon",32,"Colombia","2010",0.957051747307583
+168,"Amazon",32,"Colombia","2015",1.02670000742093
+168,"Amazon",32,"Colombia","2020",1.09634826753427
+168,"Amazon",32,"Colombia","2025",1.14181287444604
+168,"Amazon",32,"Colombia","2030",1.1872774813578
+168,"Amazon",32,"Colombia","2035",1.20548454638328
+168,"Amazon",32,"Colombia","2040",1.22369161140876
+168,"Amazon",32,"Colombia","2045",1.2165861689658
+168,"Amazon",32,"Colombia","2050",1.20948072652284
+168,"Amazon",32,"Colombia","2055",1.20034065992771
+168,"Amazon",32,"Colombia","2060",1.19120059333258
+168,"Amazon",32,"Colombia","2065",1.18031407728852
+168,"Amazon",32,"Colombia","2070",1.16942756124446
+168,"Amazon",32,"Colombia","2075",1.15139790675586
+168,"Amazon",32,"Colombia","2080",1.13336825226726
+168,"Amazon",32,"Colombia","2085",1.11977942971064
+168,"Amazon",32,"Colombia","2090",1.10619060715401
+168,"Amazon",32,"Colombia","2095",1.08072299800086
+168,"Amazon",32,"Colombia","2100",1.05525538884771
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","1980",4.53316350280447
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","1985",4.92182728620117
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","1990",5.31049106959787
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","1995",5.74453170777606
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2000",6.17857234595426
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2005",6.3470213411781
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2010",6.51547033640194
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2015",6.82248190528509
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2020",7.12949347416825
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2025",7.35211199210204
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2030",7.57473051003583
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2035",7.68357092531584
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2040",7.79241134059584
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2045",7.79180630301137
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2050",7.7912012654269
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2055",7.74430159319715
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2060",7.6974019209674
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2065",7.61144071980827
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2070",7.52547951864914
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2075",7.39787725538689
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2080",7.27027499212464
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2085",7.11040013530331
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2090",6.95052527848197
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2095",6.78162512589409
+169,"South_Chile_Pacific_Coast",26,"South America_Southern","2100",6.61272497330622
+169,"South_Chile_Pacific_Coast",31,"Argentina","1980",0.466026902492522
+169,"South_Chile_Pacific_Coast",31,"Argentina","1985",0.4937802489259
+169,"South_Chile_Pacific_Coast",31,"Argentina","1990",0.521533595359277
+169,"South_Chile_Pacific_Coast",31,"Argentina","1995",0.547215256881677
+169,"South_Chile_Pacific_Coast",31,"Argentina","2000",0.572896918404077
+169,"South_Chile_Pacific_Coast",31,"Argentina","2005",0.601895299993304
+169,"South_Chile_Pacific_Coast",31,"Argentina","2010",0.630893681582532
+169,"South_Chile_Pacific_Coast",31,"Argentina","2015",0.648681414209538
+169,"South_Chile_Pacific_Coast",31,"Argentina","2020",0.666469146836543
+169,"South_Chile_Pacific_Coast",31,"Argentina","2025",0.679126112210412
+169,"South_Chile_Pacific_Coast",31,"Argentina","2030",0.691783077584281
+169,"South_Chile_Pacific_Coast",31,"Argentina","2035",0.699053558802416
+169,"South_Chile_Pacific_Coast",31,"Argentina","2040",0.706324040020551
+169,"South_Chile_Pacific_Coast",31,"Argentina","2045",0.705054416577845
+169,"South_Chile_Pacific_Coast",31,"Argentina","2050",0.703784793135138
+169,"South_Chile_Pacific_Coast",31,"Argentina","2055",0.699520817362783
+169,"South_Chile_Pacific_Coast",31,"Argentina","2060",0.695256841590427
+169,"South_Chile_Pacific_Coast",31,"Argentina","2065",0.689177200840798
+169,"South_Chile_Pacific_Coast",31,"Argentina","2070",0.68309756009117
+169,"South_Chile_Pacific_Coast",31,"Argentina","2075",0.672127527954681
+169,"South_Chile_Pacific_Coast",31,"Argentina","2080",0.661157495818193
+169,"South_Chile_Pacific_Coast",31,"Argentina","2085",0.654218342444841
+169,"South_Chile_Pacific_Coast",31,"Argentina","2090",0.647279189071488
+169,"South_Chile_Pacific_Coast",31,"Argentina","2095",0.646547982490514
+169,"South_Chile_Pacific_Coast",31,"Argentina","2100",0.64581677590954
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","1980",2.19046574193122
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","1985",2.43195510119284
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","1990",2.67344446045446
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","1995",2.91843580573087
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2000",3.16342715100729
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2005",3.65950366052936
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2010",4.15558017005144
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2015",4.24224368336202
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2020",4.32890719667261
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2025",4.43048059886196
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2030",4.53205400105131
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2035",4.60192018829921
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2040",4.67178637554711
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2045",4.68295355800308
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2050",4.69412074045904
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2055",4.65141555662126
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2060",4.60871037278347
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2065",4.52636506184618
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2070",4.44401975090889
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2075",4.32612630288083
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2080",4.20823285485278
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2085",4.08526853102674
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2090",3.96230420720071
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2095",3.865814254328
+172,"North_Brazil_South_Atlantic_Coast",7,"Brazil","2100",3.76932430145528
+174,"Tocantins",7,"Brazil","1980",2.92870026501067
+174,"Tocantins",7,"Brazil","1985",3.25294122092289
+174,"Tocantins",7,"Brazil","1990",3.57718217683511
+174,"Tocantins",7,"Brazil","1995",3.90708447689837
+174,"Tocantins",7,"Brazil","2000",4.23698677696162
+174,"Tocantins",7,"Brazil","2005",5.24790675897134
+174,"Tocantins",7,"Brazil","2010",6.25882674098105
+174,"Tocantins",7,"Brazil","2015",6.29642065056485
+174,"Tocantins",7,"Brazil","2020",6.33401456014864
+174,"Tocantins",7,"Brazil","2025",6.4202822465088
+174,"Tocantins",7,"Brazil","2030",6.50654993286896
+174,"Tocantins",7,"Brazil","2035",6.58945663098212
+174,"Tocantins",7,"Brazil","2040",6.67236332909528
+174,"Tocantins",7,"Brazil","2045",6.62434997254683
+174,"Tocantins",7,"Brazil","2050",6.57633661599839
+174,"Tocantins",7,"Brazil","2055",6.47117079072662
+174,"Tocantins",7,"Brazil","2060",6.36600496545486
+174,"Tocantins",7,"Brazil","2065",6.22340913956664
+174,"Tocantins",7,"Brazil","2070",6.08081331367843
+174,"Tocantins",7,"Brazil","2075",5.89115652911768
+174,"Tocantins",7,"Brazil","2080",5.70149974455693
+174,"Tocantins",7,"Brazil","2085",5.52231001243974
+174,"Tocantins",7,"Brazil","2090",5.34312028032254
+174,"Tocantins",7,"Brazil","2095",5.14744770916231
+174,"Tocantins",7,"Brazil","2100",4.95177513800208
+180,"Peru_Pacific_Coast",26,"South America_Southern","1980",13.8144415112814
+180,"Peru_Pacific_Coast",26,"South America_Southern","1985",15.5162602257307
+180,"Peru_Pacific_Coast",26,"South America_Southern","1990",17.21807894018
+180,"Peru_Pacific_Coast",26,"South America_Southern","1995",19.0337499722709
+180,"Peru_Pacific_Coast",26,"South America_Southern","2000",20.8494210043619
+180,"Peru_Pacific_Coast",26,"South America_Southern","2005",22.0170713917255
+180,"Peru_Pacific_Coast",26,"South America_Southern","2010",23.184721779089
+180,"Peru_Pacific_Coast",26,"South America_Southern","2015",24.2484984813682
+180,"Peru_Pacific_Coast",26,"South America_Southern","2020",25.3122751836474
+180,"Peru_Pacific_Coast",26,"South America_Southern","2025",25.9812271468886
+180,"Peru_Pacific_Coast",26,"South America_Southern","2030",26.6501791101298
+180,"Peru_Pacific_Coast",26,"South America_Southern","2035",27.0728056831086
+180,"Peru_Pacific_Coast",26,"South America_Southern","2040",27.4954322560874
+180,"Peru_Pacific_Coast",26,"South America_Southern","2045",27.6685146295285
+180,"Peru_Pacific_Coast",26,"South America_Southern","2050",27.8415970029697
+180,"Peru_Pacific_Coast",26,"South America_Southern","2055",27.6601740260031
+180,"Peru_Pacific_Coast",26,"South America_Southern","2060",27.4787510490365
+180,"Peru_Pacific_Coast",26,"South America_Southern","2065",27.1251654946107
+180,"Peru_Pacific_Coast",26,"South America_Southern","2070",26.7715799401849
+180,"Peru_Pacific_Coast",26,"South America_Southern","2075",26.3807776597576
+180,"Peru_Pacific_Coast",26,"South America_Southern","2080",25.9899753793302
+180,"Peru_Pacific_Coast",26,"South America_Southern","2085",25.5217891193611
+180,"Peru_Pacific_Coast",26,"South America_Southern","2090",25.053602859392
+180,"Peru_Pacific_Coast",26,"South America_Southern","2095",24.6838103364923
+180,"Peru_Pacific_Coast",26,"South America_Southern","2100",24.3140178135926
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","1980",12.3995550465067
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","1985",13.7979073620695
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","1990",15.1962596776323
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","1995",16.4636015159083
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2000",17.7309433541844
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2005",19.3861393288179
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2010",21.0413353034513
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2015",21.9435871851515
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2020",22.8458390668517
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2025",23.5329436663305
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2030",24.2200482658094
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2035",24.7326050373405
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2040",25.2451618088717
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2045",25.5844071014895
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2050",25.9236523941074
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2055",25.8690133837343
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2060",25.8143743733613
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2065",25.4216081770463
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2070",25.0288419807313
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2075",24.4700826733147
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2080",23.9113233658981
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2085",23.2685390780403
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2090",22.6257547901826
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2095",22.1226292053005
+186,"East_Brazil_South_Atlantic_Coast",7,"Brazil","2100",21.6195036204185
+187,"Parnaiba",7,"Brazil","1980",1.11522438219818
+187,"Parnaiba",7,"Brazil","1985",1.22926232694885
+187,"Parnaiba",7,"Brazil","1990",1.34330027169951
+187,"Parnaiba",7,"Brazil","1995",1.43935854316317
+187,"Parnaiba",7,"Brazil","2000",1.53541681462683
+187,"Parnaiba",7,"Brazil","2005",1.66899740325485
+187,"Parnaiba",7,"Brazil","2010",1.80257799188288
+187,"Parnaiba",7,"Brazil","2015",1.84710882161671
+187,"Parnaiba",7,"Brazil","2020",1.89163965135053
+187,"Parnaiba",7,"Brazil","2025",1.93782720158261
+187,"Parnaiba",7,"Brazil","2030",1.98401475181469
+187,"Parnaiba",7,"Brazil","2035",1.99492091077868
+187,"Parnaiba",7,"Brazil","2040",2.00582706974267
+187,"Parnaiba",7,"Brazil","2045",1.97878528338781
+187,"Parnaiba",7,"Brazil","2050",1.95174349703294
+187,"Parnaiba",7,"Brazil","2055",1.90486544466757
+187,"Parnaiba",7,"Brazil","2060",1.85798739230219
+187,"Parnaiba",7,"Brazil","2065",1.81238305841543
+187,"Parnaiba",7,"Brazil","2070",1.76677872452868
+187,"Parnaiba",7,"Brazil","2075",1.70272101341448
+187,"Parnaiba",7,"Brazil","2080",1.63866330230029
+187,"Parnaiba",7,"Brazil","2085",1.58508055544326
+187,"Parnaiba",7,"Brazil","2090",1.53149780858623
+187,"Parnaiba",7,"Brazil","2095",1.46789867091394
+187,"Parnaiba",7,"Brazil","2100",1.40429953324165
+192,"Sao_Francisco",7,"Brazil","1980",5.60853191474204
+192,"Sao_Francisco",7,"Brazil","1985",6.23222766174097
+192,"Sao_Francisco",7,"Brazil","1990",6.8559234087399
+192,"Sao_Francisco",7,"Brazil","1995",7.42152144585438
+192,"Sao_Francisco",7,"Brazil","2000",7.98711948296886
+192,"Sao_Francisco",7,"Brazil","2005",8.45262227506797
+192,"Sao_Francisco",7,"Brazil","2010",8.91812506716709
+192,"Sao_Francisco",7,"Brazil","2015",9.25809995088821
+192,"Sao_Francisco",7,"Brazil","2020",9.59807483460934
+192,"Sao_Francisco",7,"Brazil","2025",9.82384648601805
+192,"Sao_Francisco",7,"Brazil","2030",10.0496181374268
+192,"Sao_Francisco",7,"Brazil","2035",10.0833449020487
+192,"Sao_Francisco",7,"Brazil","2040",10.1170716666705
+192,"Sao_Francisco",7,"Brazil","2045",9.94992741795856
+192,"Sao_Francisco",7,"Brazil","2050",9.78278316924657
+192,"Sao_Francisco",7,"Brazil","2055",9.55742197757335
+192,"Sao_Francisco",7,"Brazil","2060",9.33206078590012
+192,"Sao_Francisco",7,"Brazil","2065",9.11095903455308
+192,"Sao_Francisco",7,"Brazil","2070",8.88985728320604
+192,"Sao_Francisco",7,"Brazil","2075",8.5944729039553
+192,"Sao_Francisco",7,"Brazil","2080",8.29908852470456
+192,"Sao_Francisco",7,"Brazil","2085",8.02090087058555
+192,"Sao_Francisco",7,"Brazil","2090",7.74271321646655
+192,"Sao_Francisco",7,"Brazil","2095",7.35869473555712
+192,"Sao_Francisco",7,"Brazil","2100",6.9746762546477
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","1980",51.1275361170673
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","1985",57.0769278464134
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","1990",63.0263195757596
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","1995",68.2265763359392
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2000",73.4268330961189
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2005",75.4175765064247
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2010",77.4083199167305
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2015",81.1229705076819
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2020",84.8376210986333
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2025",87.4380867478655
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2030",90.0385523970976
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2035",91.831156801228
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2040",93.6237612053584
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2045",94.8968711323976
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2050",96.1699810594368
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2055",96.2374279690373
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2060",96.3048748786378
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2065",95.1906909467964
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2070",94.0765070149549
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2075",92.4653230419708
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2080",90.8541390689867
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2085",88.6856113038933
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2090",86.5170835388
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2095",84.8365749574384
+195,"Uruguay_Brazil_South_Atlantic_Coast",7,"Brazil","2100",83.1560663760768
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","1980",0.379136909269867
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","1985",0.389079519191986
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","1990",0.399022129114105
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","1995",0.410019988444119
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2000",0.421017847774133
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2005",0.410366616178607
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2010",0.399715384583081
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2015",0.417231194462102
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2020",0.434747004341123
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2025",0.440049379389696
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2030",0.44535175443827
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2035",0.443613778826509
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2040",0.441875803214748
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2045",0.433383606259058
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2050",0.424891409303368
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2055",0.417247931983818
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2060",0.409604454664268
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2065",0.399981433059631
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2070",0.390358411454994
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2075",0.381081232893573
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2080",0.371804054332153
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2085",0.362340599548636
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2090",0.352877144765118
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2095",0.347736396328795
+195,"Uruguay_Brazil_South_Atlantic_Coast",33,"Uruguay","2100",0.342595647892472
+200,"La_Puna_Region",26,"South America_Southern","1980",2.49316296517291
+200,"La_Puna_Region",26,"South America_Southern","1985",2.77497189390286
+200,"La_Puna_Region",26,"South America_Southern","1990",3.05678082263282
+200,"La_Puna_Region",26,"South America_Southern","1995",3.47534270943467
+200,"La_Puna_Region",26,"South America_Southern","2000",3.89390459623652
+200,"La_Puna_Region",26,"South America_Southern","2005",4.11869669957425
+200,"La_Puna_Region",26,"South America_Southern","2010",4.34348880291197
+200,"La_Puna_Region",26,"South America_Southern","2015",4.64311449569986
+200,"La_Puna_Region",26,"South America_Southern","2020",4.94274018848774
+200,"La_Puna_Region",26,"South America_Southern","2025",5.21055903848482
+200,"La_Puna_Region",26,"South America_Southern","2030",5.4783778884819
+200,"La_Puna_Region",26,"South America_Southern","2035",5.7160356631668
+200,"La_Puna_Region",26,"South America_Southern","2040",5.9536934378517
+200,"La_Puna_Region",26,"South America_Southern","2045",6.15040000134756
+200,"La_Puna_Region",26,"South America_Southern","2050",6.34710656484343
+200,"La_Puna_Region",26,"South America_Southern","2055",6.47527612245396
+200,"La_Puna_Region",26,"South America_Southern","2060",6.60344568006448
+200,"La_Puna_Region",26,"South America_Southern","2065",6.67747901196463
+200,"La_Puna_Region",26,"South America_Southern","2070",6.75151234386477
+200,"La_Puna_Region",26,"South America_Southern","2075",6.80106194461664
+200,"La_Puna_Region",26,"South America_Southern","2080",6.85061154536852
+200,"La_Puna_Region",26,"South America_Southern","2085",6.83410918496105
+200,"La_Puna_Region",26,"South America_Southern","2090",6.81760682455358
+200,"La_Puna_Region",26,"South America_Southern","2095",6.83409951783822
+200,"La_Puna_Region",26,"South America_Southern","2100",6.85059221112285
+200,"La_Puna_Region",31,"Argentina","1980",0.0302558483316511
+200,"La_Puna_Region",31,"Argentina","1985",0.0325872055976248
+200,"La_Puna_Region",31,"Argentina","1990",0.0349185628635986
+200,"La_Puna_Region",31,"Argentina","1995",0.0370229123311604
+200,"La_Puna_Region",31,"Argentina","2000",0.0391272617987223
+200,"La_Puna_Region",31,"Argentina","2005",0.0468817994121871
+200,"La_Puna_Region",31,"Argentina","2010",0.0546363370256519
+200,"La_Puna_Region",31,"Argentina","2015",0.0529261812251098
+200,"La_Puna_Region",31,"Argentina","2020",0.0512160254245678
+200,"La_Puna_Region",31,"Argentina","2025",0.05347816431635
+200,"La_Puna_Region",31,"Argentina","2030",0.0557403032081322
+200,"La_Puna_Region",31,"Argentina","2035",0.0563949983640545
+200,"La_Puna_Region",31,"Argentina","2040",0.0570496935199767
+200,"La_Puna_Region",31,"Argentina","2045",0.0558539318657841
+200,"La_Puna_Region",31,"Argentina","2050",0.0546581702115914
+200,"La_Puna_Region",31,"Argentina","2055",0.053424863258138
+200,"La_Puna_Region",31,"Argentina","2060",0.0521915563046846
+200,"La_Puna_Region",31,"Argentina","2065",0.051332273229877
+200,"La_Puna_Region",31,"Argentina","2070",0.0504729901550695
+200,"La_Puna_Region",31,"Argentina","2075",0.0490966815827716
+200,"La_Puna_Region",31,"Argentina","2080",0.0477203730104737
+200,"La_Puna_Region",31,"Argentina","2085",0.0466570671805588
+200,"La_Puna_Region",31,"Argentina","2090",0.0455937613506439
+200,"La_Puna_Region",31,"Argentina","2095",0.0434879903408223
+200,"La_Puna_Region",31,"Argentina","2100",0.0413822193310007
+203,"Mar_Chiquita",31,"Argentina","1980",1.89863914025413
+203,"Mar_Chiquita",31,"Argentina","1985",2.04459335797534
+203,"Mar_Chiquita",31,"Argentina","1990",2.19054757569655
+203,"Mar_Chiquita",31,"Argentina","1995",2.32267121205195
+203,"Mar_Chiquita",31,"Argentina","2000",2.45479484840734
+203,"Mar_Chiquita",31,"Argentina","2005",2.53659738576886
+203,"Mar_Chiquita",31,"Argentina","2010",2.61839992313038
+203,"Mar_Chiquita",31,"Argentina","2015",2.64255628894885
+203,"Mar_Chiquita",31,"Argentina","2020",2.66671265476733
+203,"Mar_Chiquita",31,"Argentina","2025",2.69667282954321
+203,"Mar_Chiquita",31,"Argentina","2030",2.72663300431909
+203,"Mar_Chiquita",31,"Argentina","2035",2.72652747519535
+203,"Mar_Chiquita",31,"Argentina","2040",2.72642194607162
+203,"Mar_Chiquita",31,"Argentina","2045",2.6942962241021
+203,"Mar_Chiquita",31,"Argentina","2050",2.66217050213259
+203,"Mar_Chiquita",31,"Argentina","2055",2.59973091600766
+203,"Mar_Chiquita",31,"Argentina","2060",2.53729132988273
+203,"Mar_Chiquita",31,"Argentina","2065",2.50024232768046
+203,"Mar_Chiquita",31,"Argentina","2070",2.4631933254782
+203,"Mar_Chiquita",31,"Argentina","2075",2.39410265851712
+203,"Mar_Chiquita",31,"Argentina","2080",2.32501199155605
+203,"Mar_Chiquita",31,"Argentina","2085",2.28107871372805
+203,"Mar_Chiquita",31,"Argentina","2090",2.23714543590004
+203,"Mar_Chiquita",31,"Argentina","2095",2.13078229521893
+203,"Mar_Chiquita",31,"Argentina","2100",2.02441915453782
+205,"Salinas_Grandes",26,"South America_Southern","1980",0
+205,"Salinas_Grandes",26,"South America_Southern","1985",0
+205,"Salinas_Grandes",26,"South America_Southern","1990",0
+205,"Salinas_Grandes",26,"South America_Southern","1995",0
+205,"Salinas_Grandes",26,"South America_Southern","2000",0
+205,"Salinas_Grandes",26,"South America_Southern","2005",0.000160881793769614
+205,"Salinas_Grandes",26,"South America_Southern","2010",0.000321763587539228
+205,"Salinas_Grandes",26,"South America_Southern","2015",0.000220924913761602
+205,"Salinas_Grandes",26,"South America_Southern","2020",0.000120086239983977
+205,"Salinas_Grandes",26,"South America_Southern","2025",0.000127803401638982
+205,"Salinas_Grandes",26,"South America_Southern","2030",0.000135520563293987
+205,"Salinas_Grandes",26,"South America_Southern","2035",0.000135735808268723
+205,"Salinas_Grandes",26,"South America_Southern","2040",0.000135951053243459
+205,"Salinas_Grandes",26,"South America_Southern","2045",0.00013312709346265
+205,"Salinas_Grandes",26,"South America_Southern","2050",0.000130303133681842
+205,"Salinas_Grandes",26,"South America_Southern","2055",0.00012748227101644
+205,"Salinas_Grandes",26,"South America_Southern","2060",0.000124661408351037
+205,"Salinas_Grandes",26,"South America_Southern","2065",0.000120285790473146
+205,"Salinas_Grandes",26,"South America_Southern","2070",0.000115910172595254
+205,"Salinas_Grandes",26,"South America_Southern","2075",0.000112332833023499
+205,"Salinas_Grandes",26,"South America_Southern","2080",0.000108755493451745
+205,"Salinas_Grandes",26,"South America_Southern","2085",0.00010542084177875
+205,"Salinas_Grandes",26,"South America_Southern","2090",0.000102086190105756
+205,"Salinas_Grandes",26,"South America_Southern","2095",9.82988254179942e-05
+205,"Salinas_Grandes",26,"South America_Southern","2100",9.45114607302321e-05
+205,"Salinas_Grandes",31,"Argentina","1980",0.49960292940112
+205,"Salinas_Grandes",31,"Argentina","1985",0.53919821914956
+205,"Salinas_Grandes",31,"Argentina","1990",0.578793508898
+205,"Salinas_Grandes",31,"Argentina","1995",0.613577464121343
+205,"Salinas_Grandes",31,"Argentina","2000",0.648361419344686
+205,"Salinas_Grandes",31,"Argentina","2005",0.671790314092455
+205,"Salinas_Grandes",31,"Argentina","2010",0.695219208840225
+205,"Salinas_Grandes",31,"Argentina","2015",0.729829561363818
+205,"Salinas_Grandes",31,"Argentina","2020",0.764439913887412
+205,"Salinas_Grandes",31,"Argentina","2025",0.792422343172423
+205,"Salinas_Grandes",31,"Argentina","2030",0.820404772457434
+205,"Salinas_Grandes",31,"Argentina","2035",0.82592931444288
+205,"Salinas_Grandes",31,"Argentina","2040",0.831453856428326
+205,"Salinas_Grandes",31,"Argentina","2045",0.811613805500696
+205,"Salinas_Grandes",31,"Argentina","2050",0.791773754573065
+205,"Salinas_Grandes",31,"Argentina","2055",0.774385678603195
+205,"Salinas_Grandes",31,"Argentina","2060",0.756997602633325
+205,"Salinas_Grandes",31,"Argentina","2065",0.74500788324045
+205,"Salinas_Grandes",31,"Argentina","2070",0.733018163847576
+205,"Salinas_Grandes",31,"Argentina","2075",0.713902519204675
+205,"Salinas_Grandes",31,"Argentina","2080",0.694786874561773
+205,"Salinas_Grandes",31,"Argentina","2085",0.678407410253519
+205,"Salinas_Grandes",31,"Argentina","2090",0.662027945945265
+205,"Salinas_Grandes",31,"Argentina","2095",0.630994436791846
+205,"Salinas_Grandes",31,"Argentina","2100",0.599960927638428
+206,"La_Plata",7,"Brazil","1980",41.321603801851
+206,"La_Plata",7,"Brazil","1985",46.0874187539047
+206,"La_Plata",7,"Brazil","1990",50.8532337059583
+206,"La_Plata",7,"Brazil","1995",55.1060981851331
+206,"La_Plata",7,"Brazil","2000",59.3589626643078
+206,"La_Plata",7,"Brazil","2005",61.3609101463467
+206,"La_Plata",7,"Brazil","2010",63.3628576283856
+206,"La_Plata",7,"Brazil","2015",66.0699388842507
+206,"La_Plata",7,"Brazil","2020",68.7770201401157
+206,"La_Plata",7,"Brazil","2025",70.6172188432902
+206,"La_Plata",7,"Brazil","2030",72.4574175464647
+206,"La_Plata",7,"Brazil","2035",73.2508451338728
+206,"La_Plata",7,"Brazil","2040",74.0442727212809
+206,"La_Plata",7,"Brazil","2045",73.6637767854706
+206,"La_Plata",7,"Brazil","2050",73.2832808496602
+206,"La_Plata",7,"Brazil","2055",72.2905275693617
+206,"La_Plata",7,"Brazil","2060",71.2977742890631
+206,"La_Plata",7,"Brazil","2065",69.988829790525
+206,"La_Plata",7,"Brazil","2070",68.6798852919869
+206,"La_Plata",7,"Brazil","2075",66.8736497410754
+206,"La_Plata",7,"Brazil","2080",65.067414190164
+206,"La_Plata",7,"Brazil","2085",63.1716531117559
+206,"La_Plata",7,"Brazil","2090",61.2758920333479
+206,"La_Plata",7,"Brazil","2095",58.9118173479039
+206,"La_Plata",7,"Brazil","2100",56.54774266246
+206,"La_Plata",26,"South America_Southern","1980",4.17409458845228
+206,"La_Plata",26,"South America_Southern","1985",4.79568409561377
+206,"La_Plata",26,"South America_Southern","1990",5.41727360277526
+206,"La_Plata",26,"South America_Southern","1995",6.13691349242759
+206,"La_Plata",26,"South America_Southern","2000",6.85655338207992
+206,"La_Plata",26,"South America_Southern","2005",7.46252161480246
+206,"La_Plata",26,"South America_Southern","2010",8.068489847525
+206,"La_Plata",26,"South America_Southern","2015",8.70096931901778
+206,"La_Plata",26,"South America_Southern","2020",9.33344879051057
+206,"La_Plata",26,"South America_Southern","2025",9.87967708528284
+206,"La_Plata",26,"South America_Southern","2030",10.4259053800551
+206,"La_Plata",26,"South America_Southern","2035",10.8509463800988
+206,"La_Plata",26,"South America_Southern","2040",11.2759873801426
+206,"La_Plata",26,"South America_Southern","2045",11.5617179975017
+206,"La_Plata",26,"South America_Southern","2050",11.8474486148609
+206,"La_Plata",26,"South America_Southern","2055",12.0181799558297
+206,"La_Plata",26,"South America_Southern","2060",12.1889112967985
+206,"La_Plata",26,"South America_Southern","2065",12.2645367961304
+206,"La_Plata",26,"South America_Southern","2070",12.3401622954622
+206,"La_Plata",26,"South America_Southern","2075",12.3203160118663
+206,"La_Plata",26,"South America_Southern","2080",12.3004697282704
+206,"La_Plata",26,"South America_Southern","2085",12.2161875224075
+206,"La_Plata",26,"South America_Southern","2090",12.1319053165445
+206,"La_Plata",26,"South America_Southern","2095",11.9704544475709
+206,"La_Plata",26,"South America_Southern","2100",11.8090035785972
+206,"La_Plata",31,"Argentina","1980",14.349014393474
+206,"La_Plata",31,"Argentina","1985",15.6260529188588
+206,"La_Plata",31,"Argentina","1990",16.9030914442437
+206,"La_Plata",31,"Argentina","1995",18.1001746684434
+206,"La_Plata",31,"Argentina","2000",19.2972578926432
+206,"La_Plata",31,"Argentina","2005",20.4904118026464
+206,"La_Plata",31,"Argentina","2010",21.6835657126495
+206,"La_Plata",31,"Argentina","2015",22.510524374509
+206,"La_Plata",31,"Argentina","2020",23.3374830363684
+206,"La_Plata",31,"Argentina","2025",24.0787677315656
+206,"La_Plata",31,"Argentina","2030",24.8200524267627
+206,"La_Plata",31,"Argentina","2035",25.4844126212562
+206,"La_Plata",31,"Argentina","2040",26.1487728157497
+206,"La_Plata",31,"Argentina","2045",26.7338182945779
+206,"La_Plata",31,"Argentina","2050",27.3188637734062
+206,"La_Plata",31,"Argentina","2055",27.595257588833
+206,"La_Plata",31,"Argentina","2060",27.8716514042599
+206,"La_Plata",31,"Argentina","2065",27.8703262541384
+206,"La_Plata",31,"Argentina","2070",27.8690011040169
+206,"La_Plata",31,"Argentina","2075",27.7229858432213
+206,"La_Plata",31,"Argentina","2080",27.5769705824257
+206,"La_Plata",31,"Argentina","2085",27.3059452360129
+206,"La_Plata",31,"Argentina","2090",27.0349198896
+206,"La_Plata",31,"Argentina","2095",26.7451719741247
+206,"La_Plata",31,"Argentina","2100",26.4554240586494
+206,"La_Plata",33,"Uruguay","1980",2.53399473973013
+206,"La_Plata",33,"Uruguay","1985",2.62096710130801
+206,"La_Plata",33,"Uruguay","1990",2.7079394628859
+206,"La_Plata",33,"Uruguay","1995",2.80239877955588
+206,"La_Plata",33,"Uruguay","2000",2.89685809622587
+206,"La_Plata",33,"Uruguay","2005",2.92197731660553
+206,"La_Plata",33,"Uruguay","2010",2.94709653698518
+206,"La_Plata",33,"Uruguay","2015",2.96219102792399
+206,"La_Plata",33,"Uruguay","2020",2.9772855188628
+206,"La_Plata",33,"Uruguay","2025",2.98329288453522
+206,"La_Plata",33,"Uruguay","2030",2.98930025020765
+206,"La_Plata",33,"Uruguay","2035",2.97558491987564
+206,"La_Plata",33,"Uruguay","2040",2.96186958954363
+206,"La_Plata",33,"Uruguay","2045",2.92782466621276
+206,"La_Plata",33,"Uruguay","2050",2.89377974288189
+206,"La_Plata",33,"Uruguay","2055",2.83713069415783
+206,"La_Plata",33,"Uruguay","2060",2.78048164543378
+206,"La_Plata",33,"Uruguay","2065",2.71939417941261
+206,"La_Plata",33,"Uruguay","2070",2.65830671339145
+206,"La_Plata",33,"Uruguay","2075",2.59568017370487
+206,"La_Plata",33,"Uruguay","2080",2.53305363401829
+206,"La_Plata",33,"Uruguay","2085",2.47128988118614
+206,"La_Plata",33,"Uruguay","2090",2.40952612835399
+206,"La_Plata",33,"Uruguay","2095",2.34673902555101
+206,"La_Plata",33,"Uruguay","2100",2.28395192274804
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","1980",6.45144650829592
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","1985",7.04446288476076
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","1990",7.6374792612256
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","1995",8.32669068029133
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2000",9.01590209935705
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2005",9.58309068848228
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2010",10.1502792776075
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2015",10.5806544923579
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2020",11.0110297071083
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2025",11.3311337262402
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2030",11.6512377453721
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2035",11.8638872988147
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2040",12.0765368522572
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2045",12.1818410628806
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2050",12.2871452735039
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2055",12.2601722475391
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2060",12.2331992215742
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2065",12.0999567216906
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2070",11.966714221807
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2075",11.7625394733878
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2080",11.5583647249686
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2085",11.2905940854314
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2090",11.0228234458942
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2095",10.7168374706521
+207,"North_Chile_Pacific_Coast",26,"South America_Southern","2100",10.4108514954101
+207,"North_Chile_Pacific_Coast",31,"Argentina","1980",0.063339692309199
+207,"North_Chile_Pacific_Coast",31,"Argentina","1985",0.0689411042987109
+207,"North_Chile_Pacific_Coast",31,"Argentina","1990",0.0745425162882229
+207,"North_Chile_Pacific_Coast",31,"Argentina","1995",0.0792738758594874
+207,"North_Chile_Pacific_Coast",31,"Argentina","2000",0.0840052354307519
+207,"North_Chile_Pacific_Coast",31,"Argentina","2005",0.100317297313728
+207,"North_Chile_Pacific_Coast",31,"Argentina","2010",0.116629359196703
+207,"North_Chile_Pacific_Coast",31,"Argentina","2015",0.115777374855999
+207,"North_Chile_Pacific_Coast",31,"Argentina","2020",0.114925390515295
+207,"North_Chile_Pacific_Coast",31,"Argentina","2025",0.118552525469306
+207,"North_Chile_Pacific_Coast",31,"Argentina","2030",0.122179660423316
+207,"North_Chile_Pacific_Coast",31,"Argentina","2035",0.124293546683979
+207,"North_Chile_Pacific_Coast",31,"Argentina","2040",0.126407432944642
+207,"North_Chile_Pacific_Coast",31,"Argentina","2045",0.128907123231469
+207,"North_Chile_Pacific_Coast",31,"Argentina","2050",0.131406813518296
+207,"North_Chile_Pacific_Coast",31,"Argentina","2055",0.131913973779131
+207,"North_Chile_Pacific_Coast",31,"Argentina","2060",0.132421134039965
+207,"North_Chile_Pacific_Coast",31,"Argentina","2065",0.132941033230269
+207,"North_Chile_Pacific_Coast",31,"Argentina","2070",0.133460932420572
+207,"North_Chile_Pacific_Coast",31,"Argentina","2075",0.133806835777116
+207,"North_Chile_Pacific_Coast",31,"Argentina","2080",0.13415273913366
+207,"North_Chile_Pacific_Coast",31,"Argentina","2085",0.1330224665322
+207,"North_Chile_Pacific_Coast",31,"Argentina","2090",0.131892193930739
+207,"North_Chile_Pacific_Coast",31,"Argentina","2095",0.12809966282345
+207,"North_Chile_Pacific_Coast",31,"Argentina","2100",0.12430713171616
+209,"Pampas_Region",31,"Argentina","1980",0.631990053119285
+209,"Pampas_Region",31,"Argentina","1985",0.677163403473123
+209,"Pampas_Region",31,"Argentina","1990",0.72233675382696
+209,"Pampas_Region",31,"Argentina","1995",0.760665036380721
+209,"Pampas_Region",31,"Argentina","2000",0.798993318934481
+209,"Pampas_Region",31,"Argentina","2005",0.812494806659543
+209,"Pampas_Region",31,"Argentina","2010",0.825996294384605
+209,"Pampas_Region",31,"Argentina","2015",0.879168155668618
+209,"Pampas_Region",31,"Argentina","2020",0.932340016952631
+209,"Pampas_Region",31,"Argentina","2025",0.972048163988851
+209,"Pampas_Region",31,"Argentina","2030",1.01175631102507
+209,"Pampas_Region",31,"Argentina","2035",1.02621259174633
+209,"Pampas_Region",31,"Argentina","2040",1.04066887246759
+209,"Pampas_Region",31,"Argentina","2045",1.02374268843328
+209,"Pampas_Region",31,"Argentina","2050",1.00681650439898
+209,"Pampas_Region",31,"Argentina","2055",0.998747010152377
+209,"Pampas_Region",31,"Argentina","2060",0.990677515905771
+209,"Pampas_Region",31,"Argentina","2065",0.981428628153463
+209,"Pampas_Region",31,"Argentina","2070",0.972179740401155
+209,"Pampas_Region",31,"Argentina","2075",0.956669303139099
+209,"Pampas_Region",31,"Argentina","2080",0.941158865877043
+209,"Pampas_Region",31,"Argentina","2085",0.925193733114443
+209,"Pampas_Region",31,"Argentina","2090",0.909228600351843
+209,"Pampas_Region",31,"Argentina","2095",0.889473057267742
+209,"Pampas_Region",31,"Argentina","2100",0.869717514183641
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","1980",4.37270144033743
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","1985",4.74870562247034
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","1990",5.12470980460325
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","1995",5.42385297312261
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2000",5.72299614164197
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2005",5.86903231042334
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2010",6.01506847920471
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2015",6.30414324372972
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2020",6.59321800825473
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2025",6.80149141148553
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2030",7.00976481471632
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2035",7.17997181923514
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2040",7.35017882375396
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2045",7.48184898377989
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2050",7.61351914380582
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2055",7.70250091133283
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2060",7.79148267885984
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2065",7.82363245031709
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2070",7.85578222177433
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2075",7.85461434784557
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2080",7.8534464739168
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2085",7.7781033943213
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2090",7.7027603147258
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2095",7.66588420504156
+210,"North_Argentina_South_Atlantic_Coast",31,"Argentina","2100",7.62900809535733
+212,"South_America_Colorado",26,"South America_Southern","1980",0.00373832960868157
+212,"South_America_Colorado",26,"South America_Southern","1985",0.0040650111899115
+212,"South_America_Colorado",26,"South America_Southern","1990",0.00439169277114143
+212,"South_America_Colorado",26,"South America_Southern","1995",0.00481994643887794
+212,"South_America_Colorado",26,"South America_Southern","2000",0.00524820010661444
+212,"South_America_Colorado",26,"South America_Southern","2005",0.0343009489016058
+212,"South_America_Colorado",26,"South America_Southern","2010",0.0633536976965971
+212,"South_America_Colorado",26,"South America_Southern","2015",0.0519937675916686
+212,"South_America_Colorado",26,"South America_Southern","2020",0.0406338374867401
+212,"South_America_Colorado",26,"South America_Southern","2025",0.0428283252049923
+212,"South_America_Colorado",26,"South America_Southern","2030",0.0450228129232445
+212,"South_America_Colorado",26,"South America_Southern","2035",0.0455278928920619
+212,"South_America_Colorado",26,"South America_Southern","2040",0.0460329728608793
+212,"South_America_Colorado",26,"South America_Southern","2045",0.0459303725810696
+212,"South_America_Colorado",26,"South America_Southern","2050",0.04582777230126
+212,"South_America_Colorado",26,"South America_Southern","2055",0.0450217629218632
+212,"South_America_Colorado",26,"South America_Southern","2060",0.0442157535424665
+212,"South_America_Colorado",26,"South America_Southern","2065",0.0432453223971792
+212,"South_America_Colorado",26,"South America_Southern","2070",0.0422748912518919
+212,"South_America_Colorado",26,"South America_Southern","2075",0.0413235035307337
+212,"South_America_Colorado",26,"South America_Southern","2080",0.0403721158095756
+212,"South_America_Colorado",26,"South America_Southern","2085",0.0391410274362858
+212,"South_America_Colorado",26,"South America_Southern","2090",0.037909939062996
+212,"South_America_Colorado",26,"South America_Southern","2095",0.0354471229144186
+212,"South_America_Colorado",26,"South America_Southern","2100",0.0329843067658411
+212,"South_America_Colorado",31,"Argentina","1980",2.28569654877471
+212,"South_America_Colorado",31,"Argentina","1985",2.46586480753782
+212,"South_America_Colorado",31,"Argentina","1990",2.64603306630094
+212,"South_America_Colorado",31,"Argentina","1995",2.81118852974586
+212,"South_America_Colorado",31,"Argentina","2000",2.97634399319078
+212,"South_America_Colorado",31,"Argentina","2005",3.18035182884816
+212,"South_America_Colorado",31,"Argentina","2010",3.38435966450554
+212,"South_America_Colorado",31,"Argentina","2015",3.47611338455239
+212,"South_America_Colorado",31,"Argentina","2020",3.56786710459925
+212,"South_America_Colorado",31,"Argentina","2025",3.65685463698125
+212,"South_America_Colorado",31,"Argentina","2030",3.74584216936325
+212,"South_America_Colorado",31,"Argentina","2035",3.78728866780671
+212,"South_America_Colorado",31,"Argentina","2040",3.82873516625017
+212,"South_America_Colorado",31,"Argentina","2045",3.81077084531404
+212,"South_America_Colorado",31,"Argentina","2050",3.7928065243779
+212,"South_America_Colorado",31,"Argentina","2055",3.75087177839831
+212,"South_America_Colorado",31,"Argentina","2060",3.70893703241872
+212,"South_America_Colorado",31,"Argentina","2065",3.67870863425506
+212,"South_America_Colorado",31,"Argentina","2070",3.6484802360914
+212,"South_America_Colorado",31,"Argentina","2075",3.58936164539727
+212,"South_America_Colorado",31,"Argentina","2080",3.53024305470313
+212,"South_America_Colorado",31,"Argentina","2085",3.47744792208622
+212,"South_America_Colorado",31,"Argentina","2090",3.42465278946931
+212,"South_America_Colorado",31,"Argentina","2095",3.29782260876953
+212,"South_America_Colorado",31,"Argentina","2100",3.17099242806975
+213,"Negro",26,"South America_Southern","1980",0.0266402667007307
+213,"Negro",26,"South America_Southern","1985",0.0285035538110754
+213,"Negro",26,"South America_Southern","1990",0.03036684092142
+213,"Negro",26,"South America_Southern","1995",0.0331078048429315
+213,"Negro",26,"South America_Southern","2000",0.035848768764443
+213,"Negro",26,"South America_Southern","2005",0.0357213065265571
+213,"Negro",26,"South America_Southern","2010",0.0355938442886712
+213,"Negro",26,"South America_Southern","2015",0.0377413131858707
+213,"Negro",26,"South America_Southern","2020",0.0398887820830701
+213,"Negro",26,"South America_Southern","2025",0.0408787632740654
+213,"Negro",26,"South America_Southern","2030",0.0418687444650607
+213,"Negro",26,"South America_Southern","2035",0.0416710149050864
+213,"Negro",26,"South America_Southern","2040",0.0414732853451121
+213,"Negro",26,"South America_Southern","2045",0.0405409289637134
+213,"Negro",26,"South America_Southern","2050",0.0396085725823147
+213,"Negro",26,"South America_Southern","2055",0.0387692373960297
+213,"Negro",26,"South America_Southern","2060",0.0379299022097446
+213,"Negro",26,"South America_Southern","2065",0.0371931244013612
+213,"Negro",26,"South America_Southern","2070",0.0364563465929778
+213,"Negro",26,"South America_Southern","2075",0.0357163655579913
+213,"Negro",26,"South America_Southern","2080",0.0349763845230048
+213,"Negro",26,"South America_Southern","2085",0.0345745762753656
+213,"Negro",26,"South America_Southern","2090",0.0341727680277265
+213,"Negro",26,"South America_Southern","2095",0.0332580106929699
+213,"Negro",26,"South America_Southern","2100",0.0323432533582132
+213,"Negro",31,"Argentina","1980",0.902316328872533
+213,"Negro",31,"Argentina","1985",0.963427031814093
+213,"Negro",31,"Argentina","1990",1.02453773475565
+213,"Negro",31,"Argentina","1995",1.07641273685067
+213,"Negro",31,"Argentina","2000",1.12828773894569
+213,"Negro",31,"Argentina","2005",1.14916735004408
+213,"Negro",31,"Argentina","2010",1.17004696114246
+213,"Negro",31,"Argentina","2015",1.23517030903347
+213,"Negro",31,"Argentina","2020",1.30029365692449
+213,"Negro",31,"Argentina","2025",1.34292873325093
+213,"Negro",31,"Argentina","2030",1.38556380957737
+213,"Negro",31,"Argentina","2035",1.40701218584846
+213,"Negro",31,"Argentina","2040",1.42846056211955
+213,"Negro",31,"Argentina","2045",1.41532701684562
+213,"Negro",31,"Argentina","2050",1.4021934715717
+213,"Negro",31,"Argentina","2055",1.39222920250573
+213,"Negro",31,"Argentina","2060",1.38226493343976
+213,"Negro",31,"Argentina","2065",1.37237941901327
+213,"Negro",31,"Argentina","2070",1.36249390458679
+213,"Negro",31,"Argentina","2075",1.34229312236214
+213,"Negro",31,"Argentina","2080",1.32209234013749
+213,"Negro",31,"Argentina","2085",1.30524760125589
+213,"Negro",31,"Argentina","2090",1.2884028623743
+213,"Negro",31,"Argentina","2095",1.26642767676924
+213,"Negro",31,"Argentina","2100",1.24445249116418
+214,"Central_Patagonia_Highlands",31,"Argentina","1980",0.146729965474879
+214,"Central_Patagonia_Highlands",31,"Argentina","1985",0.156497984924519
+214,"Central_Patagonia_Highlands",31,"Argentina","1990",0.166266004374159
+214,"Central_Patagonia_Highlands",31,"Argentina","1995",0.174073910059503
+214,"Central_Patagonia_Highlands",31,"Argentina","2000",0.181881815744847
+214,"Central_Patagonia_Highlands",31,"Argentina","2005",0.18701583704586
+214,"Central_Patagonia_Highlands",31,"Argentina","2010",0.192149858346873
+214,"Central_Patagonia_Highlands",31,"Argentina","2015",0.203307296389074
+214,"Central_Patagonia_Highlands",31,"Argentina","2020",0.214464734431275
+214,"Central_Patagonia_Highlands",31,"Argentina","2025",0.222683628448103
+214,"Central_Patagonia_Highlands",31,"Argentina","2030",0.230902522464932
+214,"Central_Patagonia_Highlands",31,"Argentina","2035",0.234300933328177
+214,"Central_Patagonia_Highlands",31,"Argentina","2040",0.237699344191422
+214,"Central_Patagonia_Highlands",31,"Argentina","2045",0.233998945883959
+214,"Central_Patagonia_Highlands",31,"Argentina","2050",0.230298547576496
+214,"Central_Patagonia_Highlands",31,"Argentina","2055",0.228526777533348
+214,"Central_Patagonia_Highlands",31,"Argentina","2060",0.2267550074902
+214,"Central_Patagonia_Highlands",31,"Argentina","2065",0.225011432501048
+214,"Central_Patagonia_Highlands",31,"Argentina","2070",0.223267857511897
+214,"Central_Patagonia_Highlands",31,"Argentina","2075",0.219880783227441
+214,"Central_Patagonia_Highlands",31,"Argentina","2080",0.216493708942985
+214,"Central_Patagonia_Highlands",31,"Argentina","2085",0.21310652591063
+214,"Central_Patagonia_Highlands",31,"Argentina","2090",0.209719342878275
+214,"Central_Patagonia_Highlands",31,"Argentina","2095",0.205814416985982
+214,"Central_Patagonia_Highlands",31,"Argentina","2100",0.201909491093689
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","1980",0.157210985561133
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","1985",0.167640924563551
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","1990",0.178070863565969
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","1995",0.189011341672332
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2000",0.199951819778696
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2005",0.203237442143311
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2010",0.206523064507926
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2015",0.209726373990938
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2020",0.212929683473951
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2025",0.216618606193509
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2030",0.220307528913066
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2035",0.220667931621286
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2040",0.221028334329505
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2045",0.216311037568501
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2050",0.211593740807497
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2055",0.206739464911211
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2060",0.201885189014925
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2065",0.199024114472568
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2070",0.196163039930212
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2075",0.191268256284265
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2080",0.186373472638319
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2085",0.182696075931429
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2090",0.179018679224538
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2095",0.174340607253501
+215,"South_Argentina_South_Atlantic_Coast",26,"South America_Southern","2100",0.169662535282465
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","1980",2.34692354679241
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","1985",2.48056571249749
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","1990",2.61420787820256
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","1995",2.72552302993312
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2000",2.83683818166368
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2005",2.8860051559341
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2010",2.93517213020452
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2015",3.09382893229758
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2020",3.25248573439065
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2025",3.33394768283781
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2030",3.41540963128498
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2035",3.47385876539608
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2040",3.53230789950719
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2045",3.53427658885713
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2050",3.53624527820706
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2055",3.54433478573404
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2060",3.55242429326101
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2065",3.54215748336063
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2070",3.53189067346025
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2075",3.49745416759382
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2080",3.46301766172738
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2085",3.43351537862643
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2090",3.40401309552547
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2095",3.42012723158008
+215,"South_Argentina_South_Atlantic_Coast",31,"Argentina","2100",3.4362413676347
+217,"California_River_Basin",20,"Mexico","1980",7.49232105033953
+217,"California_River_Basin",20,"Mexico","1985",7.99990161249224
+217,"California_River_Basin",20,"Mexico","1990",8.50748217464495
+217,"California_River_Basin",20,"Mexico","1995",9.83197014514856
+217,"California_River_Basin",20,"Mexico","2000",11.1564581156522
+217,"California_River_Basin",20,"Mexico","2005",11.0509715015293
+217,"California_River_Basin",20,"Mexico","2010",10.9454848874064
+217,"California_River_Basin",20,"Mexico","2015",11.535089121317
+217,"California_River_Basin",20,"Mexico","2020",12.1246933552277
+217,"California_River_Basin",20,"Mexico","2025",12.4567718463393
+217,"California_River_Basin",20,"Mexico","2030",12.7888503374508
+217,"California_River_Basin",20,"Mexico","2035",13.1619499722449
+217,"California_River_Basin",20,"Mexico","2040",13.535049607039
+217,"California_River_Basin",20,"Mexico","2045",13.9275865963073
+217,"California_River_Basin",20,"Mexico","2050",14.3201235855755
+217,"California_River_Basin",20,"Mexico","2055",14.5904524432703
+217,"California_River_Basin",20,"Mexico","2060",14.8607813009651
+217,"California_River_Basin",20,"Mexico","2065",14.9619057367316
+217,"California_River_Basin",20,"Mexico","2070",15.0630301724981
+217,"California_River_Basin",20,"Mexico","2075",15.1698839783506
+217,"California_River_Basin",20,"Mexico","2080",15.2767377842031
+217,"California_River_Basin",20,"Mexico","2085",15.3523623530392
+217,"California_River_Basin",20,"Mexico","2090",15.4279869218752
+217,"California_River_Basin",20,"Mexico","2095",15.6532314499033
+217,"California_River_Basin",20,"Mexico","2100",15.8784759779314
+221,"Lower_Colorado_River_Basin",20,"Mexico","1980",1.87176584543017
+221,"Lower_Colorado_River_Basin",20,"Mexico","1985",1.98521938978262
+221,"Lower_Colorado_River_Basin",20,"Mexico","1990",2.09867293413508
+221,"Lower_Colorado_River_Basin",20,"Mexico","1995",2.39844478778111
+221,"Lower_Colorado_River_Basin",20,"Mexico","2000",2.69821664142714
+221,"Lower_Colorado_River_Basin",20,"Mexico","2005",2.69670034124257
+221,"Lower_Colorado_River_Basin",20,"Mexico","2010",2.69518404105799
+221,"Lower_Colorado_River_Basin",20,"Mexico","2015",2.79144710521909
+221,"Lower_Colorado_River_Basin",20,"Mexico","2020",2.8877101693802
+221,"Lower_Colorado_River_Basin",20,"Mexico","2025",2.93296995018668
+221,"Lower_Colorado_River_Basin",20,"Mexico","2030",2.97822973099317
+221,"Lower_Colorado_River_Basin",20,"Mexico","2035",3.01920771919812
+221,"Lower_Colorado_River_Basin",20,"Mexico","2040",3.06018570740306
+221,"Lower_Colorado_River_Basin",20,"Mexico","2045",3.0801646080069
+221,"Lower_Colorado_River_Basin",20,"Mexico","2050",3.10014350861073
+221,"Lower_Colorado_River_Basin",20,"Mexico","2055",3.10216410140267
+221,"Lower_Colorado_River_Basin",20,"Mexico","2060",3.10418469419462
+221,"Lower_Colorado_River_Basin",20,"Mexico","2065",3.10532989682105
+221,"Lower_Colorado_River_Basin",20,"Mexico","2070",3.10647509944748
+221,"Lower_Colorado_River_Basin",20,"Mexico","2075",3.10134849652285
+221,"Lower_Colorado_River_Basin",20,"Mexico","2080",3.09622189359822
+221,"Lower_Colorado_River_Basin",20,"Mexico","2085",3.09243156671916
+221,"Lower_Colorado_River_Basin",20,"Mexico","2090",3.08864123984009
+221,"Lower_Colorado_River_Basin",20,"Mexico","2095",3.07990180918216
+221,"Lower_Colorado_River_Basin",20,"Mexico","2100",3.07116237852423
+231,"Rio_Grande_River_Basin",20,"Mexico","1980",10.069723996144
+231,"Rio_Grande_River_Basin",20,"Mexico","1985",10.690600570218
+231,"Rio_Grande_River_Basin",20,"Mexico","1990",11.311477144292
+231,"Rio_Grande_River_Basin",20,"Mexico","1995",12.9917925183184
+231,"Rio_Grande_River_Basin",20,"Mexico","2000",14.6721078923448
+231,"Rio_Grande_River_Basin",20,"Mexico","2005",14.8721013632816
+231,"Rio_Grande_River_Basin",20,"Mexico","2010",15.0720948342183
+231,"Rio_Grande_River_Basin",20,"Mexico","2015",15.6138801740959
+231,"Rio_Grande_River_Basin",20,"Mexico","2020",16.1556655139734
+231,"Rio_Grande_River_Basin",20,"Mexico","2025",16.5234938413833
+231,"Rio_Grande_River_Basin",20,"Mexico","2030",16.8913221687933
+231,"Rio_Grande_River_Basin",20,"Mexico","2035",17.0885979946077
+231,"Rio_Grande_River_Basin",20,"Mexico","2040",17.2858738204222
+231,"Rio_Grande_River_Basin",20,"Mexico","2045",17.2558384176127
+231,"Rio_Grande_River_Basin",20,"Mexico","2050",17.2258030148033
+231,"Rio_Grande_River_Basin",20,"Mexico","2055",17.0739842502345
+231,"Rio_Grande_River_Basin",20,"Mexico","2060",16.9221654856657
+231,"Rio_Grande_River_Basin",20,"Mexico","2065",16.7856560941591
+231,"Rio_Grande_River_Basin",20,"Mexico","2070",16.6491467026525
+231,"Rio_Grande_River_Basin",20,"Mexico","2075",16.431337298561
+231,"Rio_Grande_River_Basin",20,"Mexico","2080",16.2135278944694
+231,"Rio_Grande_River_Basin",20,"Mexico","2085",16.0811970682312
+231,"Rio_Grande_River_Basin",20,"Mexico","2090",15.9488662419929
+231,"Rio_Grande_River_Basin",20,"Mexico","2095",15.6243941052992
+231,"Rio_Grande_River_Basin",20,"Mexico","2100",15.2999219686055
